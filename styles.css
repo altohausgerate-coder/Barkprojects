@@ -28,9 +28,9 @@ img { max-width: 100%; }
 .brand-type { display: grid; gap: 2px; }
 .brand-type strong { font-family: "Michroma", sans-serif; font-size: 14px; letter-spacing: .11em; line-height: 1; }
 .brand-type span { font-size: 7px; letter-spacing: .52em; color: var(--silver); }
-.desktop-nav { grid-area: nav; display: flex; align-items: center; gap: clamp(18px, 2vw, 34px); }
-.nav-link { position: relative; padding: 36px 0 34px; color: rgba(246, 240, 232, .74); font-size: 10px; font-weight: 500; letter-spacing: .1em; text-transform: uppercase; white-space: nowrap; transition: color .25s ease; }
-.nav-link::after { content: ""; position: absolute; left: 0; right: 100%; bottom: 25px; height: 1px; background: var(--copper); transition: right .35s var(--ease); }
+.desktop-nav { grid-area: nav; display: flex; align-items: center; gap: clamp(24px, 2.35vw, 42px); }
+.nav-link { position: relative; padding: 35px 0 33px; color: rgba(246, 240, 232, .88); font-size: clamp(12px, .82vw, 14px); font-weight: 600; line-height: 1.3; letter-spacing: .085em; text-transform: uppercase; white-space: nowrap; text-rendering: geometricPrecision; transition: color .25s ease; }
+.nav-link::after { content: ""; position: absolute; left: 0; right: 100%; bottom: 22px; height: 2px; background: var(--copper); transition: right .35s var(--ease); }
 .nav-link:hover, .nav-link.active { color: var(--ivory); }
 .nav-link:hover::after, .nav-link.active::after { right: 0; }
 .header-phone { grid-area: phone; display: flex; align-items: center; gap: 12px; font-size: 11px; letter-spacing: .07em; }
@@ -303,7 +303,7 @@ img { max-width: 100%; }
   .menu-open .desktop-nav, .menu-open .header-phone { display: flex; }
   .menu-open .menu-toggle span:first-child { transform: translateY(3.5px) rotate(45deg); }
   .menu-open .menu-toggle span:last-child { transform: translateY(-3.5px) rotate(-45deg); }
-  .nav-link { width: 100%; padding: 15px 0; border-bottom: 1px solid var(--line); font-size: 13px; }
+  .nav-link { width: 100%; padding: 17px 0; border-bottom: 1px solid var(--line); font-size: 15px; letter-spacing: .075em; }
   .nav-link::after { display: none; }
   .hero { min-height: 100svh; padding-top: 145px; }
   .hero-media, .hero-overlay { inset-block-start: 78px; }
