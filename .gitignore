@@ -1,0 +1,17 @@
+# Local working files
+tmp/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment files
+.env
+.env.*
+
+# Generated previews that are not used by the website
+assets/projects/catalog/catalog-preview.jpg
+assets/projects/alternates/
+eng.traineddata
