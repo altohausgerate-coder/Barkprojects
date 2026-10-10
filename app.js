@@ -178,6 +178,13 @@ window.addEventListener("scroll", () => {
 }, { passive: true });
 updateHeroMotion();
 
+document.querySelectorAll('.footer-action[href="#top"]').forEach((link) => {
+  link.addEventListener("click", (event) => {
+    event.preventDefault();
+    window.scrollTo({ top: 0, left: 0, behavior: reduceMotion.matches ? "auto" : "smooth" });
+  });
+});
+
 fetch("projects.json")
   .then((response) => {
     if (!response.ok) throw new Error("Project catalogue could not be loaded");

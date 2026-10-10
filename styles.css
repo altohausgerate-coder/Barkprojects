@@ -410,6 +410,7 @@ img { max-width: 100%; }
   .footer-grid { gap: 64px; padding-block: 76px 54px; }
   .footer-column + .footer-column { border: 0; }
   .footer-action { margin-bottom: 32px; }
+  .footer-action i { display: none; }
   .footer-panel { min-height: 0; }
   .footer-bottom { grid-template-columns: 1fr; gap: 8px; padding-block: 20px; text-align: left; }
   .footer-bottom span:last-child { justify-self: start; }
