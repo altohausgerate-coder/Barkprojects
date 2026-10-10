@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Michroma&family=Montserrat:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css?v=8" />
+  <link rel="stylesheet" href="styles.css?v=10" />
 </head>
 <body>
   <header class="site-header" id="top">
@@ -28,12 +28,30 @@
   </header>
   <main>
     <section class="hero" id="home" aria-labelledby="hero-title">
-      <div class="hero-media" aria-hidden="true"><img src="assets/hero/bark-home-hero.webp" alt="" /></div>
+      <div class="hero-media" aria-hidden="true">
+        <img class="hero-slide is-active" src="assets/hero/bark-home-hero.webp" alt="" />
+        <img class="hero-slide" alt="" />
+      </div>
       <div class="hero-overlay" aria-hidden="true"></div>
       <div class="hero-content">
         <h1 id="hero-title">Məkanın<br /><span>xarakteri.</span></h1>
         <p class="hero-copy">Mebeldən pərdə və tekstilə qədər məkan üçün lazım olan hər şeyi vahid layihədə birləşdiririk.</p>
       </div>
+      <div class="hero-slider" role="group" aria-label="Seçilmiş məkanlar">
+        <span class="hero-slide-caption" id="hero-slide-caption" aria-live="polite">BARK PROJECTS · 01</span>
+        <button class="hero-slider-arrow" type="button" data-hero-step="-1" aria-label="Əvvəlki görüntü">←</button>
+        <div class="hero-slider-pages" role="group" aria-label="Görüntü seçimi">
+          <button type="button" data-hero-index="0" aria-label="Görüntü 1" aria-current="true">01</button>
+          <button type="button" data-hero-index="1" aria-label="Görüntü 2">02</button>
+          <button type="button" data-hero-index="2" aria-label="Görüntü 3">03</button>
+          <button type="button" data-hero-index="3" aria-label="Görüntü 4">04</button>
+          <button type="button" data-hero-index="4" aria-label="Görüntü 5">05</button>
+          <button type="button" data-hero-index="5" aria-label="Görüntü 6">06</button>
+          <button type="button" data-hero-index="6" aria-label="Görüntü 7">07</button>
+        </div>
+        <button class="hero-slider-arrow" type="button" data-hero-step="1" aria-label="Növbəti görüntü">→</button>
+      </div>
+      <div class="scroll-cue" aria-hidden="true"><span>Aşağı sürüşdür</span><b>↓</b><span class="scroll-line"></span></div>
     </section>
     <section class="home-statement section-wrap" aria-labelledby="statement-title">
       <p class="eyebrow copper" data-reveal>MEBEL · TEKSTİL · TAM TƏCHİZAT</p>
@@ -42,7 +60,7 @@
     </section>
     <section class="selected-projects section-wrap" aria-labelledby="selected-title">
       <div class="selected-heading" data-reveal><span></span><h2 id="selected-title">Selected Projects</h2><span></span></div>
-      <div class="selected-grid">
+      <div class="selected-grid" data-reveal-stagger>
         <a class="selected-card" href="projects.html" data-reveal><img src="assets/projects/web/ritz.webp" alt="The Ritz-Carlton Hotel layihəsi" loading="lazy" /><span><b>The Ritz-Carlton Hotel</b><small>Bakı · Otelçilik</small></span></a>
         <a class="selected-card" href="projects.html" data-reveal><img src="assets/projects/web/porttower.webp" alt="Port Baku Tower 2 layihəsi" loading="lazy" /><span><b>Port Baku Tower 2</b><small>Bakı · Korporativ</small></span></a>
         <a class="selected-card" href="projects.html" data-reveal><img src="assets/projects/web/seabreeze.webp" alt="Sea Breeze Grand Hotel layihəsi" loading="lazy" /><span><b>Sea Breeze Grand Hotel</b><small>Nardaran · Otelçilik</small></span></a>
@@ -58,7 +76,7 @@
   <footer class="site-footer premium-footer" id="footer">
     <div class="footer-glow" aria-hidden="true"></div>
     <div class="footer-shell">
-      <div class="footer-grid">
+      <div class="footer-grid" data-reveal-stagger>
         <div class="footer-column">
           <a class="footer-action" href="https://wa.me/994514188764?text=Salam%2C%20BARK%20PROJECTS%20haqq%C4%B1nda%20m%C9%99lumat%20almaq%20ist%C9%99yir%C9%99m." target="_blank" rel="noopener"><span>WhatsApp</span><i>↗</i></a>
           <div class="footer-panel footer-identity">
@@ -100,7 +118,8 @@
       <div class="footer-bottom"><span>© 2026 BARK PROJECTS</span><span>BAKI · AZƏRBAYCAN</span><span>BÜTÜN HÜQUQLAR QORUNUR</span></div>
     </div>
   </footer>
-  <script src="page.js?v=2"></script>
+  <script src="motion.js?v=2"></script>
+  <script src="page.js?v=3"></script>
 </body>
 </html>
 

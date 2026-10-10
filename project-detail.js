@@ -62,9 +62,11 @@ function setProject(project, projects) {
   const hero = document.querySelector("#detail-image");
   hero.src = project.image;
   hero.alt = project.alt || title;
+  hero.dataset.galleryIndex = "0";
   const secondary = document.querySelector("#detail-image-secondary");
   secondary.src = project.secondaryImage || relatedImage(project, projects);
   secondary.alt = `${title} layihəsindən görüntü`;
+  secondary.dataset.galleryIndex = "1";
 
   const prevLink = document.querySelector("#project-prev");
   prevLink.href = `project.html?id=${encodeURIComponent(previous.id)}`;
@@ -73,6 +75,52 @@ function setProject(project, projects) {
   nextLink.href = `project.html?id=${encodeURIComponent(next.id)}`;
   nextLink.querySelector("strong").textContent = displayTitle(next);
 }
+
+const detailLightbox = document.querySelector("#detail-lightbox");
+const detailLightboxImage = document.querySelector("#detail-lightbox-image");
+let detailLightboxIndex = 0;
+
+function updateDetailLightbox(step = 0) {
+  const sourceImages = [document.querySelector("#detail-image"), document.querySelector("#detail-image-secondary")];
+  const imageSources = sourceImages.map((image) => image.currentSrc || image.src).filter(Boolean);
+  if (!imageSources.length) return;
+  detailLightboxIndex = (detailLightboxIndex + step + imageSources.length) % imageSources.length;
+  const source = sourceImages[detailLightboxIndex];
+  const title = document.querySelector("#detail-title").textContent;
+  const count = document.querySelector("#detail-lightbox-count");
+  document.querySelector("#detail-lightbox-title").textContent = title;
+  count.textContent = `${String(detailLightboxIndex + 1).padStart(2, "0")} / ${String(imageSources.length).padStart(2, "0")}`;
+  detailLightboxImage.classList.remove("is-visible");
+  detailLightboxImage.alt = source.alt;
+  detailLightboxImage.onload = () => requestAnimationFrame(() => detailLightboxImage.classList.add("is-visible"));
+  detailLightboxImage.src = imageSources[detailLightboxIndex];
+  if (detailLightboxImage.complete) requestAnimationFrame(() => detailLightboxImage.classList.add("is-visible"));
+}
+
+function openDetailLightbox(index) {
+  detailLightboxIndex = index;
+  updateDetailLightbox();
+  if (!detailLightbox.open) detailLightbox.showModal();
+}
+
+document.querySelectorAll("#detail-image, #detail-image-secondary").forEach((image) => {
+  image.addEventListener("click", () => openDetailLightbox(Number(image.dataset.galleryIndex || 0)));
+  image.addEventListener("keydown", (event) => {
+    if (event.key !== "Enter" && event.key !== " ") return;
+    event.preventDefault();
+    openDetailLightbox(Number(image.dataset.galleryIndex || 0));
+  });
+});
+document.querySelector("#detail-lightbox .dialog-close").addEventListener("click", () => detailLightbox.close());
+document.querySelector(".detail-lightbox-prev").addEventListener("click", () => updateDetailLightbox(-1));
+document.querySelector(".detail-lightbox-next").addEventListener("click", () => updateDetailLightbox(1));
+detailLightbox.addEventListener("click", (event) => {
+  if (event.target === detailLightbox) detailLightbox.close();
+});
+detailLightbox.addEventListener("keydown", (event) => {
+  if (event.key === "ArrowLeft") updateDetailLightbox(-1);
+  if (event.key === "ArrowRight") updateDetailLightbox(1);
+});
 
 fetch("projects.json")
   .then((response) => response.json())

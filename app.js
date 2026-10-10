@@ -52,7 +52,8 @@ function render() {
     card.className = "project-card";
     card.href = `project.html?id=${encodeURIComponent(project.id)}`;
     card.setAttribute("aria-label", `${projectDisplayTitle(project)}, ${project.location}`);
-    card.style.animationDelay = `${Math.min(index, 10) * 55}ms`;
+    card.style.setProperty("--reveal-delay", `${(index % 6) * 55}ms`);
+    card.setAttribute("data-reveal", "");
 
     const picture = document.createElement("div");
     picture.className = "project-image";
@@ -87,6 +88,7 @@ function render() {
   });
   cards.forEach((card, index) => columns[index % columnCount].append(card));
   grid.replaceChildren(...columns);
+  grid.querySelectorAll("[data-reveal]").forEach((card) => window.BarkMotion?.observeReveals(card));
   empty.hidden = visible.length !== 0;
   grid.hidden = visible.length === 0;
 }
@@ -133,55 +135,15 @@ window.addEventListener("resize", () => {
   }
 });
 
-const menuToggle = document.querySelector(".menu-toggle");
-menuToggle.addEventListener("click", () => {
-  const open = document.querySelector(".site-header").classList.toggle("menu-open");
-  menuToggle.setAttribute("aria-expanded", String(open));
-  menuToggle.setAttribute("aria-label", open ? "Menyunu bağla" : "Menyunu aç");
-});
-document.querySelectorAll(".desktop-nav a, .header-phone").forEach((link) => link.addEventListener("click", () => {
-  document.querySelector(".site-header").classList.remove("menu-open");
-  menuToggle.setAttribute("aria-expanded", "false");
-}));
-
 document.querySelectorAll('a[href^="#"]').forEach((link) => link.addEventListener("click", () => {
   document.querySelector(".desktop-nav .active")?.classList.remove("active");
   document.querySelector(`.desktop-nav a[href="${link.getAttribute("href")}"]`)?.classList.add("active");
 }));
 
-const revealObserver = new IntersectionObserver((entries) => {
-  entries.forEach((entry) => {
-    if (!entry.isIntersecting) return;
-    entry.target.classList.add("is-visible");
-    revealObserver.unobserve(entry.target);
-  });
-}, { threshold: .14 });
-document.querySelectorAll("[data-reveal]").forEach((item) => revealObserver.observe(item));
-
-const hero = document.querySelector(".hero");
-const heroMedia = document.querySelector(".hero-media");
-const heroContent = document.querySelector(".hero-content");
-const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
-let heroFrame = 0;
-
-function updateHeroMotion() {
-  heroFrame = 0;
-  if (reduceMotion.matches || !hero || window.scrollY > hero.offsetHeight) return;
-  const progress = Math.min(window.scrollY / Math.max(hero.offsetHeight, 1), 1);
-  heroMedia.style.transform = `translate3d(0, ${progress * 74}px, 0)`;
-  heroContent.style.transform = `translate3d(0, ${progress * -38}px, 0)`;
-  heroContent.style.opacity = String(1 - progress * .76);
-}
-
-window.addEventListener("scroll", () => {
-  if (!heroFrame) heroFrame = requestAnimationFrame(updateHeroMotion);
-}, { passive: true });
-updateHeroMotion();
-
 document.querySelectorAll('.footer-action[href="#top"]').forEach((link) => {
   link.addEventListener("click", (event) => {
     event.preventDefault();
-    window.scrollTo({ top: 0, left: 0, behavior: reduceMotion.matches ? "auto" : "smooth" });
+    window.scrollTo({ top: 0, left: 0, behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
   });
 });
 

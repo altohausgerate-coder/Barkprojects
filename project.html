@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Michroma&family=Montserrat:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css?v=8" />
+  <link rel="stylesheet" href="styles.css?v=10" />
 </head>
 <body class="project-detail-page">
   <header class="site-header" id="top">
@@ -29,7 +29,7 @@
 
   <main id="project-detail" aria-live="polite">
     <section class="detail-hero" aria-labelledby="detail-title">
-      <img id="detail-image" src="" alt="" />
+      <img id="detail-image" src="" alt="" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Şəkli böyüt" />
       <div class="detail-shade" aria-hidden="true"></div>
       <div class="detail-hero-copy">
         <a class="detail-back" href="projects.html">← Bütün layihələr</a>
@@ -57,7 +57,7 @@
     </section>
 
     <section class="detail-image-section section-wrap" data-reveal>
-      <img id="detail-image-secondary" src="" alt="" loading="lazy" />
+      <img id="detail-image-secondary" src="" alt="" loading="lazy" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Şəkli böyüt" />
     </section>
 
     <nav class="detail-pagination" aria-label="Layihələr arasında keçid">
@@ -69,7 +69,7 @@
   <footer class="site-footer premium-footer" id="footer">
     <div class="footer-glow" aria-hidden="true"></div>
     <div class="footer-shell">
-      <div class="footer-grid">
+      <div class="footer-grid" data-reveal-stagger>
         <div class="footer-column">
           <a class="footer-action" href="https://wa.me/994514188764?text=Salam%2C%20BARK%20PROJECTS%20haqq%C4%B1nda%20m%C9%99lumat%20almaq%20ist%C9%99yir%C9%99m." target="_blank" rel="noopener"><span>WhatsApp</span><i>↗</i></a>
           <div class="footer-panel footer-identity">
@@ -111,8 +111,20 @@
       <div class="footer-bottom"><span>© 2026 BARK PROJECTS</span><span>BAKI · AZƏRBAYCAN</span><span>BÜTÜN HÜQUQLAR QORUNUR</span></div>
     </div>
   </footer>
-  <script src="page.js?v=2"></script>
-  <script src="project-detail.js?v=3"></script>
+  <dialog class="project-dialog detail-lightbox" id="detail-lightbox" aria-labelledby="detail-lightbox-title">
+    <div class="dialog-bar">
+      <div><p class="eyebrow copper">LAYİHƏ GÖRÜNTÜSÜ</p><h2 id="detail-lightbox-title"></h2></div>
+      <button class="dialog-close" type="button" aria-label="Bağla">×</button>
+    </div>
+    <div class="dialog-image-wrap"><img id="detail-lightbox-image" alt="" /></div>
+    <div class="dialog-content">
+      <p class="dialog-location" id="detail-lightbox-count" aria-live="polite"></p>
+      <div class="dialog-controls"><button type="button" class="detail-lightbox-prev" aria-label="Əvvəlki görüntü">←</button><button type="button" class="detail-lightbox-next" aria-label="Növbəti görüntü">→</button></div>
+    </div>
+  </dialog>
+  <script src="motion.js?v=2"></script>
+  <script src="page.js?v=3"></script>
+  <script src="project-detail.js?v=4"></script>
 </body>
 </html>
 
