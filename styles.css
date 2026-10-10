@@ -64,13 +64,7 @@ img { max-width: 100%; }
 .hero-slider-pages button[aria-current="true"] { color: var(--ivory); }
 .hero-slider-pages button[aria-current="true"]::after { right: 0; }
 .hero-slider-arrow { padding: 4px; color: var(--copper) !important; font-size: 15px; }
-.scroll-cue { position: absolute; right: var(--page-x); bottom: 72px; display: flex; align-items: center; gap: 14px; color: var(--ivory); font-size: 9px; font-weight: 500; letter-spacing: .18em; text-transform: uppercase; }
-.scroll-cue b { font-weight: 500; }
-.scroll-cue i { color: var(--copper); font-size: 16px; font-style: normal; animation: cue-down 1.8s ease-in-out infinite; }
-.scroll-line { width: 64px; height: 1px; overflow: hidden; background: rgba(246,240,232,.35); }
-.scroll-line::after { content: ""; display: block; width: 45%; height: 100%; background: var(--copper); animation: cue-line 2.2s var(--ease) infinite; }
 @keyframes cue-down { 0%,100% { transform: translateY(0); } 50% { transform: translateY(6px); } }
-@keyframes cue-line { 0% { transform: translateX(-110%); } 65%,100% { transform: translateX(240%); } }
 
 .section-wrap { padding-inline: var(--page-x); }
 .home-statement { padding-block: clamp(110px, 12vw, 190px); text-align: center; }
@@ -380,7 +374,6 @@ img { max-width: 100%; }
   .hero-media img { object-position: 62% center; }
   .hero h1 { font-size: clamp(58px, 20vw, 88px); }
   .hero-copy { max-width: 90%; margin-top: 24px; }
-  .scroll-cue { right: auto; left: var(--page-x); bottom: 22px; }
   .hero-slider { right: var(--page-x); bottom: 12px; gap: 8px; }
   .hero-slide-caption { display: none; }
   .hero-slider-pages { gap: 5px; }
