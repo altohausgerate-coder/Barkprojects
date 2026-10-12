@@ -29,14 +29,15 @@ const revealObserver = "IntersectionObserver" in window
         entry.target.classList.add("is-visible");
         observer.unobserve(entry.target);
       });
-    }, { threshold: 0.12, rootMargin: "0px 0px -5% 0px" })
+    }, { threshold: 0.12, rootMargin: "0px 0px 220px 0px" })
   : null;
 
 function observeReveals(root = document) {
   root.querySelectorAll?.("[data-reveal-stagger]").forEach((group) => {
     [...group.children].forEach((item, index) => {
       item.setAttribute("data-reveal", "");
-      item.style.setProperty("--reveal-delay", `${(index % 5) * 45}ms`);
+      if (item.matches("img") || item.querySelector("img")) item.style.removeProperty("--reveal-delay");
+      else item.style.setProperty("--reveal-delay", `${(index % 5) * 45}ms`);
     });
   });
   const items = root.matches?.("[data-reveal]")
@@ -65,6 +66,12 @@ const heroSlideDetails = [
   { image: "assets/projects/web/marriott.webp", label: "MARRIOTT HOTEL BOULEVARD" },
   { image: "assets/projects/web/lachin.webp", label: "LACHIN RESORT & SPA" },
 ];
+if (hero) {
+  heroSlideDetails.slice(1).forEach(({ image }) => {
+    const preload = new Image();
+    preload.src = image;
+  });
+}
 let heroSlideIndex = 0;
 let activeHeroLayer = 0;
 let heroTimer = 0;

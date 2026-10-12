@@ -52,7 +52,6 @@ function render() {
     card.className = "project-card";
     card.href = `project.html?id=${encodeURIComponent(project.id)}`;
     card.setAttribute("aria-label", `${projectDisplayTitle(project)}, ${project.location}`);
-    card.style.setProperty("--reveal-delay", `${(index % 6) * 55}ms`);
     card.setAttribute("data-reveal", "");
 
     const picture = document.createElement("div");
@@ -60,7 +59,7 @@ function render() {
     const image = document.createElement("img");
     image.src = project.image;
     image.alt = project.alt || `${project.title} layihəsinin fotosu`;
-    image.loading = index < 3 ? "eager" : "lazy";
+    image.loading = index < 6 ? "eager" : "lazy";
     image.decoding = "async";
     picture.append(image);
 
