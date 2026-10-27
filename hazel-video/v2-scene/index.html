@@ -1,0 +1,344 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link rel="stylesheet" href="../../lib/base.css">
+<style>
+ :root{--navy:#061650;--blue:#0a2c96;--brand:#01288f;--ink:#fbf8f1;--gold1:#f4dfa4;--gold2:#cfa654;--gold3:#9a7531;--green:#1f9a3c;
+   --f-head:'Cormorant Garamond',serif;--f-body:'Manrope',sans-serif;--hs:112px;--ls:40px;--u:1}
+ body.f45{--hs:96px;--ls:36px;--u:.82}
+ body.f169{--hs:100px;--ls:34px;--u:.8}
+ html,body{background:var(--navy)}
+ #bg{background:radial-gradient(150% 110% at 50% 40%,#0d36b0,#081d6e 50%,#030b30)}
+ .bk{position:absolute;border-radius:50%;background:radial-gradient(circle,rgba(244,223,164,.42),rgba(244,223,164,.14) 45%,rgba(244,223,164,0) 70%)}
+ .p{position:absolute;border-radius:50%;background:var(--gold1);box-shadow:0 0 10px rgba(244,223,164,.8)}
+
+ /* text zones */
+ .tz{position:absolute;left:90px;right:90px;top:220px;text-align:center;z-index:20}
+ body.f45 .tz{left:70px;right:70px;top:70px}
+ body.f169 .tz{left:130px;right:auto;width:720px;top:0;bottom:0;display:flex;flex-direction:column;justify-content:center;text-align:left}
+ .lead{font:500 var(--ls)/1.3 var(--f-body);color:rgba(251,248,241,.92);letter-spacing:.02em}
+ .big{font:600 var(--hs)/.98 var(--f-head);color:var(--ink);margin-top:18px;letter-spacing:-.005em}
+ .big .accent,.gold{font-style:italic;font-weight:600;background:linear-gradient(180deg,var(--gold1),var(--gold2) 62%,var(--gold3));-webkit-background-clip:text;background-clip:text;color:transparent;padding:0 .06em}
+ .rule{height:3px;width:110px;background:linear-gradient(90deg,var(--gold2),var(--gold1));margin-top:26px;border-radius:3px}
+ .tz .rule{margin-left:auto;margin-right:auto} body.f169 .tz .rule{margin-left:0}
+ .shadeT{text-shadow:0 4px 30px rgba(0,0,0,.45)}
+
+ /* media zone */
+ .mz{position:absolute;left:90px;top:780px;width:900px;height:740px}
+ body.f45 .mz{left:110px;top:470px;width:860px;height:800px}
+ body.f169 .mz{left:900px;top:110px;width:900px;height:860px}
+
+ /* full-bleed heroes */
+ .hero{position:absolute;inset:0;overflow:hidden}
+ .hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+ .hero .shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(4,12,48,.92) 0%,rgba(4,12,48,.6) 30%,rgba(4,12,48,0) 52%,rgba(4,12,48,0) 80%,rgba(4,12,48,.5))}
+ body.f45 .hero .shade{background:linear-gradient(180deg,rgba(4,12,48,.92) 0%,rgba(4,12,48,.55) 34%,rgba(4,12,48,0) 58%)}
+ body.f169 .hero .shade{background:linear-gradient(90deg,rgba(4,12,48,.94) 0%,rgba(4,12,48,.7) 34%,rgba(4,12,48,0) 60%)}
+
+ /* card carousel */
+ .card3{position:absolute;left:16%;top:2%;width:68%;height:96%;border-radius:36px;overflow:hidden;box-shadow:0 40px 90px rgba(0,0,0,.55)}
+ .card3 img{width:100%;height:100%;object-fit:cover}
+ .card3 .dim{position:absolute;inset:0;background:#030b30}
+ .c3wrap{position:absolute;inset:0;perspective:1800px}
+
+ /* hazel book-box */
+ .boxwrap{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
+ .box{position:relative;width:78%;aspect-ratio:700/580;perspective:2200px}
+ .tray{position:absolute;inset:0;border-radius:16px;background:linear-gradient(160deg,#fbf8f2,#e3ddd1);box-shadow:0 50px 120px rgba(0,0,0,.55)}
+ .grid{position:absolute;inset:5.5%;border-radius:8px;background:#3b1e12;display:grid;grid-template-columns:repeat(5,1fr);grid-template-rows:repeat(4,1fr);gap:1.4%;padding:1.8%;box-shadow:inset 0 0 0 3px #2a1409}
+ .cup{border-radius:10px;background:repeating-linear-gradient(90deg,#4a2717 0 5px,#3a1d10 5px 10px);display:flex;align-items:center;justify-content:center;box-shadow:inset 0 6px 12px rgba(0,0,0,.6)}
+ .choc{width:74%;height:74%;position:relative;box-shadow:0 7px 12px rgba(0,0,0,.5),inset -5px -7px 12px rgba(0,0,0,.35)}
+ .choc.sq{border-radius:12%;background:repeating-linear-gradient(0deg,#9a6440 0 7px,#7d4c2e 7px 10px)}
+ .choc.dk{border-radius:14%;background:linear-gradient(145deg,#4a2618,#24100a)}
+ .choc.ov{width:70%;height:80%;border-radius:50%;background:radial-gradient(circle at 35% 30%,#b88560,#8a5636 60%,#5e351f)}
+ .choc.st{width:70%;height:80%;border-radius:50%;background:repeating-linear-gradient(20deg,transparent 0 9px,rgba(246,236,220,.95) 9px 12px,transparent 12px 22px),radial-gradient(circle at 35% 30%,#a0704c,#73452a 60%,#4e2c18)}
+ .choc.bl{border-radius:50%;background:radial-gradient(circle,rgba(246,220,150,.95) 1px,transparent 1.6px) 0 0/9px 11px,radial-gradient(circle at 35% 30%,#6f93ff,#2a4bb8 50%,#0f1e5a)}
+ .choc.wn::after{content:'';position:absolute;left:14%;top:12%;width:72%;height:64%;border-radius:40%;background:radial-gradient(circle at 30% 30%,#e8b867 0 18%,transparent 19%),radial-gradient(circle at 70% 30%,#d9a454 0 18%,transparent 19%),radial-gradient(circle at 30% 70%,#d9a454 0 18%,transparent 19%),radial-gradient(circle at 70% 70%,#e8b867 0 18%,transparent 19%),radial-gradient(circle at 50% 50%,#c48a3e 0 30%,transparent 31%)}
+ .choc.gf::after{content:'';position:absolute;inset:22%;background:radial-gradient(circle,#f6dc96 1.6px,transparent 2.2px) 0 0/10px 9px,radial-gradient(circle,#e2b866 1.4px,transparent 2px) 4px 5px/12px 10px}
+ .lid{position:absolute;inset:-1%;transform-origin:50% 0;transform-style:preserve-3d}
+ .lid .face,.lid .back{position:absolute;inset:0;border-radius:18px;backface-visibility:hidden;overflow:hidden}
+ .lid .face{background:radial-gradient(120% 90% at 30% 20%,rgba(255,255,255,.10),transparent 60%),repeating-radial-gradient(circle at 20% 30%,rgba(0,0,0,.06) 0 2px,transparent 2px 5px),#0c1f63;box-shadow:0 40px 110px rgba(0,0,0,.55),inset 0 0 0 12px #0c1f63,inset 0 0 0 14px rgba(255,255,255,.14);display:flex;flex-direction:column;align-items:center;justify-content:center}
+ .lid .back{transform:rotateX(180deg);background:linear-gradient(180deg,#f3f0e8,#dcd6ca)}
+ .lid .face .e{width:26%} .lid .face .w{width:44%;margin-top:6%}
+
+ /* photo card */
+ .pcard{position:absolute;inset:0;border-radius:40px;overflow:hidden;box-shadow:0 40px 100px rgba(0,0,0,.55)}
+ .pcard img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+ .ring{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
+ .ring .rw{position:relative;width:calc(520px * var(--u));height:calc(520px * var(--u))}
+ .ring svg{position:absolute;inset:0}
+ .ring .num{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
+ .ring .n{font:700 calc(330px * var(--u))/1 var(--f-head);margin-top:-6%}
+ .ring .n span{position:absolute;left:50%;top:50%;transform:translate(-50%,-58%)}
+ .ring .g{position:absolute;bottom:20%;font:700 calc(30px * var(--u)) var(--f-body);letter-spacing:.4em;padding-left:.4em;color:var(--ink)}
+
+ /* brand / lockup */
+ #S5{z-index:15}
+ #brandbg{background:radial-gradient(140% 100% at 50% 40%,#0838c2,var(--brand) 45%,#011a63)}
+ .lockL{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
+ .lock{display:flex;flex-direction:column;align-items:center}
+ .lock .e{width:calc(250px * var(--u))}
+ .lock .w{width:calc(560px * var(--u));margin-top:calc(34px * var(--u))}
+ .lock .t{display:flex;align-items:center;gap:22px;margin-top:calc(20px * var(--u));font:500 calc(44px * var(--u)) var(--f-head);letter-spacing:.14em;color:var(--ink)}
+ .lock .t i{display:block;height:2px;width:calc(70px * var(--u));background:var(--ink);opacity:.85}
+ .tiles{position:absolute;left:90px;right:90px;top:860px;height:640px;display:flex;flex-direction:column}
+ body.f45 .tiles{left:70px;right:70px;top:470px;height:800px}
+ body.f169 .tiles{left:900px;right:110px;top:150px;height:780px}
+ .tiles .lead{text-align:center;margin-bottom:30px}
+ .trow{flex:1;display:flex;gap:24px}
+ .tile{flex:1;position:relative;border-radius:30px;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.45)}
+ .tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+ .tile::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,transparent 45%,rgba(3,11,48,.88))}
+ .tile .lb{position:absolute;left:0;right:0;bottom:7%;text-align:center;z-index:2;font:600 italic calc(60px * var(--u)) var(--f-head);color:var(--gold1)}
+
+ /* strips */
+ .strips{position:absolute;left:0;right:0;top:700px;bottom:0;display:flex;flex-direction:column;gap:10px}
+ body.f45 .strips{top:470px;flex-direction:row}
+ body.f169 .strips{left:860px;top:0;flex-direction:row}
+ .strip{flex:1;position:relative;overflow:hidden}
+ .strip img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+ .strip .tagc{position:absolute;left:24px;bottom:20px;font:700 calc(24px * var(--u)) var(--f-body);letter-spacing:.2em;color:#fff;background:rgba(3,11,48,.6);padding:10px 18px;border-radius:999px}
+
+ /* end */
+ #end{background:radial-gradient(140% 100% at 50% 38%,#0838c2,var(--brand) 45%,#011a63);z-index:30}
+ #endHalo{position:absolute;left:50%;top:34%;width:900px;height:900px;margin:-450px 0 0 -450px;border-radius:50%;background:radial-gradient(circle,rgba(255,255,255,.18),rgba(255,255,255,0) 62%)}
+ .endc{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+ body.f169 .endc{flex-direction:row;gap:120px}
+ .endc .cta{display:flex;flex-direction:column;align-items:center}
+ #h8{font:600 calc(110px * var(--u))/1 var(--f-head);color:var(--ink);margin-top:calc(90px * var(--u))}
+ body.f169 #h8{margin-top:0}
+ #l8{margin-top:calc(46px * var(--u))}
+ #phone{position:relative;overflow:hidden;display:inline-flex;gap:24px;margin-top:calc(28px * var(--u));padding:calc(28px * var(--u)) calc(58px * var(--u));border-radius:999px;background:linear-gradient(180deg,var(--gold1),var(--gold2) 65%,#b0843a);box-shadow:0 20px 60px rgba(0,0,0,.4);font:800 calc(62px * var(--u)) var(--f-body);color:#071a5c;letter-spacing:.04em}
+ #phone span{display:inline-block}
+ #web{margin-top:calc(30px * var(--u));font:600 calc(34px * var(--u)) var(--f-body);letter-spacing:.24em;color:rgba(251,248,241,.85)}
+ .vignette{z-index:40} .grain{z-index:50}
+</style>
+<script src="../../lib/gsap.min.js"></script><script src="../../lib/motion.js"></script></head><body>
+<div class="stage">
+  <div class="layer" id="bg"></div>
+  <div class="layer" id="parts"></div>
+
+  <!-- S1 hero -->
+  <div class="hero" id="hero1"><img id="h1img" src="assets/azercell.jpg" style="object-position:62% 50%"><div class="shade"></div></div>
+
+  <!-- S2 carousel -->
+  <div class="mz" id="mz2"><div class="c3wrap">
+    <div class="card3" id="cA"><img src="assets/azmade.jpg" style="object-position:28% 50%"><div class="dim"></div></div>
+    <div class="card3" id="cC"><img src="assets/cityfin.jpg" style="object-position:60% 50%"><div class="dim"></div></div>
+    <div class="card3" id="cZ"><img src="assets/azercell.jpg" style="object-position:35% 40%"><div class="dim"></div></div>
+  </div></div>
+
+  <!-- S3 box + photo card + ring -->
+  <div class="mz" id="mz3">
+    <div class="boxwrap"><div class="box" id="b1">
+      <div class="tray"><div class="grid" id="grid"></div></div>
+      <div class="lid" id="lid"><div class="back"></div><div class="face"><img class="e" src="assets/emblem.png"><img class="w" src="assets/word.png"><div class="m-sweep"></div></div></div>
+    </div></div>
+    <div class="pcard" id="pc"><img id="pcA" src="assets/choc.jpg" style="object-position:0% 50%"><img id="pcB" src="assets/nuts.jpg" style="object-position:30% 50%"></div>
+    <div class="ring" id="ring"><div class="rw"><svg viewBox="0 0 520 520"><circle cx="260" cy="260" r="244" fill="none" stroke="rgba(244,223,164,.18)" stroke-width="6"/><circle id="arc" cx="260" cy="260" r="244" fill="none" stroke="#e8c97e" stroke-width="6" stroke-linecap="round" transform="rotate(-90 260 260)"/></svg>
+      <div class="num"><div class="n"><span id="n1" class="gold">1</span><span id="n2" class="gold">2</span><span id="n3" class="gold">3</span></div><div class="g">GÜN</div></div></div></div>
+  </div>
+
+  <!-- S5 brand -->
+  <div class="layer" id="S5" style="opacity:0">
+    <div class="layer" id="brandbg"></div>
+    <div class="lockL"><div class="lock" id="lock5"><img class="e" id="e5" src="assets/emblem.png"><img class="w" id="w5" src="assets/word.png"><div class="t" id="t5"><i></i>Premium Chocolate<i></i></div></div></div>
+    <div class="tiles" id="tiles"><div class="lead" id="l5" data-text="Korporativ hədiyyələrə"></div>
+      <div class="trow">
+        <div class="tile"><img src="assets/cityfin.jpg" style="object-position:55% 50%"><div class="lb">Zəriflik</div></div>
+        <div class="tile"><img src="assets/choc.jpg" style="object-position:45% 50%"><div class="lb">Keyfiyyət</div></div>
+        <div class="tile"><img src="assets/azmade.jpg" style="object-position:72% 50%"><div class="lb">Fərdilik</div></div>
+      </div></div>
+  </div>
+
+  <!-- S6 hero2 -->
+  <div class="hero" id="hero2" style="z-index:16"><img id="h2img" src="assets/azmade.jpg" style="object-position:20% 50%"><div class="shade"></div></div>
+
+  <!-- S7 strips -->
+  <div class="layer" id="S7" style="z-index:17;opacity:0">
+    <div class="layer" style="background:var(--navy)"></div>
+    <div class="strips">
+      <div class="strip" id="st1"><img src="assets/azercell.jpg" style="object-position:50% 40%"><div class="tagc">AZERCELL</div></div>
+      <div class="strip" id="st2"><img src="assets/azmade.jpg" style="object-position:70% 55%"><div class="tagc">AZMADE GROUP</div></div>
+      <div class="strip" id="st3"><img src="assets/cityfin.jpg" style="object-position:50% 45%"><div class="tagc">CITY FINANCE</div></div>
+    </div>
+  </div>
+
+  <!-- text zones -->
+  <div class="tz shadeT" id="s1"><div class="lead" id="l1" data-text="Dəyərli tərəfdaşlarınıza"></div><div class="big" id="h1" data-text="Özəl və *zövqlü*|*hədiyyə*|təqdim edin."></div></div>
+  <div class="tz" id="s2"><div class="lead" id="l2" data-text="Şirkətinizin adı və loqosu ilə"></div><div class="big" id="h2" data-text="*fərdiləşdirilmiş*"></div><div class="rule" id="r2"></div></div>
+  <div class="tz" id="s3"><div class="lead" id="l3" data-text="Xüsusi dizaynlı"></div><div class="big" id="h3" data-text="hədiyyə|qutularında"></div></div>
+  <div class="tz" id="s3b"><div class="big" id="h3b" data-text="*Premium*|*şokoladlar*" style="margin-top:0"></div><div class="lead" id="l3b" data-text="və seçilmiş keyfiyyətli quru meyvələr" style="margin-top:26px"></div></div>
+  <div class="tz" id="s4"><div class="lead" id="l4" data-text="Cəmi"></div><div class="big" id="h4" data-text="*3 gün*|ərzində"></div></div>
+  <div class="tz shadeT" id="s6" style="z-index:21"><div class="lead" id="l6" data-text="Müştərilərinizə və partnyorlarınıza"></div><div class="big" id="h6" data-text="verdiyiniz|*dəyəri*"></div></div>
+  <div class="tz shadeT" id="s6b" style="z-index:21"><div class="big" id="h6b" data-text="*xüsusi*|*hədiyyələrlə*|ifadə edin." style="margin-top:0"></div></div>
+  <div class="tz" id="s7" style="z-index:21"><div class="lead" id="l7" data-text="Şirkətinizin imicinə uyğun"></div><div class="big" id="h7" data-text="yaddaqalan|korporativ|*hədiyyələr*"></div></div>
+
+  <!-- end -->
+  <div class="layer" id="end" style="opacity:0">
+    <div id="endHalo"></div>
+    <div class="layer" id="parts2"></div>
+    <div class="endc">
+      <div class="lock" id="lock8"><img class="e" id="e8" src="assets/emblem.png"><img class="w" id="w8" src="assets/word.png"><div class="t" id="t8"><i></i>Premium Chocolate<i></i></div></div>
+      <div class="cta" id="cta">
+        <div id="h8"><span class="gold">Hazel</span>-i seçin.</div>
+        <div class="lead" id="l8" data-text="Sifariş və ətraflı məlumat üçün"></div>
+        <div id="phone"><span>077</span><span>305</span><span>02 78</span><div class="m-sweep"></div></div>
+        <div id="web">HAZEL.AZ</div>
+      </div>
+    </div>
+  </div>
+  <div class="vignette"></div>
+  <canvas class="grain" id="grain"></canvas>
+</div>
+<script>
+const END = 30.6;
+const F = new URLSearchParams(location.search).get('f') || '916';
+const CFG = {
+  '916': { W: 1080, H: 1920, openY: 150, lock: { y: -560, scale: .72 }, strip: 'x' },
+  '45':  { W: 1080, H: 1350, openY: 40,  lock: { y: -440, scale: .5 },  strip: 'y' },
+  '169': { W: 1920, H: 1080, openY: 110, lock: { x: -470, y: 0, scale: .72 }, strip: 'y' },
+}[F];
+document.body.classList.add('f' + F);
+Object.assign(document.documentElement.style, { width: CFG.W + 'px', height: CFG.H + 'px' });
+Object.assign(document.body.style, { width: CFG.W + 'px', height: CFG.H + 'px' });
+
+const CH = ['sq','st','wn','st','dk', 'ov gf','bl','bl','dk gf','sq', 'dk','ov gf','bl','wn','st', 'sq','st','dk gf','ov gf','wn'];
+document.getElementById('grid').innerHTML = CH.map(c => `<div class="cup"><div class="choc ${c}"></div></div>`).join('');
+let seed = 7; const rnd = () => (seed = (seed * 9301 + 49297) % 233280) / 233280;
+function spawn(host, n, cls, sz) { const out = []; for (let i = 0; i < n; i++) { const d = document.createElement('div'); d.className = cls; const s = sz[0] + rnd() * sz[1];
+  Object.assign(d.style, { width: s + 'px', height: s + 'px', left: rnd() * CFG.W - s / 2 + 'px', top: rnd() * CFG.H * 1.8 + 'px', opacity: cls === 'p' ? .2 + rnd() * .6 : 1 });
+  document.getElementById(host).appendChild(d); out.push(d); } return out; }
+const BK = [...spawn('parts', 20, 'bk', [90, 200]), ...spawn('parts2', 16, 'bk', [90, 200])];
+const PT = [...spawn('parts', 30, 'p', [3, 6]), ...spawn('parts2', 22, 'p', [3, 6])];
+
+document.fonts.ready.then(() => {
+  const tl = gsap.timeline({ paused: true });
+  const T = (sel, times, o) => M.sync(tl, sel, times, o);
+  const hide = (sel, t, o = {}) => tl.to(sel, Object.assign({ autoAlpha: 0, y: -30, filter: 'blur(10px)', duration: .3, ease: M.E.out }, o), t);
+  gsap.set(['#s2', '#s3', '#s3b', '#s4', '#s6', '#s6b', '#s7', '#mz2', '#mz3', '#hero2', '#pc', '#ring', '#tiles .tile', '#t5 i'], { autoAlpha: 0 });
+  gsap.set('.m-sweep', { xPercent: -320 });
+  const mz = document.getElementById('mz3').getBoundingClientRect();
+
+  // ambient
+  tl.add(M.kenBurns('#bg', { from: 1.04, to: 1.16, dur: END }), 0);
+  BK.forEach((b, i) => { tl.fromTo(b, { y: 0 }, { y: -(CFG.H * .9 + (i * 71) % 500), duration: END, ease: 'none' }, 0);
+    tl.fromTo(b, { x: -30, opacity: .45 }, { x: 30, opacity: 1, duration: 1.5 + (i % 4) * .4, ease: 'sine.inOut', yoyo: true, repeat: 16 }, 0); });
+  PT.forEach((p, i) => tl.fromTo(p, { y: 0, x: 0 }, { y: -(CFG.H * .5 + (i * 37) % 300), x: ((i * 53) % 80) - 40, duration: END, ease: 'none' }, 0));
+
+  // S1 0–3.5 — hero photo reveal at frame 1
+  tl.fromTo('#hero1', { clipPath: 'inset(18% 14% 18% 14% round 60px)' }, { clipPath: 'inset(0% 0% 0% 0% round 0px)', duration: 1.1, ease: M.E.move }, 0);
+  tl.fromTo('#h1img', { scale: 1.45, filter: 'blur(14px)' }, { scale: 1.08, filter: 'blur(0px)', duration: 1.2, ease: M.E.in }, 0)
+    .to('#h1img', { scale: 1.2, duration: 2.4, ease: 'none' }, 1.2);
+  T('#l1', [0.05, 0.6]);
+  T('#h1', [1.54, 1.98, 2.2, 2.54, 2.9, 3.16]);
+
+  // S2 3.5–6.1 — whip into a 3D carousel of client boxes
+  hide('#s1', 3.3);
+  tl.to('#hero1', { scale: 1.35, filter: 'blur(26px)', autoAlpha: 0, duration: .35, ease: M.E.out }, 3.35);
+  tl.set('#mz2', { autoAlpha: 1 }, 3.4);
+  const SL = { c: { xPercent: 0, rotationY: 0, scale: 1, zIndex: 3, d: 0 }, l: { xPercent: -58, rotationY: 26, scale: .74, zIndex: 1, d: .55 }, r: { xPercent: 58, rotationY: -26, scale: .74, zIndex: 1, d: .55 } };
+  const put = (id, s, t, dur) => { tl.to(id, { xPercent: SL[s].xPercent, rotationY: SL[s].rotationY, scale: SL[s].scale, duration: dur, ease: M.E.move }, t).set(id, { zIndex: SL[s].zIndex }, t + dur * .4).to(id + ' .dim', { opacity: SL[s].d, duration: dur }, t); };
+  [['#cZ', 'c'], ['#cA', 'l'], ['#cC', 'r']].forEach(([id, s], i) => {
+    tl.fromTo(id, { autoAlpha: 0, xPercent: SL[s].xPercent * 1.6, rotationY: SL[s].rotationY * 1.5, scale: .5, zIndex: SL[s].zIndex }, { autoAlpha: 1, xPercent: SL[s].xPercent, rotationY: SL[s].rotationY, scale: SL[s].scale, duration: .8, ease: M.E.in }, 3.45 + i * .06);
+    tl.set(id + ' .dim', { opacity: SL[s].d }, 3.4); });
+  T('#l2', [3.64, 4.32, 4.6, 4.68, 4.9]);
+  tl.set('#s2', { autoAlpha: 1 }, 3.55);
+  put('#cA', 'c', 4.25, .55); put('#cZ', 'r', 4.25, .55); put('#cC', 'l', 4.25, .55);
+  put('#cC', 'c', 4.95, .55); put('#cA', 'l', 4.95, .55); put('#cZ', 'r', 4.95, .55);
+  T('#h2', [5.22]); tl.add(M.draw('#r2', { origin: F === '169' ? 'left center' : 'center' }), 5.5);
+  tl.to('#cC', { scale: 1.06, duration: .35, ease: 'power2.out', yoyo: true, repeat: 1 }, 5.22);
+  tl.fromTo('#cC img', { scale: 1 }, { scale: 1.15, duration: 1.2, ease: 'sine.out' }, 5.0);
+
+  // S3 6.1–7.8 — Hazel box drops in and opens
+  hide('#s2', 5.95);
+  tl.to('#mz2', { scale: 1.3, filter: 'blur(22px)', autoAlpha: 0, duration: .35, ease: M.E.out }, 6.0);
+  tl.set('#mz3', { autoAlpha: 1 }, 6.05);
+  tl.fromTo('#b1', { scale: .55, yPercent: 30, rotation: -10, autoAlpha: 0, filter: 'blur(12px)' }, { scale: 1, yPercent: 0, rotation: 0, autoAlpha: 1, filter: 'blur(0px)', duration: .75, ease: M.E.in }, 6.1);
+  tl.add(M.sweep('#lid .face'), 6.5);
+  T('#l3', [6.22, 6.48]); tl.set('#s3', { autoAlpha: 1 }, 6.15);
+  T('#h3', [6.98, 7.3]);
+  tl.to('#lid', { rotationX: 120, duration: .9, ease: M.E.move }, 6.95);
+  tl.to('#b1', { y: CFG.openY, duration: .9, ease: M.E.move }, 6.95);
+  tl.fromTo('#grid .choc', { scale: 0 }, { scale: 1, duration: .45, ease: M.E.pop, stagger: { each: .025, grid: [4, 5], from: 'center' } }, 7.15);
+
+  // S3b 7.8–11.3 — zoom through the tray into real chocolates, then dried fruit
+  hide('#s3', 7.6);
+  tl.to('#b1', { scale: 3.2, filter: 'blur(20px)', autoAlpha: 0, duration: .4, ease: M.E.out }, 7.65);
+  tl.fromTo('#pc', { autoAlpha: 0, scale: .7, filter: 'blur(20px)' }, { autoAlpha: 1, scale: 1, filter: 'blur(0px)', duration: .6, ease: M.E.in }, 7.8);
+  tl.fromTo('#pcA', { objectPosition: '0% 50%', scale: 1.12 }, { objectPosition: '100% 50%', scale: 1.0, duration: 2.6, ease: 'sine.inOut' }, 7.8);
+  tl.set('#s3b', { autoAlpha: 1 }, 7.75);
+  T('#h3b', [7.84, 8.2]);
+  T('#l3b', [8.88, 9.02, 9.54, 10.12, 10.28]);
+  tl.fromTo('#pcB', { yPercent: 100 }, { yPercent: 0, duration: .55, ease: M.E.move }, 10.0).to('#pcA', { yPercent: -35, duration: .55, ease: M.E.move }, 10.0);
+  tl.fromTo('#pcB', { scale: 1.15, objectPosition: '20% 50%' }, { scale: 1.0, objectPosition: '70% 50%', duration: 1.4, ease: 'sine.out' }, 10.0);
+
+  // S4 11.3–12.6 — card morphs into the "3 days" ring
+  hide('#s3b', 11.1);
+  const D = 520 * ({ '916': 1, '45': .82, '169': .8 }[F]); const ix = (mz.width - D) / 2, iy = (mz.height - D) / 2;
+  tl.fromTo('#pc', { clipPath: `inset(0px 0px 0px 0px round 40px)` }, { clipPath: `inset(${iy}px ${ix}px ${iy}px ${ix}px round ${D / 2}px)`, duration: .55, ease: M.E.move }, 11.15);
+  tl.to('#pc', { autoAlpha: 0, duration: .3 }, 11.55).set('#ring', { autoAlpha: 1 }, 11.4);
+  const arc = document.getElementById('arc'), AL = 2 * Math.PI * 244; arc.style.strokeDasharray = AL;
+  tl.fromTo(arc, { strokeDashoffset: AL }, { strokeDashoffset: 0, duration: 1.0, ease: M.E.move }, 11.4);
+  gsap.set(['#n1', '#n2', '#n3'], { autoAlpha: 0 });
+  [['#n1', 11.4], ['#n2', 11.58], ['#n3', 11.76]].forEach(([n, t], i) => { tl.fromTo(n, { autoAlpha: 0, yPercent: -20 }, { autoAlpha: 1, yPercent: -58 + 0, duration: .16, ease: 'power2.out' }, t); if (i < 2) tl.to(n, { autoAlpha: 0, duration: .08 }, t + .17); });
+  tl.fromTo('#n3', { scale: 1 }, { scale: 1.12, duration: .3, yoyo: true, repeat: 1, ease: 'power2.out' }, 11.8);
+  tl.set('#s4', { autoAlpha: 1 }, 11.35); T('#l4', [11.4]); T('#h4', [11.78, 12.02, 12.22]);
+
+  // S5 12.5–17.2 — brand reveal + three values
+  hide('#s4', 12.35);
+  tl.set('#S5', { opacity: 1 }, 12.4).add(M.circle('#brandbg', { x: (mz.left + mz.width / 2) / CFG.W * 100 + '%', y: (mz.top + mz.height / 2) / CFG.H * 100 + '%', dur: .6 }), 12.4);
+  tl.to('#mz3', { autoAlpha: 0, duration: .3 }, 12.7);
+  tl.fromTo('#e5', { scale: .3, rotation: -120, autoAlpha: 0 }, { scale: 1, rotation: 0, autoAlpha: 1, duration: .9, ease: M.E.pop }, 12.55);
+  tl.fromTo('#w5', { clipPath: 'inset(0 100% 0 0)', x: -30 }, { clipPath: 'inset(0 0% 0 0)', x: 0, duration: .8, ease: M.E.move }, 12.7);
+  tl.fromTo('#t5', { autoAlpha: 0, letterSpacing: '.5em' }, { autoAlpha: 1, letterSpacing: '.14em', duration: .8, ease: M.E.in }, 13.06).to('#t5 i', { autoAlpha: 1, duration: .4 }, 13.3);
+  tl.to('#lock5', Object.assign({ duration: .8, ease: M.E.move }, CFG.lock), 13.7);
+  T('#l5', [13.86, 14.4]);
+  [14.92, 15.56, 16.1].forEach((t, i) => { const el = `#tiles .tile:nth-child(${i + 1})`;
+    tl.fromTo(el, { autoAlpha: 1, clipPath: 'inset(100% 0 0 0 round 30px)' }, { clipPath: 'inset(0% 0 0 0 round 30px)', duration: .55, ease: M.E.move }, t - .1)
+      .fromTo(el + ' img', { scale: 1.35 }, { scale: 1.05, duration: 1.6, ease: M.E.in }, t - .1)
+      .fromTo(el + ' .lb', { yPercent: 80, autoAlpha: 0 }, { yPercent: 0, autoAlpha: 1, duration: .5, ease: M.E.in }, t + .05); });
+  tl.to('#tiles .tile img', { scale: 1.12, duration: 1.0, ease: 'sine.inOut' }, 16.4);
+
+  // S6 17.0–21.3 — vertical push to the full photo
+  tl.to('#S5', { yPercent: -100, duration: .6, ease: M.E.move }, 17.0);
+  tl.fromTo('#hero2', { autoAlpha: 1, yPercent: 100 }, { yPercent: 0, duration: .6, ease: M.E.move }, 17.0);
+  tl.fromTo('#h2img', { objectPosition: '12% 50%', scale: 1.12 }, { objectPosition: '62% 50%', scale: 1.0, duration: 2.6, ease: 'sine.inOut' }, 17.0)
+    .to('#h2img', { objectPosition: '82% 50%', scale: 1.18, duration: 1.8, ease: 'sine.inOut' }, 19.6);
+  tl.set('#s6', { autoAlpha: 1 }, 17.3);
+  T('#l6', [17.36, 18.04, 18.12]); T('#h6', [18.84, 19.26]);
+  hide('#s6', 19.4); tl.set('#s6b', { autoAlpha: 1 }, 19.5);
+  T('#h6b', [19.58, 20.06, 20.66, 20.92]);
+
+  // S7 21.2–24.5 — strips: three client brands
+  hide('#s6b', 21.1);
+  tl.set('#S7', { opacity: 1 }, 21.2).fromTo('#S7 > .layer', { autoAlpha: 0 }, { autoAlpha: 1, duration: .3 }, 21.2);
+  const ax = CFG.strip === 'x' ? 'xPercent' : 'yPercent';
+  [['#st1', 21.3, -1], ['#st2', 21.7, 1], ['#st3', 22.1, -1]].forEach(([s, t, d]) => {
+    tl.fromTo(s, { [ax]: 100 * d }, { [ax]: 0, duration: .6, ease: M.E.move }, t)
+      .fromTo(s + ' img', { scale: 1.3 }, { scale: 1.06, duration: 3.2 - (t - 21.3), ease: 'sine.out' }, t)
+      .fromTo(s + ' .tagc', { autoAlpha: 0, x: -20 }, { autoAlpha: 1, x: 0, duration: .4, ease: M.E.in }, t + .45); });
+  tl.set('#s7', { autoAlpha: 1 }, 21.35);
+  T('#l7', [21.42, 22.04, 22.4]); T('#h7', [23.16, 23.44, 23.98]);
+  tl.to(['#st1', '#st2', '#st3'], { scale: .96, duration: .15, yoyo: true, repeat: 1, stagger: .06, ease: 'power2.out' }, 23.98);
+
+  // S8 24.4–30.6 — end card
+  hide('#s7', 24.35);
+  tl.to('#end', { opacity: 1, duration: .01 }, 24.4).add(M.circle('#end', { dur: .7 }), 24.4);
+  tl.fromTo('#e8', { scale: .3, rotation: -120, autoAlpha: 0 }, { scale: 1, rotation: 0, autoAlpha: 1, duration: .9, ease: M.E.pop }, 24.55);
+  tl.fromTo('#w8', { clipPath: 'inset(0 100% 0 0)' }, { clipPath: 'inset(0 0% 0 0)', duration: .8, ease: M.E.move }, 24.66);
+  tl.fromTo('#t8', { autoAlpha: 0, letterSpacing: '.5em' }, { autoAlpha: 1, letterSpacing: '.14em', duration: .8, ease: M.E.in }, 24.9);
+  tl.fromTo('#h8', { autoAlpha: 0, yPercent: 60, filter: 'blur(12px)' }, { autoAlpha: 1, yPercent: 0, filter: 'blur(0px)', duration: .7, ease: M.E.in }, 25.0);
+  T('#l8', [25.7, 26.08, 26.2, 26.48, 26.82]);
+  tl.fromTo('#phone', { autoAlpha: 0, scale: .6 }, { autoAlpha: 1, scale: 1, duration: .6, ease: M.E.pop }, 26.85);
+  [[1, 27.0], [2, 27.86], [3, 28.94]].forEach(([n, t]) => tl.fromTo(`#phone span:nth-child(${n})`, { autoAlpha: 0, yPercent: 80 }, { autoAlpha: 1, yPercent: 0, duration: .45, ease: M.E.in }, t));
+  tl.fromTo('#web', { autoAlpha: 0, letterSpacing: '.6em' }, { autoAlpha: 1, letterSpacing: '.24em', duration: .9, ease: M.E.in }, 27.4);
+  tl.add(M.sweep('#phone', { dur: .9 }), 29.3);
+  tl.fromTo('#lock8', { scale: 1 }, { scale: 1.06, duration: END - 25.5, ease: 'sine.inOut' }, 25.5);
+  tl.fromTo('#e8', { rotation: 0 }, { rotation: 8, duration: 1.4, yoyo: true, repeat: 3, ease: 'sine.inOut' }, 25.5);
+  tl.fromTo('#endHalo', { scale: .85, opacity: .6 }, { scale: 1.15, opacity: 1, duration: 1.3, ease: 'sine.inOut', yoyo: true, repeat: 3 }, 24.8);
+  tl.to('#phone', { scale: 1.05, duration: .45, yoyo: true, repeat: 1, ease: 'sine.inOut' }, 29.6);
+  tl.to({}, { duration: 0.01 }, END - 0.01);
+
+  window.onSeek = M.grain('#grain', { alpha: 12 });
+  window.tl = tl; window.__ready = true;
+});
+</script></body></html>
