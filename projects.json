@@ -1,5 +1,59 @@
 [
   {
+    "id": 66,
+    "title": "Gəncə Memorial Kompleksi",
+    "category": "Dövlət və ictimai",
+    "location": "Gəncə",
+    "image": "assets/projects/catalog/project-66.webp",
+    "alt": "Gəncə Memorial Kompleksi",
+    "description": "Milli yaddaş və dövlətçilik dəyərlərini əks etdirən kompleksin istehsal və icra həlləri tanınmış italyan dizaynerlərinin konsepti əsasında həyata keçirilib. BARK PROJECTS mebel, metal konstruksiya və xüsusi istehsal elementlərində uzunömürlülük, vizual nizam və məkanın rəsmi statusunu əsas götürüb.",
+    "scope": [
+      "Xüsusi təyinatlı mebel",
+      "Metal konstruksiyalar",
+      "Konsept üzrə istehsal və icra"
+    ],
+    "catalogPages": "38–41",
+    "catalog": "BARK-2026",
+    "sourceLabel": "2026 layihə kataloqu",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 53,
+    "title": "Qarabağ Riverside Hotel",
+    "category": "Otelçilik",
+    "location": "Qarabağ",
+    "image": "assets/projects/catalog/project-53.webp",
+    "alt": "Qarabağ Riverside Hotel layihəsi",
+    "description": "Qarabağın təbii və mədəni mühitinə uyğun hazırlanan bu otel layihəsində müasir interyer dili ilə yerli xarakter arasında balans yaradılıb. BARK PROJECTS məkanın memarlıq konsepsiyasına uyğun xüsusi mebel və metal konstruksiya həllərini həyata keçirib. Qonaq rahatlığı, sakitlik və uzunmüddətli istifadə layihənin əsas prinsipləri olub.",
+    "scope": [
+      "Xüsusi mebel istehsalı",
+      "Metal konstruksiyalar",
+      "Otel interyerinin komplektasiyası"
+    ],
+    "catalogPages": "8–9",
+    "catalog": "BARK-2026",
+    "sourceLabel": "2026 layihə kataloqu",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 58,
+    "title": "MADO Restoranı — Sumqayıt",
+    "category": "Qida və içki",
+    "location": "Sumqayıt",
+    "image": "assets/projects/catalog/project-58.webp",
+    "alt": "MADO Sumqayıt filialı",
+    "description": "MADO-nun korporativ dizayn standartları əsasında hazırlanan Sumqayıt filialında funksional zonalaşdırma, intensiv istifadə rejimi və operativ servis tələbləri nəzərə alınıb. BARK PROJECTS davamlı mebel və interyer elementləri ilə beynəlxalq brend konseptini yerli icra keyfiyyəti ilə birləşdirib.",
+    "scope": [
+      "Korporativ standart üzrə mebel",
+      "Funksional zonalaşdırma",
+      "Restoran interyerinin təchizatı"
+    ],
+    "catalogPages": "18–19",
+    "catalog": "BARK-2026",
+    "sourceLabel": "2026 layihə kataloqu",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
     "id": 1,
     "title": "Azərbaycan Respublikası Dövlət Təhlükəsizliyi Xidməti",
     "category": "Dövlət və ictimai",
@@ -520,24 +574,6 @@
     "alt": "Şahdağ dağ-xizək kompleksi"
   },
   {
-    "id": 53,
-    "title": "Qarabağ Riverside Hotel",
-    "category": "Otelçilik",
-    "location": "Qarabağ",
-    "image": "assets/projects/catalog/project-53.webp",
-    "alt": "Qarabağ Riverside Hotel layihəsi",
-    "description": "Qarabağın təbii və mədəni mühitinə uyğun hazırlanan bu otel layihəsində müasir interyer dili ilə yerli xarakter arasında balans yaradılıb. BARK PROJECTS məkanın memarlıq konsepsiyasına uyğun xüsusi mebel və metal konstruksiya həllərini həyata keçirib. Qonaq rahatlığı, sakitlik və uzunmüddətli istifadə layihənin əsas prinsipləri olub.",
-    "scope": [
-      "Xüsusi mebel istehsalı",
-      "Metal konstruksiyalar",
-      "Otel interyerinin komplektasiyası"
-    ],
-    "catalogPages": "8–9",
-    "catalog": "BARK-2026",
-    "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
-  },
-  {
     "id": 54,
     "title": "Quba Macara Hotel 1",
     "category": "Otelçilik",
@@ -605,24 +641,6 @@
       "İnteryer komplektasiyası"
     ],
     "catalogPages": "16–17",
-    "catalog": "BARK-2026",
-    "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
-  },
-  {
-    "id": 58,
-    "title": "MADO Restoranı — Sumqayıt",
-    "category": "Qida və içki",
-    "location": "Sumqayıt",
-    "image": "assets/projects/catalog/project-58.webp",
-    "alt": "MADO Sumqayıt filialı",
-    "description": "MADO-nun korporativ dizayn standartları əsasında hazırlanan Sumqayıt filialında funksional zonalaşdırma, intensiv istifadə rejimi və operativ servis tələbləri nəzərə alınıb. BARK PROJECTS davamlı mebel və interyer elementləri ilə beynəlxalq brend konseptini yerli icra keyfiyyəti ilə birləşdirib.",
-    "scope": [
-      "Korporativ standart üzrə mebel",
-      "Funksional zonalaşdırma",
-      "Restoran interyerinin təchizatı"
-    ],
-    "catalogPages": "18–19",
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
     "catalogBrand": "BARK PROJECTS"
@@ -749,24 +767,6 @@
       "Erqonomik oturma zonaları"
     ],
     "catalogPages": "34–37",
-    "catalog": "BARK-2026",
-    "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
-  },
-  {
-    "id": 66,
-    "title": "Gəncə Memorial Kompleksi",
-    "category": "Dövlət və ictimai",
-    "location": "Gəncə",
-    "image": "assets/projects/catalog/project-66.webp",
-    "alt": "Gəncə Memorial Kompleksi",
-    "description": "Milli yaddaş və dövlətçilik dəyərlərini əks etdirən kompleksin istehsal və icra həlləri tanınmış italyan dizaynerlərinin konsepti əsasında həyata keçirilib. BARK PROJECTS mebel, metal konstruksiya və xüsusi istehsal elementlərində uzunömürlülük, vizual nizam və məkanın rəsmi statusunu əsas götürüb.",
-    "scope": [
-      "Xüsusi təyinatlı mebel",
-      "Metal konstruksiyalar",
-      "Konsept üzrə istehsal və icra"
-    ],
-    "catalogPages": "38–41",
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
     "catalogBrand": "BARK PROJECTS"
@@ -916,4 +916,3 @@
     "catalogBrand": "BARK PROJECTS"
   }
 ]
-
