@@ -54,14 +54,14 @@
     "catalogBrand": "BARK PROJECTS"
   },
   {
-    "id": 1,
-    "title": "Azərbaycan Respublikası Dövlət Təhlükəsizliyi Xidməti",
-    "category": "Dövlət və ictimai",
-    "location": "Bakı",
-    "image": "assets/projects/web/dtx.webp",
-    "source": "https://president.az/az/articles/view/62353",
-    "sourceLabel": "President.az · DTX interyeri",
-    "alt": "Azərbaycan Respublikası Dövlət Təhlükəsizliyi Xidməti"
+    "id": 39,
+    "title": "Sea Breeze Park Cafe",
+    "category": "Qida və içki",
+    "location": "Nardaran",
+    "image": "assets/projects/web/parkcafe.webp",
+    "source": "https://seabreeze.az/en/infrastructure/restaurants/park-cafe",
+    "sourceLabel": "Sea Breeze · Park Cafe interyeri",
+    "alt": "Sea Breeze Park Cafe"
   },
   {
     "id": 2,
@@ -74,386 +74,6 @@
     "alt": "Pərdə və jalüz | Dövlət Təhlükəsizliyi Xidməti"
   },
   {
-    "id": 3,
-    "title": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi",
-    "category": "Otelçilik",
-    "location": "Bilgəh",
-    "image": "assets/projects/web/bilgah.webp",
-    "source": "https://dtx.gov.az/az/news/1764.html",
-    "sourceLabel": "DTX · Bilgəh Mərkəzi qalereyası",
-    "alt": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi"
-  },
-  {
-    "id": 4,
-    "title": "Pərdə və jalüz | Bilgəh İstirahət Mərkəzi",
-    "category": "İnteryer",
-    "location": "Bilgəh",
-    "image": "assets/projects/web/bilgah-garden.webp",
-    "source": "https://dtx.gov.az/az/news/1764.html",
-    "sourceLabel": "DTX · Bilgəh İstirahət Mərkəzi",
-    "alt": "Pərdə və jalüz | Bilgəh İstirahət Mərkəzi"
-  },
-  {
-    "id": 5,
-    "title": "Azərbaycan Respublikası Prezidentinin Administrasiyası",
-    "category": "Dövlət və ictimai",
-    "location": "Bakı",
-    "image": "assets/projects/web/presadmin.webp",
-    "source": "https://report.az/xarici-siyaset/ilham-eliyevin-ali-avrasiya-iqtisadi-surasinin-iclasinda-ve-mdb-dovlet-bascilarinin-qeyri-resmi-zirve-gorusunde-istirak-etmemesinin-sebebleri-aciqlanib",
-    "sourceLabel": "Report.az · Prezident Administrasiyası",
-    "alt": "Azərbaycan Respublikası Prezidentinin Administrasiyası"
-  },
-  {
-    "id": 6,
-    "title": "Azərbaycan Respublikasının Milli Məclisi",
-    "category": "Dövlət və ictimai",
-    "location": "Bakı",
-    "image": "assets/projects/web/meclis.webp",
-    "source": "https://www.turkiyetoday.com/region/azerbaijan-to-hold-early-parliamentary-elections-on-sept-1-47157/",
-    "sourceLabel": "Türkiye Today · Milli Məclis",
-    "alt": "Azərbaycan Respublikasının Milli Məclisi"
-  },
-  {
-    "id": 7,
-    "title": "Azərbaycan Respublikası Müdafiə Nazirliyi",
-    "category": "Dövlət və ictimai",
-    "location": "Bakı",
-    "image": "assets/projects/web/defense.webp",
-    "source": "https://en.apa.az/military/azerbaijan-armys-serviceman-graduated-from-chinese-army-command-college-with-honors-424417",
-    "sourceLabel": "APA · Müdafiə Nazirliyi",
-    "alt": "Azərbaycan Respublikası Müdafiə Nazirliyi"
-  },
-  {
-    "id": 8,
-    "title": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi",
-    "category": "Dövlət və ictimai",
-    "location": "Bakı",
-    "image": "assets/projects/web/anticorruption.webp",
-    "source": "https://teleqraf.az/news/yasavul/260260.html",
-    "sourceLabel": "Teleqraf · Korrupsiyaya qarşı Mübarizə Baş İdarəsi",
-    "alt": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi"
-  },
-  {
-    "id": 9,
-    "title": "Lachin Resort & Spa",
-    "category": "Otelçilik",
-    "location": "Laçın",
-    "image": "assets/projects/web/lachin.webp",
-    "source": "https://inn.az/az/properties/lachin-resort-spa-5710cc03-4fb0-48f9-b36b-afd4439984cf",
-    "sourceLabel": "INN.az · Laçın Resort & Spa",
-    "alt": "Lachin Resort & Spa"
-  },
-  {
-    "id": 10,
-    "title": "Zəngilan Konqres Mərkəzi",
-    "category": "Dövlət və ictimai",
-    "location": "Zəngilan",
-    "image": "assets/projects/web/zangilan.webp",
-    "source": "https://report.az/daxili-siyaset/zengilan-konqres-merkezi-kompleksinin-acilisi-olub",
-    "sourceLabel": "Report.az · Zəngilan Konqres Mərkəzi",
-    "alt": "Zəngilan Konqres Mərkəzi"
-  },
-  {
-    "id": 11,
-    "title": "Xankəndi Palace Hotel",
-    "category": "Otelçilik",
-    "location": "Xankəndi",
-    "image": "assets/projects/web/khankendi.webp",
-    "source": "https://www.azernews.az/business/228431.html",
-    "sourceLabel": "Azernews · Xankəndi Palace Hotel",
-    "alt": "Xankəndi Palace Hotel"
-  },
-  {
-    "id": 12,
-    "title": "Marxal Hotel",
-    "category": "Otelçilik",
-    "location": "Şəki",
-    "image": "assets/projects/web/marxal.webp",
-    "source": "https://www.tripadvisor.com/Hotel_Review-g666445-d10521052-Reviews-Marxal_Resort_Spa-Sheki_Shaki_Zaqatala_Region.html",
-    "sourceLabel": "Tripadvisor · Marxal Resort & Spa",
-    "alt": "Marxal Hotel"
-  },
-  {
-    "id": 13,
-    "title": "Port Baku Walk",
-    "category": "Ticarət",
-    "location": "Bakı",
-    "image": "assets/projects/web/portwalk.webp",
-    "source": "https://pbw.az/en",
-    "sourceLabel": "Port Baku Walk · rəsmi lobby qalereyası",
-    "alt": "Port Baku Walk"
-  },
-  {
-    "id": 14,
-    "title": "Motorlu jalüz sistemləri və mebel parçaları",
-    "category": "İnteryer",
-    "location": "Bakı",
-    "image": "assets/projects/web/portwalk-lobby.webp",
-    "source": "https://www.nwconstruction.com/en/projects/completed-projects/port-baku-garden-walk/",
-    "sourceLabel": "North West Construction · Port Baku Walk",
-    "alt": "Motorlu jalüz sistemləri və mebel parçaları"
-  },
-  {
-    "id": 15,
-    "title": "Dəniz Mall",
-    "category": "Ticarət",
-    "location": "Bakı",
-    "image": "assets/projects/web/deniz.webp",
-    "source": "https://www.pashamalls.az/portfolio/deniz-br-mall",
-    "sourceLabel": "PASHA Malls · Dəniz Mall",
-    "alt": "Dəniz Mall"
-  },
-  {
-    "id": 16,
-    "title": "Su İdman Sarayı",
-    "category": "İdman və ictimai",
-    "location": "Bakı",
-    "image": "assets/projects/web/aquatic.webp",
-    "source": "https://commons.wikimedia.org/wiki/File:Baku_Aquatic_Palace,_Azerbaijan,_Caspian_Sea_shore,_Boulevard.jpg",
-    "sourceLabel": "Ahl Baku · CC BY-SA 4.0 · Wikimedia Commons",
-    "alt": "Su İdman Sarayı"
-  },
-  {
-    "id": 17,
-    "title": "Knightsbridge Residence White City",
-    "category": "Yaşayış",
-    "location": "Bakı",
-    "image": "assets/projects/web/knightsbridge.webp",
-    "source": "https://serealdesign.com/project-knightsbridge-residence-021",
-    "sourceLabel": "Sereal Design · Knightsbridge interyeri",
-    "alt": "Knightsbridge Residence White City"
-  },
-  {
-    "id": 18,
-    "title": "Pərdə və jalüz | Knightsbridge Residence",
-    "category": "İnteryer",
-    "location": "Bakı",
-    "image": "assets/projects/web/knightsbridge-interior.webp",
-    "source": "https://www.knightsbridge.az/en/home",
-    "sourceLabel": "Knightsbridge Residence · Baku White City",
-    "alt": "Pərdə və jalüz | Knightsbridge Residence"
-  },
-  {
-    "id": 19,
-    "title": "Park Inn Hotel",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/parkinn.webp",
-    "source": "https://www.tripadvisor.com/Hotel_Feature-g293934-d589344-zft1-Radisson_Hotel_Baku.html",
-    "sourceLabel": "Tripadvisor · Park Inn otaq interyeri",
-    "alt": "Park Inn Hotel"
-  },
-  {
-    "id": 20,
-    "title": "Pərdə və jalüz | Park Inn Hotel",
-    "category": "İnteryer",
-    "location": "Bakı",
-    "image": "assets/projects/web/parkinn-interior.webp",
-    "source": "https://www.tripadvisor.com/Hotel_Review-g293934-d589344-Reviews-Radisson_Hotel_Baku-Baku_Absheron_Region.html",
-    "sourceLabel": "Tripadvisor · Park Inn by Radisson Baku",
-    "alt": "Pərdə və jalüz | Park Inn Hotel"
-  },
-  {
-    "id": 21,
-    "title": "The Ritz-Carlton Hotel",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/ritz.webp",
-    "source": "https://www.ritzcarlton.com/en/hotels/gydrz-the-ritz-carlton-baku/rooms/",
-    "sourceLabel": "The Ritz-Carlton Baku · suite interyeri",
-    "alt": "The Ritz-Carlton Hotel"
-  },
-  {
-    "id": 22,
-    "title": "Pərdə və jalüz | The Ritz-Carlton",
-    "category": "İnteryer",
-    "location": "Bakı",
-    "image": "assets/projects/web/ritz-interior.webp",
-    "source": "https://www.ritzcarlton.com/ru/hotels/gydrz-the-ritz-carlton-baku/overview/",
-    "sourceLabel": "The Ritz-Carlton · Baku",
-    "alt": "Pərdə və jalüz | The Ritz-Carlton"
-  },
-  {
-    "id": 23,
-    "title": "Hilton Garden Inn Baku Hotel",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/hilton.webp",
-    "source": "https://www.hilton.com/en/hotels/bakazgi-hilton-garden-inn-baku/",
-    "sourceLabel": "Hilton Garden Inn Baku · otaq interyeri",
-    "alt": "Hilton Garden Inn Baku Hotel"
-  },
-  {
-    "id": 24,
-    "title": "Yanğına davamlı pərdələr və mebel üçün dərilər",
-    "category": "İnteryer",
-    "location": "Bakı",
-    "image": "assets/projects/web/hilton-interior.webp",
-    "source": "https://www.hilton.com/en/hotels/bakazgi-hilton-garden-inn-baku/",
-    "sourceLabel": "Hilton · Hilton Garden Inn Baku",
-    "alt": "Yanğına davamlı pərdələr və mebel üçün dərilər"
-  },
-  {
-    "id": 25,
-    "title": "Marriott Hotel Boulevard",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/marriott.webp",
-    "source": "https://www.marriott.com/en-us/hotels/gydmb-baku-marriott-hotel-boulevard/rooms/",
-    "sourceLabel": "Baku Marriott Boulevard · otaq interyeri",
-    "alt": "Marriott Hotel Boulevard"
-  },
-  {
-    "id": 26,
-    "title": "Pərdə və jalüz | Marriott Boulevard",
-    "category": "İnteryer",
-    "location": "Bakı",
-    "image": "assets/projects/web/marriott-interior.webp",
-    "source": "https://www.marriott.com/en-us/hotels/gydmb-baku-marriott-hotel-boulevard/overview/",
-    "sourceLabel": "Marriott · Baku Marriott Hotel Boulevard",
-    "alt": "Pərdə və jalüz | Marriott Boulevard"
-  },
-  {
-    "id": 27,
-    "title": "Bakı Atletlər Kəndi",
-    "category": "Yaşayış",
-    "location": "Bakı",
-    "image": "assets/projects/web/athletes.webp",
-    "source": "https://www.hotels.com/ho3568004416/",
-    "sourceLabel": "Bakı Atletlər Kəndi · interyer görünüşü",
-    "alt": "Bakı Atletlər Kəndi"
-  },
-  {
-    "id": 28,
-    "title": "Pərdə və jalüz | Bakı Atletlər Kəndi",
-    "category": "İnteryer",
-    "location": "Bakı",
-    "image": "assets/projects/web/athletes-interior.webp",
-    "source": "https://modern.az/az/iqtisadiyyat/134800/atletler-kendinde-ki-binalar-satisa-cixarilir-resmi/",
-    "sourceLabel": "Modern.az · Bakı Atletlər Kəndi",
-    "alt": "Pərdə və jalüz | Bakı Atletlər Kəndi"
-  },
-  {
-    "id": 29,
-    "title": "Port Baku Tower 2",
-    "category": "Yaşayış",
-    "location": "Bakı",
-    "image": "assets/projects/web/porttower.webp",
-    "source": "https://www.savills.co.uk/services/consultancy/projects/port-baku-towers.aspx",
-    "sourceLabel": "Savills · Port Baku Towers interyeri",
-    "alt": "Port Baku Tower 2"
-  },
-  {
-    "id": 30,
-    "title": "Pərdə və jalüz | Port Baku Tower 2",
-    "category": "İnteryer",
-    "location": "Bakı",
-    "image": "assets/projects/web/porttower-interior.webp",
-    "source": "https://www.asafer.com.tr/betonarme/port-baku-tower.html",
-    "sourceLabel": "ASAfer · Port Baku Tower II",
-    "alt": "Pərdə və jalüz | Port Baku Tower 2"
-  },
-  {
-    "id": 31,
-    "title": "Crescent Mall",
-    "category": "Ticarət",
-    "location": "Bakı",
-    "image": "assets/projects/web/crescent.webp",
-    "source": "https://crescentmall.az/",
-    "sourceLabel": "Crescent Mall · rəsmi interyer",
-    "alt": "Crescent Mall"
-  },
-  {
-    "id": 32,
-    "title": "Pərdə və jalüz | Crescent Mall",
-    "category": "İnteryer",
-    "location": "Bakı",
-    "image": "assets/projects/web/crescent-interior.webp",
-    "source": "https://oxu.az/digar/dunya-brendllerini-bir-araya-toplayan-mekan-crescent-mall",
-    "sourceLabel": "Oxu.az · Crescent Mall",
-    "alt": "Pərdə və jalüz | Crescent Mall"
-  },
-  {
-    "id": 33,
-    "title": "Courtyard by Marriott Baku",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/courtyard.webp",
-    "source": "https://www.marriott.com/en-us/hotels/gydcy-courtyard-baku/rooms/",
-    "sourceLabel": "Courtyard by Marriott Baku · otaq interyeri",
-    "alt": "Courtyard by Marriott Baku"
-  },
-  {
-    "id": 34,
-    "title": "Pərdə və jalüz | Courtyard by Marriott",
-    "category": "İnteryer",
-    "location": "Bakı",
-    "image": "assets/projects/web/courtyard-interior.webp",
-    "source": "https://idea.az/ru/company/project/courtyard-by-marriott-project/",
-    "sourceLabel": "IDEA · Courtyard by Marriott",
-    "alt": "Pərdə və jalüz | Courtyard by Marriott"
-  },
-  {
-    "id": 35,
-    "title": "Sapphire Bayil Hotel",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/sapphire.webp",
-    "source": "https://www.sapphire.az/en/hotels/bayil/rooms/4",
-    "sourceLabel": "Sapphire Bayil · rəsmi otaq interyeri",
-    "alt": "Sapphire Bayil Hotel"
-  },
-  {
-    "id": 36,
-    "title": "Pərdə və otel tekstili | Sapphire Bayil",
-    "category": "İnteryer",
-    "location": "Bakı",
-    "image": "assets/projects/web/sapphire-interior.webp",
-    "source": "https://www.tripadvisor.com/Hotel_Review-g293934-d17768748-Reviews-Sapphire_Bayil_Hotel-Baku_Absheron_Region.html",
-    "sourceLabel": "Tripadvisor · Sapphire Bayil Hotel",
-    "alt": "Pərdə və otel tekstili | Sapphire Bayil"
-  },
-  {
-    "id": 37,
-    "title": "Sea Breeze Grand Hotel",
-    "category": "Otelçilik",
-    "location": "Nardaran",
-    "image": "assets/projects/web/seabreeze.webp",
-    "source": "https://booking.seabreeze.az/en/hotel/442",
-    "sourceLabel": "Sea Breeze · otaq interyeri",
-    "alt": "Sea Breeze Grand Hotel"
-  },
-  {
-    "id": 38,
-    "title": "Pərdə və jalüz | Sea Breeze Grand Hotel",
-    "category": "İnteryer",
-    "location": "Nardaran",
-    "image": "assets/projects/web/seabreeze-interior.webp",
-    "source": "https://commons.wikimedia.org/wiki/File:Sea_Breeze_resort.jpg",
-    "sourceLabel": "Wikimedia Commons · Sea Breeze resort",
-    "alt": "Pərdə və jalüz | Sea Breeze Grand Hotel"
-  },
-  {
-    "id": 39,
-    "title": "Sea Breeze Park Cafe",
-    "category": "Qida və içki",
-    "location": "Nardaran",
-    "image": "assets/projects/web/parkcafe.webp",
-    "source": "https://seabreeze.az/en/infrastructure/restaurants/park-cafe",
-    "sourceLabel": "Sea Breeze · Park Cafe interyeri",
-    "alt": "Sea Breeze Park Cafe"
-  },
-  {
-    "id": 40,
-    "title": "Pərdə və jalüz | Sea Breeze Park Cafe",
-    "category": "İnteryer",
-    "location": "Nardaran",
-    "image": "assets/projects/web/parkcafe-interior.webp",
-    "source": "https://seabreeze.az/en/infrastructure/restaurants/park-cafe",
-    "sourceLabel": "Sea Breeze · Park Cafe",
-    "alt": "Pərdə və jalüz | Sea Breeze Park Cafe"
-  },
-  {
     "id": 41,
     "title": "Mangal Steak House",
     "category": "Qida və içki",
@@ -462,6 +82,16 @@
     "source": "https://songullini.com/project/mangal-steakhouse-baku-azerbaijan/",
     "sourceLabel": "Songullini · Mangal Steakhouse",
     "alt": "Mangal Steak House"
+  },
+  {
+    "id": 3,
+    "title": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi",
+    "category": "Otelçilik",
+    "location": "Bilgəh",
+    "image": "assets/projects/web/bilgah.webp",
+    "source": "https://dtx.gov.az/az/news/1764.html",
+    "sourceLabel": "DTX · Bilgəh Mərkəzi qalereyası",
+    "alt": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi"
   },
   {
     "id": 42,
@@ -474,6 +104,26 @@
     "alt": "Lvov Şokolad Evi"
   },
   {
+    "id": 4,
+    "title": "Pərdə və jalüz | Bilgəh İstirahət Mərkəzi",
+    "category": "İnteryer",
+    "location": "Bilgəh",
+    "image": "assets/projects/web/bilgah-garden.webp",
+    "source": "https://dtx.gov.az/az/news/1764.html",
+    "sourceLabel": "DTX · Bilgəh İstirahət Mərkəzi",
+    "alt": "Pərdə və jalüz | Bilgəh İstirahət Mərkəzi"
+  },
+  {
+    "id": 9,
+    "title": "Lachin Resort & Spa",
+    "category": "Otelçilik",
+    "location": "Laçın",
+    "image": "assets/projects/web/lachin.webp",
+    "source": "https://inn.az/az/properties/lachin-resort-spa-5710cc03-4fb0-48f9-b36b-afd4439984cf",
+    "sourceLabel": "INN.az · Laçın Resort & Spa",
+    "alt": "Lachin Resort & Spa"
+  },
+  {
     "id": 43,
     "title": "Günaydın Restoran",
     "category": "Qida və içki",
@@ -482,6 +132,26 @@
     "source": "https://gunaydin.clopos.menu/az/2/",
     "sourceLabel": "Günaydın · Baku",
     "alt": "Günaydın Restoran"
+  },
+  {
+    "id": 14,
+    "title": "Motorlu jalüz sistemləri və mebel parçaları",
+    "category": "İnteryer",
+    "location": "Bakı",
+    "image": "assets/projects/web/portwalk-lobby.webp",
+    "source": "https://www.nwconstruction.com/en/projects/completed-projects/port-baku-garden-walk/",
+    "sourceLabel": "North West Construction · Port Baku Walk",
+    "alt": "Motorlu jalüz sistemləri və mebel parçaları"
+  },
+  {
+    "id": 11,
+    "title": "Xankəndi Palace Hotel",
+    "category": "Otelçilik",
+    "location": "Xankəndi",
+    "image": "assets/projects/web/khankendi.webp",
+    "source": "https://www.azernews.az/business/228431.html",
+    "sourceLabel": "Azernews · Xankəndi Palace Hotel",
+    "alt": "Xankəndi Palace Hotel"
   },
   {
     "id": 44,
@@ -494,14 +164,24 @@
     "alt": "Starbucks Coffee"
   },
   {
-    "id": 45,
-    "title": "SOCAR Tower",
-    "category": "Dövlət və ictimai",
+    "id": 18,
+    "title": "Pərdə və jalüz | Knightsbridge Residence",
+    "category": "İnteryer",
     "location": "Bakı",
-    "image": "assets/projects/web/socar.webp",
-    "source": "https://president.az/az/articles/view/20037",
-    "sourceLabel": "President.az · SOCAR Tower",
-    "alt": "SOCAR Tower"
+    "image": "assets/projects/web/knightsbridge-interior.webp",
+    "source": "https://www.knightsbridge.az/en/home",
+    "sourceLabel": "Knightsbridge Residence · Baku White City",
+    "alt": "Pərdə və jalüz | Knightsbridge Residence"
+  },
+  {
+    "id": 12,
+    "title": "Marxal Hotel",
+    "category": "Otelçilik",
+    "location": "Şəki",
+    "image": "assets/projects/web/marxal.webp",
+    "source": "https://www.tripadvisor.com/Hotel_Review-g666445-d10521052-Reviews-Marxal_Resort_Spa-Sheki_Shaki_Zaqatala_Region.html",
+    "sourceLabel": "Tripadvisor · Marxal Resort & Spa",
+    "alt": "Marxal Hotel"
   },
   {
     "id": 46,
@@ -514,14 +194,24 @@
     "alt": "Mənzərə Restoranı"
   },
   {
-    "id": 47,
-    "title": "Yacht Club",
-    "category": "İctimai məkan",
+    "id": 20,
+    "title": "Pərdə və jalüz | Park Inn Hotel",
+    "category": "İnteryer",
     "location": "Bakı",
-    "image": "assets/projects/web/yacht.webp",
-    "source": "https://www.tripadvisor.com.au/Hotel_Review-g293934-d4271765-Reviews-Yacht_Club-Baku_Absheron_Region.html",
-    "sourceLabel": "Tripadvisor · Yacht Club",
-    "alt": "Yacht Club"
+    "image": "assets/projects/web/parkinn-interior.webp",
+    "source": "https://www.tripadvisor.com/Hotel_Review-g293934-d589344-Reviews-Radisson_Hotel_Baku-Baku_Absheron_Region.html",
+    "sourceLabel": "Tripadvisor · Park Inn by Radisson Baku",
+    "alt": "Pərdə və jalüz | Park Inn Hotel"
+  },
+  {
+    "id": 19,
+    "title": "Park Inn Hotel",
+    "category": "Otelçilik",
+    "location": "Bakı",
+    "image": "assets/projects/web/parkinn.webp",
+    "source": "https://www.tripadvisor.com/Hotel_Feature-g293934-d589344-zft1-Radisson_Hotel_Baku.html",
+    "sourceLabel": "Tripadvisor · Park Inn otaq interyeri",
+    "alt": "Park Inn Hotel"
   },
   {
     "id": 48,
@@ -534,24 +224,24 @@
     "alt": "McDonald’s"
   },
   {
-    "id": 49,
-    "title": "Ski Club Shahdag",
-    "category": "Otelçilik",
-    "location": "Şahdağ",
-    "image": "assets/projects/web/shahski.webp",
-    "source": "https://opensystems.az/industrial",
-    "sourceLabel": "Open Systems · Şahdağ kompleksi",
-    "alt": "Ski Club Shahdag"
+    "id": 22,
+    "title": "Pərdə və jalüz | The Ritz-Carlton",
+    "category": "İnteryer",
+    "location": "Bakı",
+    "image": "assets/projects/web/ritz-interior.webp",
+    "source": "https://www.ritzcarlton.com/ru/hotels/gydrz-the-ritz-carlton-baku/overview/",
+    "sourceLabel": "The Ritz-Carlton · Baku",
+    "alt": "Pərdə və jalüz | The Ritz-Carlton"
   },
   {
-    "id": 50,
-    "title": "Lake Side Shahdag",
+    "id": 21,
+    "title": "The Ritz-Carlton Hotel",
     "category": "Otelçilik",
-    "location": "Şahdağ",
-    "image": "assets/projects/web/shahlake.webp",
-    "source": "https://www.shahdag.az/az/hotel/lakeside-hotel",
-    "sourceLabel": "Shahdag.az · LakeSide Hotel",
-    "alt": "Lake Side Shahdag"
+    "location": "Bakı",
+    "image": "assets/projects/web/ritz.webp",
+    "source": "https://www.ritzcarlton.com/en/hotels/gydrz-the-ritz-carlton-baku/rooms/",
+    "sourceLabel": "The Ritz-Carlton Baku · suite interyeri",
+    "alt": "The Ritz-Carlton Hotel"
   },
   {
     "id": 51,
@@ -564,50 +254,24 @@
     "alt": "Multifunksional restoran | Şahdağ"
   },
   {
-    "id": 52,
-    "title": "Şahdağ dağ-xizək kompleksi",
-    "category": "İdman və ictimai",
-    "location": "Şahdağ",
-    "image": "assets/projects/web/shahdag-resort.webp",
-    "source": "https://www.shahdag.az/en/sports-activities",
-    "sourceLabel": "Shahdag.az · Ski club and resort",
-    "alt": "Şahdağ dağ-xizək kompleksi"
+    "id": 24,
+    "title": "Yanğına davamlı pərdələr və mebel üçün dərilər",
+    "category": "İnteryer",
+    "location": "Bakı",
+    "image": "assets/projects/web/hilton-interior.webp",
+    "source": "https://www.hilton.com/en/hotels/bakazgi-hilton-garden-inn-baku/",
+    "sourceLabel": "Hilton · Hilton Garden Inn Baku",
+    "alt": "Yanğına davamlı pərdələr və mebel üçün dərilər"
   },
   {
-    "id": 54,
-    "title": "Quba Macara Hotel 1",
+    "id": 23,
+    "title": "Hilton Garden Inn Baku Hotel",
     "category": "Otelçilik",
-    "location": "Quba",
-    "image": "assets/projects/catalog/project-54.webp",
-    "alt": "Quba Macara Hotel 1 layihəsi",
-    "description": "Quba regionunun turizm potensialını əks etdirən Macara Hotel üçün yüksək istismar tələblərinə cavab verən mebel və interyer elementləri hazırlanıb. Konstruktiv həllər material davamlılığı, rahat istifadə və otelin funksional ehtiyacları əsasında seçilib. Nəticədə premium qonaqpərvərlik standartlarına uyğun ölçülü və rahat məkan formalaşıb.",
-    "scope": [
-      "Otel mebelləri",
-      "İnteryer elementləri",
-      "İstehsal və quraşdırma"
-    ],
-    "catalogPages": "10–11",
-    "catalog": "BARK-2026",
-    "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
-  },
-  {
-    "id": 55,
-    "title": "Quba Macara Hotel 2",
-    "category": "Otelçilik",
-    "location": "Quba",
-    "image": "assets/projects/catalog/project-55.webp",
-    "alt": "Quba Macara Hotel 2 layihəsi",
-    "description": "Macara Hotel kompleksinin ikinci mərhələsində otaqlar və ümumi istifadə zonaları vahid dizayn dili ilə tamamlanıb. BARK PROJECTS rahatlıq, vizual nizam və uzunmüddətli istismarı əsas götürərək fərdi mebel və interyer detallarını layihəyə uyğunlaşdırıb.",
-    "scope": [
-      "Fərdi otaq mebelləri",
-      "Ümumi zonaların təchizatı",
-      "Dekorativ interyer detalları"
-    ],
-    "catalogPages": "12–13",
-    "catalog": "BARK-2026",
-    "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
+    "location": "Bakı",
+    "image": "assets/projects/web/hilton.webp",
+    "source": "https://www.hilton.com/en/hotels/bakazgi-hilton-garden-inn-baku/",
+    "sourceLabel": "Hilton Garden Inn Baku · otaq interyeri",
+    "alt": "Hilton Garden Inn Baku Hotel"
   },
   {
     "id": 56,
@@ -628,6 +292,26 @@
     "catalogBrand": "BARK PROJECTS"
   },
   {
+    "id": 26,
+    "title": "Pərdə və jalüz | Marriott Boulevard",
+    "category": "İnteryer",
+    "location": "Bakı",
+    "image": "assets/projects/web/marriott-interior.webp",
+    "source": "https://www.marriott.com/en-us/hotels/gydmb-baku-marriott-hotel-boulevard/overview/",
+    "sourceLabel": "Marriott · Baku Marriott Hotel Boulevard",
+    "alt": "Pərdə və jalüz | Marriott Boulevard"
+  },
+  {
+    "id": 25,
+    "title": "Marriott Hotel Boulevard",
+    "category": "Otelçilik",
+    "location": "Bakı",
+    "image": "assets/projects/web/marriott.webp",
+    "source": "https://www.marriott.com/en-us/hotels/gydmb-baku-marriott-hotel-boulevard/rooms/",
+    "sourceLabel": "Baku Marriott Boulevard · otaq interyeri",
+    "alt": "Marriott Hotel Boulevard"
+  },
+  {
     "id": 57,
     "title": "Şazeli Restoranı",
     "category": "Qida və içki",
@@ -644,6 +328,36 @@
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
     "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 1,
+    "title": "Azərbaycan Respublikası Dövlət Təhlükəsizliyi Xidməti",
+    "category": "Dövlət və ictimai",
+    "location": "Bakı",
+    "image": "assets/projects/web/dtx.webp",
+    "source": "https://president.az/az/articles/view/62353",
+    "sourceLabel": "President.az · DTX interyeri",
+    "alt": "Azərbaycan Respublikası Dövlət Təhlükəsizliyi Xidməti"
+  },
+  {
+    "id": 28,
+    "title": "Pərdə və jalüz | Bakı Atletlər Kəndi",
+    "category": "İnteryer",
+    "location": "Bakı",
+    "image": "assets/projects/web/athletes-interior.webp",
+    "source": "https://modern.az/az/iqtisadiyyat/134800/atletler-kendinde-ki-binalar-satisa-cixarilir-resmi/",
+    "sourceLabel": "Modern.az · Bakı Atletlər Kəndi",
+    "alt": "Pərdə və jalüz | Bakı Atletlər Kəndi"
+  },
+  {
+    "id": 33,
+    "title": "Courtyard by Marriott Baku",
+    "category": "Otelçilik",
+    "location": "Bakı",
+    "image": "assets/projects/web/courtyard.webp",
+    "source": "https://www.marriott.com/en-us/hotels/gydcy-courtyard-baku/rooms/",
+    "sourceLabel": "Courtyard by Marriott Baku · otaq interyeri",
+    "alt": "Courtyard by Marriott Baku"
   },
   {
     "id": 59,
@@ -664,6 +378,36 @@
     "catalogBrand": "BARK PROJECTS"
   },
   {
+    "id": 5,
+    "title": "Azərbaycan Respublikası Prezidentinin Administrasiyası",
+    "category": "Dövlət və ictimai",
+    "location": "Bakı",
+    "image": "assets/projects/web/presadmin.webp",
+    "source": "https://report.az/xarici-siyaset/ilham-eliyevin-ali-avrasiya-iqtisadi-surasinin-iclasinda-ve-mdb-dovlet-bascilarinin-qeyri-resmi-zirve-gorusunde-istirak-etmemesinin-sebebleri-aciqlanib",
+    "sourceLabel": "Report.az · Prezident Administrasiyası",
+    "alt": "Azərbaycan Respublikası Prezidentinin Administrasiyası"
+  },
+  {
+    "id": 30,
+    "title": "Pərdə və jalüz | Port Baku Tower 2",
+    "category": "İnteryer",
+    "location": "Bakı",
+    "image": "assets/projects/web/porttower-interior.webp",
+    "source": "https://www.asafer.com.tr/betonarme/port-baku-tower.html",
+    "sourceLabel": "ASAfer · Port Baku Tower II",
+    "alt": "Pərdə və jalüz | Port Baku Tower 2"
+  },
+  {
+    "id": 35,
+    "title": "Sapphire Bayil Hotel",
+    "category": "Otelçilik",
+    "location": "Bakı",
+    "image": "assets/projects/web/sapphire.webp",
+    "source": "https://www.sapphire.az/en/hotels/bayil/rooms/4",
+    "sourceLabel": "Sapphire Bayil · rəsmi otaq interyeri",
+    "alt": "Sapphire Bayil Hotel"
+  },
+  {
     "id": 60,
     "title": "Borani Restoranlar Şəbəkəsi",
     "category": "Qida və içki",
@@ -680,6 +424,36 @@
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
     "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 6,
+    "title": "Azərbaycan Respublikasının Milli Məclisi",
+    "category": "Dövlət və ictimai",
+    "location": "Bakı",
+    "image": "assets/projects/web/meclis.webp",
+    "source": "https://www.turkiyetoday.com/region/azerbaijan-to-hold-early-parliamentary-elections-on-sept-1-47157/",
+    "sourceLabel": "Türkiye Today · Milli Məclis",
+    "alt": "Azərbaycan Respublikasının Milli Məclisi"
+  },
+  {
+    "id": 32,
+    "title": "Pərdə və jalüz | Crescent Mall",
+    "category": "İnteryer",
+    "location": "Bakı",
+    "image": "assets/projects/web/crescent-interior.webp",
+    "source": "https://oxu.az/digar/dunya-brendllerini-bir-araya-toplayan-mekan-crescent-mall",
+    "sourceLabel": "Oxu.az · Crescent Mall",
+    "alt": "Pərdə və jalüz | Crescent Mall"
+  },
+  {
+    "id": 37,
+    "title": "Sea Breeze Grand Hotel",
+    "category": "Otelçilik",
+    "location": "Nardaran",
+    "image": "assets/projects/web/seabreeze.webp",
+    "source": "https://booking.seabreeze.az/en/hotel/442",
+    "sourceLabel": "Sea Breeze · otaq interyeri",
+    "alt": "Sea Breeze Grand Hotel"
   },
   {
     "id": 61,
@@ -700,6 +474,64 @@
     "catalogBrand": "BARK PROJECTS"
   },
   {
+    "id": 13,
+    "title": "Port Baku Walk",
+    "category": "Ticarət",
+    "location": "Bakı",
+    "image": "assets/projects/web/portwalk.webp",
+    "source": "https://pbw.az/en",
+    "sourceLabel": "Port Baku Walk · rəsmi lobby qalereyası",
+    "alt": "Port Baku Walk"
+  },
+  {
+    "id": 7,
+    "title": "Azərbaycan Respublikası Müdafiə Nazirliyi",
+    "category": "Dövlət və ictimai",
+    "location": "Bakı",
+    "image": "assets/projects/web/defense.webp",
+    "source": "https://en.apa.az/military/azerbaijan-armys-serviceman-graduated-from-chinese-army-command-college-with-honors-424417",
+    "sourceLabel": "APA · Müdafiə Nazirliyi",
+    "alt": "Azərbaycan Respublikası Müdafiə Nazirliyi"
+  },
+  {
+    "id": 34,
+    "title": "Pərdə və jalüz | Courtyard by Marriott",
+    "category": "İnteryer",
+    "location": "Bakı",
+    "image": "assets/projects/web/courtyard-interior.webp",
+    "source": "https://idea.az/ru/company/project/courtyard-by-marriott-project/",
+    "sourceLabel": "IDEA · Courtyard by Marriott",
+    "alt": "Pərdə və jalüz | Courtyard by Marriott"
+  },
+  {
+    "id": 69,
+    "title": "Azərbaycan Beynəlxalq Bankı — Şuşa filialı",
+    "category": "Ofis və maliyyə",
+    "location": "Şuşa",
+    "image": "assets/projects/catalog/project-69.webp",
+    "alt": "Azərbaycan Beynəlxalq Bankının Şuşa filialı",
+    "description": "Azərbaycan Beynəlxalq Bankının Şuşa filialında interyer, mebel və divar üzləmələri korporativ standartlara uyğun istehsal və icra edilib. Materiallar uzunmüddətli istismar, təhlükəsizlik, texniki dəqiqlik və vahid vizual dil prinsipləri əsasında seçilib.",
+    "scope": [
+      "Bank mebelləri",
+      "Divar üzləmələri",
+      "Korporativ interyer icrası"
+    ],
+    "catalogPages": "52–55",
+    "catalog": "BARK-2026",
+    "sourceLabel": "2026 layihə kataloqu",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 49,
+    "title": "Ski Club Shahdag",
+    "category": "Otelçilik",
+    "location": "Şahdağ",
+    "image": "assets/projects/web/shahski.webp",
+    "source": "https://opensystems.az/industrial",
+    "sourceLabel": "Open Systems · Şahdağ kompleksi",
+    "alt": "Ski Club Shahdag"
+  },
+  {
     "id": 62,
     "title": "Lezzetçi Restoran",
     "category": "Qida və içki",
@@ -718,6 +550,64 @@
     "catalogBrand": "BARK PROJECTS"
   },
   {
+    "id": 15,
+    "title": "Dəniz Mall",
+    "category": "Ticarət",
+    "location": "Bakı",
+    "image": "assets/projects/web/deniz.webp",
+    "source": "https://www.pashamalls.az/portfolio/deniz-br-mall",
+    "sourceLabel": "PASHA Malls · Dəniz Mall",
+    "alt": "Dəniz Mall"
+  },
+  {
+    "id": 8,
+    "title": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi",
+    "category": "Dövlət və ictimai",
+    "location": "Bakı",
+    "image": "assets/projects/web/anticorruption.webp",
+    "source": "https://teleqraf.az/news/yasavul/260260.html",
+    "sourceLabel": "Teleqraf · Korrupsiyaya qarşı Mübarizə Baş İdarəsi",
+    "alt": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi"
+  },
+  {
+    "id": 36,
+    "title": "Pərdə və otel tekstili | Sapphire Bayil",
+    "category": "İnteryer",
+    "location": "Bakı",
+    "image": "assets/projects/web/sapphire-interior.webp",
+    "source": "https://www.tripadvisor.com/Hotel_Review-g293934-d17768748-Reviews-Sapphire_Bayil_Hotel-Baku_Absheron_Region.html",
+    "sourceLabel": "Tripadvisor · Sapphire Bayil Hotel",
+    "alt": "Pərdə və otel tekstili | Sapphire Bayil"
+  },
+  {
+    "id": 70,
+    "title": "Ravy Property Ofisi",
+    "category": "Ofis və maliyyə",
+    "location": "Bakı",
+    "image": "assets/projects/catalog/project-70.webp",
+    "alt": "Ravy Property ofis interyeri",
+    "description": "Ravy Property ofisi üçün brend kimliyini tamamlayan qəbul zonası, iş məkanları və dekorativ yaşıl divar həlləri hazırlanıb. Mebel və material seçimi gündəlik iş axınına və korporativ təqdimata uyğun qurulub.",
+    "scope": [
+      "Resepsiyon mebeli",
+      "Ofis komplektasiyası",
+      "Brendə uyğun interyer elementləri"
+    ],
+    "catalogPages": "56–57",
+    "catalog": "BARK-2026",
+    "sourceLabel": "2026 layihə kataloqu",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 50,
+    "title": "Lake Side Shahdag",
+    "category": "Otelçilik",
+    "location": "Şahdağ",
+    "image": "assets/projects/web/shahlake.webp",
+    "source": "https://www.shahdag.az/az/hotel/lakeside-hotel",
+    "sourceLabel": "Shahdag.az · LakeSide Hotel",
+    "alt": "Lake Side Shahdag"
+  },
+  {
     "id": 63,
     "title": "Macara Restoran",
     "category": "Qida və içki",
@@ -731,6 +621,92 @@
       "Fərdi doğrama işləri"
     ],
     "catalogPages": "30–31",
+    "catalog": "BARK-2026",
+    "sourceLabel": "2026 layihə kataloqu",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 31,
+    "title": "Crescent Mall",
+    "category": "Ticarət",
+    "location": "Bakı",
+    "image": "assets/projects/web/crescent.webp",
+    "source": "https://crescentmall.az/",
+    "sourceLabel": "Crescent Mall · rəsmi interyer",
+    "alt": "Crescent Mall"
+  },
+  {
+    "id": 17,
+    "title": "Knightsbridge Residence White City",
+    "category": "Yaşayış",
+    "location": "Bakı",
+    "image": "assets/projects/web/knightsbridge.webp",
+    "source": "https://serealdesign.com/project-knightsbridge-residence-021",
+    "sourceLabel": "Sereal Design · Knightsbridge interyeri",
+    "alt": "Knightsbridge Residence White City"
+  },
+  {
+    "id": 10,
+    "title": "Zəngilan Konqres Mərkəzi",
+    "category": "Dövlət və ictimai",
+    "location": "Zəngilan",
+    "image": "assets/projects/web/zangilan.webp",
+    "source": "https://report.az/daxili-siyaset/zengilan-konqres-merkezi-kompleksinin-acilisi-olub",
+    "sourceLabel": "Report.az · Zəngilan Konqres Mərkəzi",
+    "alt": "Zəngilan Konqres Mərkəzi"
+  },
+  {
+    "id": 16,
+    "title": "Su İdman Sarayı",
+    "category": "İdman və ictimai",
+    "location": "Bakı",
+    "image": "assets/projects/web/aquatic.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Baku_Aquatic_Palace,_Azerbaijan,_Caspian_Sea_shore,_Boulevard.jpg",
+    "sourceLabel": "Ahl Baku · CC BY-SA 4.0 · Wikimedia Commons",
+    "alt": "Su İdman Sarayı"
+  },
+  {
+    "id": 38,
+    "title": "Pərdə və jalüz | Sea Breeze Grand Hotel",
+    "category": "İnteryer",
+    "location": "Nardaran",
+    "image": "assets/projects/web/seabreeze-interior.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Sea_Breeze_resort.jpg",
+    "sourceLabel": "Wikimedia Commons · Sea Breeze resort",
+    "alt": "Pərdə və jalüz | Sea Breeze Grand Hotel"
+  },
+  {
+    "id": 71,
+    "title": "Biznes Mərkəzi — Ofis İnteryeri",
+    "category": "Ofis və maliyyə",
+    "location": "Bakı",
+    "image": "assets/projects/catalog/project-71.webp",
+    "alt": "Biznes mərkəzi ofis interyeri",
+    "description": "Biznes mərkəzinin ofis, görüş və qəbul zonaları üçün ölçüyə uyğun mebel və üzləmə həlləri hazırlanıb. Sakit rəng palitrası, davamlı materiallar və funksional planlama peşəkar iş mühiti yaradır.",
+    "scope": [
+      "Ofis və görüş mebelləri",
+      "Resepsiyon zonası",
+      "Divar və səth üzləmələri"
+    ],
+    "catalogPages": "58–59",
+    "catalog": "BARK-2026",
+    "sourceLabel": "2026 layihə kataloqu",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 54,
+    "title": "Quba Macara Hotel 1",
+    "category": "Otelçilik",
+    "location": "Quba",
+    "image": "assets/projects/catalog/project-54.webp",
+    "alt": "Quba Macara Hotel 1 layihəsi",
+    "description": "Quba regionunun turizm potensialını əks etdirən Macara Hotel üçün yüksək istismar tələblərinə cavab verən mebel və interyer elementləri hazırlanıb. Konstruktiv həllər material davamlılığı, rahat istifadə və otelin funksional ehtiyacları əsasında seçilib. Nəticədə premium qonaqpərvərlik standartlarına uyğun ölçülü və rahat məkan formalaşıb.",
+    "scope": [
+      "Otel mebelləri",
+      "İnteryer elementləri",
+      "İstehsal və quraşdırma"
+    ],
+    "catalogPages": "10–11",
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
     "catalogBrand": "BARK PROJECTS"
@@ -754,24 +730,6 @@
     "catalogBrand": "BARK PROJECTS"
   },
   {
-    "id": 65,
-    "title": "Buy Café — Ağ Şəhər Ravy Tower",
-    "category": "Qida və içki",
-    "location": "Bakı, Ağ Şəhər",
-    "image": "assets/projects/catalog/project-65.webp",
-    "alt": "Ağ Şəhər Ravy Tower Buy Cafe",
-    "description": "Ağ Şəhər Ravy Tower-də yerləşən Buy Café-nin bütün interyer həlləri və mebelləri məkan üçün xüsusi layihələndirilib. Müasir şəhər üslubu isti atmosfer və yüksək funksionallıqla birləşdirilib; ergonomik mebellər və zərif detallar kafeyə özünəməxsus xarakter qazandırır.",
-    "scope": [
-      "Tam interyer həlli",
-      "Xüsusi mebel istehsalı",
-      "Erqonomik oturma zonaları"
-    ],
-    "catalogPages": "34–37",
-    "catalog": "BARK-2026",
-    "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
-  },
-  {
     "id": 67,
     "title": "Hökməli Məktəb Layihəsi",
     "category": "Təhsil",
@@ -785,96 +743,6 @@
       "İnteryer istehsalı"
     ],
     "catalogPages": "42–47",
-    "catalog": "BARK-2026",
-    "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
-  },
-  {
-    "id": 68,
-    "title": "STEAM Təhsil Mərkəzi",
-    "category": "Təhsil",
-    "location": "Bakı",
-    "image": "assets/projects/catalog/project-68.webp",
-    "alt": "STEAM təhsil mərkəzi",
-    "description": "STEAM Təhsil Mərkəzində çevik istifadə olunan siniflər, laboratoriya zonaları və saxlama sistemləri üçün rəngli, modul və funksional mebellər hazırlanıb. Məkanlar komanda işi, praktiki məşğələ və fərqli yaş qrupları üçün uyğunlaşdırılıb.",
-    "scope": [
-      "Modul təhsil mebelləri",
-      "Laboratoriya və saxlama sistemləri",
-      "Siniflərin komplektasiyası"
-    ],
-    "catalogPages": "48–51",
-    "catalog": "BARK-2026",
-    "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
-  },
-  {
-    "id": 69,
-    "title": "Azərbaycan Beynəlxalq Bankı — Şuşa filialı",
-    "category": "Ofis və maliyyə",
-    "location": "Şuşa",
-    "image": "assets/projects/catalog/project-69.webp",
-    "alt": "Azərbaycan Beynəlxalq Bankının Şuşa filialı",
-    "description": "Azərbaycan Beynəlxalq Bankının Şuşa filialında interyer, mebel və divar üzləmələri korporativ standartlara uyğun istehsal və icra edilib. Materiallar uzunmüddətli istismar, təhlükəsizlik, texniki dəqiqlik və vahid vizual dil prinsipləri əsasında seçilib.",
-    "scope": [
-      "Bank mebelləri",
-      "Divar üzləmələri",
-      "Korporativ interyer icrası"
-    ],
-    "catalogPages": "52–55",
-    "catalog": "BARK-2026",
-    "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
-  },
-  {
-    "id": 70,
-    "title": "Ravy Property Ofisi",
-    "category": "Ofis və maliyyə",
-    "location": "Bakı",
-    "image": "assets/projects/catalog/project-70.webp",
-    "alt": "Ravy Property ofis interyeri",
-    "description": "Ravy Property ofisi üçün brend kimliyini tamamlayan qəbul zonası, iş məkanları və dekorativ yaşıl divar həlləri hazırlanıb. Mebel və material seçimi gündəlik iş axınına və korporativ təqdimata uyğun qurulub.",
-    "scope": [
-      "Resepsiyon mebeli",
-      "Ofis komplektasiyası",
-      "Brendə uyğun interyer elementləri"
-    ],
-    "catalogPages": "56–57",
-    "catalog": "BARK-2026",
-    "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
-  },
-  {
-    "id": 71,
-    "title": "Biznes Mərkəzi — Ofis İnteryeri",
-    "category": "Ofis və maliyyə",
-    "location": "Bakı",
-    "image": "assets/projects/catalog/project-71.webp",
-    "alt": "Biznes mərkəzi ofis interyeri",
-    "description": "Biznes mərkəzinin ofis, görüş və qəbul zonaları üçün ölçüyə uyğun mebel və üzləmə həlləri hazırlanıb. Sakit rəng palitrası, davamlı materiallar və funksional planlama peşəkar iş mühiti yaradır.",
-    "scope": [
-      "Ofis və görüş mebelləri",
-      "Resepsiyon zonası",
-      "Divar və səth üzləmələri"
-    ],
-    "catalogPages": "58–59",
-    "catalog": "BARK-2026",
-    "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
-  },
-  {
-    "id": 72,
-    "title": "Biznes Mərkəzi — Giriş və Lobbi",
-    "category": "Ofis və maliyyə",
-    "location": "Bakı",
-    "image": "assets/projects/catalog/project-72.webp",
-    "alt": "Biznes mərkəzi giriş və lobbi",
-    "description": "Biznes mərkəzinin giriş və lobbi zonasında premium materiallar, inteqrasiya edilmiş işıq və fərdi divar panelləri ilə güclü ilk təəssürat yaradılıb. İstehsal həlləri yüksək ziyarətçi axınına uyğun davamlılıqla tamamlanıb.",
-    "scope": [
-      "Lobbi interyeri",
-      "Fərdi divar panelləri",
-      "Dekorativ işıq inteqrasiyası"
-    ],
-    "catalogPages": "60–61",
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
     "catalogBrand": "BARK PROJECTS"
@@ -898,6 +766,128 @@
     "catalogBrand": "BARK PROJECTS"
   },
   {
+    "id": 27,
+    "title": "Bakı Atletlər Kəndi",
+    "category": "Yaşayış",
+    "location": "Bakı",
+    "image": "assets/projects/web/athletes.webp",
+    "source": "https://www.hotels.com/ho3568004416/",
+    "sourceLabel": "Bakı Atletlər Kəndi · interyer görünüşü",
+    "alt": "Bakı Atletlər Kəndi"
+  },
+  {
+    "id": 45,
+    "title": "SOCAR Tower",
+    "category": "Dövlət və ictimai",
+    "location": "Bakı",
+    "image": "assets/projects/web/socar.webp",
+    "source": "https://president.az/az/articles/view/20037",
+    "sourceLabel": "President.az · SOCAR Tower",
+    "alt": "SOCAR Tower"
+  },
+  {
+    "id": 47,
+    "title": "Yacht Club",
+    "category": "İctimai məkan",
+    "location": "Bakı",
+    "image": "assets/projects/web/yacht.webp",
+    "source": "https://www.tripadvisor.com.au/Hotel_Review-g293934-d4271765-Reviews-Yacht_Club-Baku_Absheron_Region.html",
+    "sourceLabel": "Tripadvisor · Yacht Club",
+    "alt": "Yacht Club"
+  },
+  {
+    "id": 52,
+    "title": "Şahdağ dağ-xizək kompleksi",
+    "category": "İdman və ictimai",
+    "location": "Şahdağ",
+    "image": "assets/projects/web/shahdag-resort.webp",
+    "source": "https://www.shahdag.az/en/sports-activities",
+    "sourceLabel": "Shahdag.az · Ski club and resort",
+    "alt": "Şahdağ dağ-xizək kompleksi"
+  },
+  {
+    "id": 40,
+    "title": "Pərdə və jalüz | Sea Breeze Park Cafe",
+    "category": "İnteryer",
+    "location": "Nardaran",
+    "image": "assets/projects/web/parkcafe-interior.webp",
+    "source": "https://seabreeze.az/en/infrastructure/restaurants/park-cafe",
+    "sourceLabel": "Sea Breeze · Park Cafe",
+    "alt": "Pərdə və jalüz | Sea Breeze Park Cafe"
+  },
+  {
+    "id": 72,
+    "title": "Biznes Mərkəzi — Giriş və Lobbi",
+    "category": "Ofis və maliyyə",
+    "location": "Bakı",
+    "image": "assets/projects/catalog/project-72.webp",
+    "alt": "Biznes mərkəzi giriş və lobbi",
+    "description": "Biznes mərkəzinin giriş və lobbi zonasında premium materiallar, inteqrasiya edilmiş işıq və fərdi divar panelləri ilə güclü ilk təəssürat yaradılıb. İstehsal həlləri yüksək ziyarətçi axınına uyğun davamlılıqla tamamlanıb.",
+    "scope": [
+      "Lobbi interyeri",
+      "Fərdi divar panelləri",
+      "Dekorativ işıq inteqrasiyası"
+    ],
+    "catalogPages": "60–61",
+    "catalog": "BARK-2026",
+    "sourceLabel": "2026 layihə kataloqu",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 55,
+    "title": "Quba Macara Hotel 2",
+    "category": "Otelçilik",
+    "location": "Quba",
+    "image": "assets/projects/catalog/project-55.webp",
+    "alt": "Quba Macara Hotel 2 layihəsi",
+    "description": "Macara Hotel kompleksinin ikinci mərhələsində otaqlar və ümumi istifadə zonaları vahid dizayn dili ilə tamamlanıb. BARK PROJECTS rahatlıq, vizual nizam və uzunmüddətli istismarı əsas götürərək fərdi mebel və interyer detallarını layihəyə uyğunlaşdırıb.",
+    "scope": [
+      "Fərdi otaq mebelləri",
+      "Ümumi zonaların təchizatı",
+      "Dekorativ interyer detalları"
+    ],
+    "catalogPages": "12–13",
+    "catalog": "BARK-2026",
+    "sourceLabel": "2026 layihə kataloqu",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 65,
+    "title": "Buy Café — Ağ Şəhər Ravy Tower",
+    "category": "Qida və içki",
+    "location": "Bakı, Ağ Şəhər",
+    "image": "assets/projects/catalog/project-65.webp",
+    "alt": "Ağ Şəhər Ravy Tower Buy Cafe",
+    "description": "Ağ Şəhər Ravy Tower-də yerləşən Buy Café-nin bütün interyer həlləri və mebelləri məkan üçün xüsusi layihələndirilib. Müasir şəhər üslubu isti atmosfer və yüksək funksionallıqla birləşdirilib; ergonomik mebellər və zərif detallar kafeyə özünəməxsus xarakter qazandırır.",
+    "scope": [
+      "Tam interyer həlli",
+      "Xüsusi mebel istehsalı",
+      "Erqonomik oturma zonaları"
+    ],
+    "catalogPages": "34–37",
+    "catalog": "BARK-2026",
+    "sourceLabel": "2026 layihə kataloqu",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 68,
+    "title": "STEAM Təhsil Mərkəzi",
+    "category": "Təhsil",
+    "location": "Bakı",
+    "image": "assets/projects/catalog/project-68.webp",
+    "alt": "STEAM təhsil mərkəzi",
+    "description": "STEAM Təhsil Mərkəzində çevik istifadə olunan siniflər, laboratoriya zonaları və saxlama sistemləri üçün rəngli, modul və funksional mebellər hazırlanıb. Məkanlar komanda işi, praktiki məşğələ və fərqli yaş qrupları üçün uyğunlaşdırılıb.",
+    "scope": [
+      "Modul təhsil mebelləri",
+      "Laboratoriya və saxlama sistemləri",
+      "Siniflərin komplektasiyası"
+    ],
+    "catalogPages": "48–51",
+    "catalog": "BARK-2026",
+    "sourceLabel": "2026 layihə kataloqu",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
     "id": 74,
     "title": "Almond Mağazalar Şəbəkəsi",
     "category": "Ticarət",
@@ -914,5 +904,15 @@
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
     "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 29,
+    "title": "Port Baku Tower 2",
+    "category": "Yaşayış",
+    "location": "Bakı",
+    "image": "assets/projects/web/porttower.webp",
+    "source": "https://www.savills.co.uk/services/consultancy/projects/port-baku-towers.aspx",
+    "sourceLabel": "Savills · Port Baku Towers interyeri",
+    "alt": "Port Baku Tower 2"
   }
 ]
