@@ -446,6 +446,22 @@
     "alt": "Azərbaycan Respublikasının Milli Məclisi"
   },
   {
+    "id": 78,
+    "title": "Əmlak Komitəsinin yeni binası",
+    "category": "Dövlət və ictimai",
+    "location": "Azərbaycan",
+    "alt": "Əmlak Komitəsinin yeni binası",
+    "description": "NIMEX MMC-nin 12.07.2021 tarixli məktubu Əmlak Komitəsinin yeni binasını AZ ALI MMC-yə həvalə edilmiş layihələr arasında nümunə göstərir. Məktub layihə çərçivəsində öhdəliklərin yüksək səviyyədə yerinə yetirildiyini təsdiqləyir; konkret iş növləri və texniki həcmlər qeyd olunmur.",
+    "scope": [
+      "NIMEX ilə layihə əməkdaşlığı",
+      "Öhdəliklərin icrası"
+    ],
+    "recommendation": {
+      "source": "NIMEX MMC · 12.07.2021",
+      "summary": "NIMEX MMC Əmlak Komitəsinin yeni binasını AZ ALI MMC-yə həvalə etdiyi böyük layihələrdən biri kimi göstərir. Məktubda üzərinə düşən bütün öhdəliklərin yüksək səviyyədə yerinə yetirildiyi qeyd olunur. İşlərin konkret növü və texniki həcmi məktubda göstərilmir."
+    }
+  },
+  {
     "id": 32,
     "title": "Pərdə və jalüz | Crescent Mall",
     "category": "İnteryer",
@@ -504,6 +520,22 @@
     "alt": "Azərbaycan Respublikası Müdafiə Nazirliyi"
   },
   {
+    "id": 77,
+    "title": "İqtisadiyyat Nazirliyinin yeni binası — Tekfen",
+    "category": "Dövlət və ictimai",
+    "location": "Azərbaycan",
+    "alt": "İqtisadiyyat Nazirliyinin yeni binası",
+    "description": "NIMEX MMC-nin 12.07.2021 tarixli məktubunda İqtisadiyyat Nazirliyinin yeni binası Tekfen layihəsi kimi göstərilir. Məktuba görə, layihənin icrası AZ ALI MMC-yə həvalə olunub və layihə çərçivəsində üzərinə düşən öhdəliklər yüksək səviyyədə yerinə yetirilib. Məktub işlərin konkret növünü və texniki həcmini açıqlamır.",
+    "scope": [
+      "NIMEX ilə layihə əməkdaşlığı",
+      "Öhdəliklərin icrası"
+    ],
+    "recommendation": {
+      "source": "NIMEX MMC · 12.07.2021",
+      "summary": "NIMEX MMC bu layihəni AZ ALI MMC-yə həvalə etdiyi böyük layihələrdən biri kimi qeyd edir. Məktubda layihə çərçivəsində üzərinə düşən bütün öhdəliklərin yüksək səviyyədə yerinə yetirildiyi bildirilir. İşlərin konkret növü və texniki həcmi məktubda sadalanmır."
+    }
+  },
+  {
     "id": 34,
     "title": "Pərdə və jalüz | Courtyard by Marriott",
     "category": "İnteryer",
@@ -529,10 +561,22 @@
     "catalogPages": "52–55",
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS",
+    "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 80,
+    "title": "Binalarda divar üzlənmə işləri — ABB",
+    "category": "Dövlət və ictimai",
+    "location": "Azərbaycan",
+    "alt": "ABB binalarında divar üzlənmə işləri",
+    "description": "“Azərbaycan Beynəlxalq Bankı” ASC üçün MXS və inzibati binalarda divar üzlənmə işləri 11.09.2024 tarixli ABB-2024/258 nömrəli müqavilə çərçivəsində icra olunub. ABB məktubu yüksək peşəkarlıq, keyfiyyətli xidmət və operativliyi təsdiqləyir. Məktub konkret bina və ünvanları açıqlamır.",
+    "scope": [
+      "Divar üzlənmə işləri",
+      "MXS və inzibati binalar"
+    ],
     "recommendation": {
-      "source": "“Azərbaycan Beynəlxalq Bankı” ASC · müqavilə ABB-2024/258 · 11.09.2024; məktub 12.01.2026",
-      "summary": "ABB ilə AZ ALI MMC arasında MXS və inzibati binalarda divar üzlənmə işlərinin satın alınmasına dair 11.09.2024 tarixli, ABB-2024/258 nömrəli müqavilə imzalanıb. Satınalmalar Departamentinin direktoru Fərid Şahmuradovun 12.01.2026 tarixli məktubu əməkdaşlıq çərçivəsində yüksək peşəkarlıq, keyfiyyətli xidmət və operativliyi təsdiqləyir. ABB göstərilən xidmət səviyyəsindən razılığını bildirir və binalarda divar üzlənmə işləri üzrə əməkdaşlığı tövsiyə edir. Məktub konkret olaraq Şuşa filialını adlandırmır."
+      "source": "“Azərbaycan Beynəlxalq Bankı” ASC · müqavilə ABB-2024/258",
+      "summary": "ABB təsdiq edir ki, AZ ALI MMC ilə MXS və inzibati binalarda divar üzlənmə işlərinin satın alınması üzrə 11.09.2024 tarixli ABB-2024/258 müqaviləsi imzalanıb. ABB göstərilən xidmət səviyyəsindən razı qalıb və bu sahədə əməkdaşlığı tövsiyə edib. Tövsiyə məktubunun imzalanma tarixi 12.01.2026-dır."
     }
   },
   {
@@ -706,6 +750,22 @@
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
     "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 75,
+    "title": "BMS PRO ofis mebelləri",
+    "category": "Ofis və maliyyə",
+    "location": "Bakı",
+    "alt": "BMS PRO ofis mebeli təchizatı",
+    "description": "BMS PRO MMC öz ofis mebellərinin AZ ALI MMC tərəfindən qısa müddətdə və lazımi səviyyədə təchiz edildiyini bildirir. Məktubda işə peşəkar münasibət, keyfiyyət və məsuliyyət qeyd olunur. BMS PRO gələcək layihələri də AZ ALI MMC-yə həvalə etməyi nəzərdə tutduğunu yazır.",
+    "scope": [
+      "Ofis mebellərinin təchizatı",
+      "Qısa müddətdə icra"
+    ],
+    "recommendation": {
+      "source": "BMS PRO MMC · Vasif Əzimzadə, direktor",
+      "summary": "BMS PRO məktubuna əsasən şirkətin ofis mebelləri AZ ALI MMC tərəfindən qısa müddətdə təchiz edilib. Peşəkarlıq, keyfiyyət və məsuliyyətə görə təşəkkür bildirilib; BMS PRO əməkdaşlıqdan razı olduğunu və gələcək layihələri də AZ ALI MMC-yə həvalə etməyi planlaşdırdığını qeyd edib."
+    }
   },
   {
     "id": 54,
@@ -889,6 +949,24 @@
     "catalogBrand": "BARK PROJECTS"
   },
   {
+    "id": 79,
+    "title": "SHAFA Kafe — Heydər Əliyev Beynəlxalq Hava Limanı",
+    "category": "Qida və içki",
+    "location": "Heydər Əliyev Beynəlxalq Hava Limanı",
+    "alt": "SHAFA Kafe layihəsi",
+    "description": "ABICON MMC-nin 17.09.2025 tarixli məktubu Heydər Əliyev adına Beynəlxalq Hava Limanında yerləşən SHAFA kafe layihəsində AZ ALI MMC-nin işlərini qiymətləndirir. Sifarişə ofis mebeli, müdir və işçi kresloları, yumşaq mebellər daxil olub. Məktubda rahatlıq, funksionallıq, davamlılıq, estetika, erqonomika, vaxtında çatdırılma və çevik xidmət vurğulanır.",
+    "scope": [
+      "Ofis mebeli",
+      "Müdir və işçi kresloları",
+      "Yumşaq mebellər",
+      "Vaxtında çatdırılma və çevik xidmət"
+    ],
+    "recommendation": {
+      "source": "ABICON MMC · 17.09.2025",
+      "summary": "ABICON MMC-nin direktoru Bəxtiyar Mirzəyev H.Əliyev adına Beynəlxalq Hava Limanında yerləşən SHAFA kafe layihəsi üzrə göstərilən xidmət və məhsul keyfiyyətindən məmnun olduqlarını bildirir. Məktubda ofis mebeli, müdir və işçi kresloları, yumşaq mebellər sadalanır. Məhsulların keyfiyyət, rahatlıq və funksionallıq tələblərinə cavab verdiyi, davamlı, estetik və erqonomik olduğu; sifarişlərin vaxtında çatdırılması, müştəri məmnuniyyətinə diqqət və çevik xidmət qeyd olunur."
+    }
+  },
+  {
     "id": 68,
     "title": "STEAM Təhsil Mərkəzi",
     "category": "Təhsil",
@@ -905,6 +983,22 @@
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
     "catalogBrand": "BARK PROJECTS"
+  },
+  {
+    "id": 76,
+    "title": "Təhsil Nazirliyi üçün sifarişlər",
+    "category": "Təhsil",
+    "location": "Azərbaycan",
+    "alt": "Təhsil Nazirliyi üçün sifarişlər",
+    "description": "“Mühəndislik Tikinti Təchizat” MMC AZ ALI MMC ilə mebel sektorunda əməkdaşlıq etdiyini və Təhsil Nazirliyi üçün verilmiş sifarişlər üzrə iş birliyindən məmnun qaldığını bildirir. Məktubda AZ ALI komandasının qoyulan tələbləri yerinə yetirməkdə peşəkarlığı və çalışma əzmi qeyd edilir; sifarişlərin məhsul növü və ünvanı məktubda açıqlanmır.",
+    "scope": [
+      "Təhsil Nazirliyi üçün sifarişlərin icrası",
+      "Mebel təchizatı"
+    ],
+    "recommendation": {
+      "source": "“Mühəndislik Tikinti Təchizat” MMC",
+      "summary": "Məktubda Təhsil Nazirliyi üçün verilmiş sifarişlər üzrə əməkdaşlıqdan məmnunluq bildirilir. Şirkət AZ ALI MMC-nin tələblərin yerinə yetirilməsində göstərdiyi peşəkarlığı və komanda əzmini vurğulayır, AZ ALI MMC-ni digər şirkət və təşkilatlara tövsiyə edir. Sifarişlərin konkret layihə adı, ünvanı və məhsul siyahısı məktubda göstərilmir."
+    }
   },
   {
     "id": 74,
@@ -933,103 +1027,5 @@
     "source": "https://www.savills.co.uk/services/consultancy/projects/port-baku-towers.aspx",
     "sourceLabel": "Savills · Port Baku Towers interyeri",
     "alt": "Port Baku Tower 2"
-  },
-  {
-    "id": 75,
-    "title": "BMS PRO ofis mebelləri",
-    "category": "Ofis və maliyyə",
-    "location": "Bakı",
-    "alt": "BMS PRO ofis mebeli təchizatı",
-    "description": "BMS PRO MMC öz ofis mebellərinin AZ ALI MMC tərəfindən qısa müddətdə və lazımi səviyyədə təchiz edildiyini bildirir. Məktubda işə peşəkar münasibət, keyfiyyət və məsuliyyət qeyd olunur. BMS PRO gələcək layihələri də AZ ALI MMC-yə həvalə etməyi nəzərdə tutduğunu yazır.",
-    "scope": [
-      "Ofis mebellərinin təchizatı",
-      "Qısa müddətdə icra"
-    ],
-    "recommendation": {
-      "source": "BMS PRO MMC · Vasif Əzimzadə, direktor",
-      "summary": "BMS PRO məktubuna əsasən şirkətin ofis mebelləri AZ ALI MMC tərəfindən qısa müddətdə təchiz edilib. Peşəkarlıq, keyfiyyət və məsuliyyətə görə təşəkkür bildirilib; BMS PRO əməkdaşlıqdan razı olduğunu və gələcək layihələri də AZ ALI MMC-yə həvalə etməyi planlaşdırdığını qeyd edib."
-    }
-  },
-  {
-    "id": 76,
-    "title": "Təhsil Nazirliyi üçün sifarişlər",
-    "category": "Təhsil",
-    "location": "Azərbaycan",
-    "alt": "Təhsil Nazirliyi üçün sifarişlər",
-    "description": "“Mühəndislik Tikinti Təchizat” MMC AZ ALI MMC ilə mebel sektorunda əməkdaşlıq etdiyini və Təhsil Nazirliyi üçün verilmiş sifarişlər üzrə iş birliyindən məmnun qaldığını bildirir. Məktubda AZ ALI komandasının qoyulan tələbləri yerinə yetirməkdə peşəkarlığı və çalışma əzmi qeyd edilir; sifarişlərin məhsul növü və ünvanı məktubda açıqlanmır.",
-    "scope": [
-      "Təhsil Nazirliyi üçün sifarişlərin icrası",
-      "Mebel təchizatı"
-    ],
-    "recommendation": {
-      "source": "“Mühəndislik Tikinti Təchizat” MMC",
-      "summary": "Məktubda Təhsil Nazirliyi üçün verilmiş sifarişlər üzrə əməkdaşlıqdan məmnunluq bildirilir. Şirkət AZ ALI MMC-nin tələblərin yerinə yetirilməsində göstərdiyi peşəkarlığı və komanda əzmini vurğulayır, AZ ALI MMC-ni digər şirkət və təşkilatlara tövsiyə edir. Sifarişlərin konkret layihə adı, ünvanı və məhsul siyahısı məktubda göstərilmir."
-    }
-  },
-  {
-    "id": 77,
-    "title": "İqtisadiyyat Nazirliyinin yeni binası — Tekfen",
-    "category": "Dövlət və ictimai",
-    "location": "Azərbaycan",
-    "alt": "İqtisadiyyat Nazirliyinin yeni binası",
-    "description": "NIMEX MMC-nin 12.07.2021 tarixli məktubunda İqtisadiyyat Nazirliyinin yeni binası Tekfen layihəsi kimi göstərilir. Məktuba görə, layihənin icrası AZ ALI MMC-yə həvalə olunub və layihə çərçivəsində üzərinə düşən öhdəliklər yüksək səviyyədə yerinə yetirilib. Məktub işlərin konkret növünü və texniki həcmini açıqlamır.",
-    "scope": [
-      "NIMEX ilə layihə əməkdaşlığı",
-      "Öhdəliklərin icrası"
-    ],
-    "recommendation": {
-      "source": "NIMEX MMC · 12.07.2021",
-      "summary": "NIMEX MMC bu layihəni AZ ALI MMC-yə həvalə etdiyi böyük layihələrdən biri kimi qeyd edir. Məktubda layihə çərçivəsində üzərinə düşən bütün öhdəliklərin yüksək səviyyədə yerinə yetirildiyi bildirilir. İşlərin konkret növü və texniki həcmi məktubda sadalanmır."
-    }
-  },
-  {
-    "id": 78,
-    "title": "Əmlak Komitəsinin yeni binası",
-    "category": "Dövlət və ictimai",
-    "location": "Azərbaycan",
-    "alt": "Əmlak Komitəsinin yeni binası",
-    "description": "NIMEX MMC-nin 12.07.2021 tarixli məktubu Əmlak Komitəsinin yeni binasını AZ ALI MMC-yə həvalə edilmiş layihələr arasında nümunə göstərir. Məktub layihə çərçivəsində öhdəliklərin yüksək səviyyədə yerinə yetirildiyini təsdiqləyir; konkret iş növləri və texniki həcmlər qeyd olunmur.",
-    "scope": [
-      "NIMEX ilə layihə əməkdaşlığı",
-      "Öhdəliklərin icrası"
-    ],
-    "recommendation": {
-      "source": "NIMEX MMC · 12.07.2021",
-      "summary": "NIMEX MMC Əmlak Komitəsinin yeni binasını AZ ALI MMC-yə həvalə etdiyi böyük layihələrdən biri kimi göstərir. Məktubda üzərinə düşən bütün öhdəliklərin yüksək səviyyədə yerinə yetirildiyi qeyd olunur. İşlərin konkret növü və texniki həcmi məktubda göstərilmir."
-    }
-  },
-  {
-    "id": 79,
-    "title": "SHAFA Kafe — Heydər Əliyev Beynəlxalq Hava Limanı",
-    "category": "Qida və içki",
-    "location": "Heydər Əliyev Beynəlxalq Hava Limanı",
-    "alt": "SHAFA Kafe layihəsi",
-    "description": "ABICON MMC-nin 17.09.2025 tarixli məktubu Heydər Əliyev adına Beynəlxalq Hava Limanında yerləşən SHAFA kafe layihəsində AZ ALI MMC-nin işlərini qiymətləndirir. Sifarişə ofis mebeli, müdir və işçi kresloları, yumşaq mebellər daxil olub. Məktubda rahatlıq, funksionallıq, davamlılıq, estetika, erqonomika, vaxtında çatdırılma və çevik xidmət vurğulanır.",
-    "scope": [
-      "Ofis mebeli",
-      "Müdir və işçi kresloları",
-      "Yumşaq mebellər",
-      "Vaxtında çatdırılma və çevik xidmət"
-    ],
-    "recommendation": {
-      "source": "ABICON MMC · 17.09.2025",
-      "summary": "ABICON MMC-nin direktoru Bəxtiyar Mirzəyev H.Əliyev adına Beynəlxalq Hava Limanında yerləşən SHAFA kafe layihəsi üzrə göstərilən xidmət və məhsul keyfiyyətindən məmnun olduqlarını bildirir. Məktubda ofis mebeli, müdir və işçi kresloları, yumşaq mebellər sadalanır. Məhsulların keyfiyyət, rahatlıq və funksionallıq tələblərinə cavab verdiyi, davamlı, estetik və erqonomik olduğu; sifarişlərin vaxtında çatdırılması, müştəri məmnuniyyətinə diqqət və çevik xidmət qeyd olunur."
-    }
-  },
-  {
-    "id": 80,
-    "title": "Binalarda divar üzlənmə işləri — ABB",
-    "category": "Dövlət və ictimai",
-    "location": "Azərbaycan",
-    "alt": "ABB binalarında divar üzlənmə işləri",
-    "description": "“Azərbaycan Beynəlxalq Bankı” ASC üçün MXS və inzibati binalarda divar üzlənmə işləri 11.09.2024 tarixli ABB-2024/258 nömrəli müqavilə çərçivəsində icra olunub. ABB məktubu yüksək peşəkarlıq, keyfiyyətli xidmət və operativliyi təsdiqləyir. Məktub konkret bina və ünvanları açıqlamır.",
-    "scope": [
-      "Divar üzlənmə işləri",
-      "MXS və inzibati binalar"
-    ],
-    "recommendation": {
-      "source": "“Azərbaycan Beynəlxalq Bankı” ASC · müqavilə ABB-2024/258",
-      "summary": "ABB təsdiq edir ki, AZ ALI MMC ilə MXS və inzibati binalarda divar üzlənmə işlərinin satın alınması üzrə 11.09.2024 tarixli ABB-2024/258 müqaviləsi imzalanıb. ABB göstərilən xidmət səviyyəsindən razı qalıb və bu sahədə əməkdaşlığı tövsiyə edib. Tövsiyə məktubunun imzalanma tarixi 12.01.2026-dır."
-    }
   }
 ]
