@@ -15,7 +15,11 @@
     "catalogPages": "38–41",
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
+    "catalogBrand": "BARK PROJECTS",
+    "recommendation": {
+      "source": "“Gəncə Memorial” tövsiyə məktubu",
+      "summary": "Yüklənmiş “Gəncə Memorial” adlı tövsiyə məktubu bu layihə ilə əlaqələndirilib. Məktub skan şəklində olduğuna görə onun mətni və icra göstəriciləri etibarlı şəkildə oxunmadı; buna görə əlavə keyfiyyət və ya təhvil müddəti iddiası daxil edilməyib."
+    }
   },
   {
     "id": 53,
@@ -33,7 +37,11 @@
     "catalogPages": "8–9",
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
+    "catalogBrand": "BARK PROJECTS",
+    "recommendation": {
+      "source": "“Riverside Ağdərə” tövsiyə məktubu",
+      "summary": "Yüklənmiş “Riverside Ağdərə” adlı tövsiyə məktubu Qarabağ Riverside Hotel layihəsi ilə əlaqələndirilib. Məktub skan şəklində olduğuna görə onun mətni və icra göstəriciləri etibarlı şəkildə oxunmadı; buna görə əlavə keyfiyyət və ya təhvil müddəti iddiası daxil edilməyib."
+    }
   },
   {
     "id": 58,
@@ -519,7 +527,11 @@
     "catalogPages": "52–55",
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
+    "catalogBrand": "BARK PROJECTS",
+    "recommendation": {
+      "source": "“Azərbaycan Beynəlxalq Bankı” ASC · 11.09.2024 · Müqavilə №2024/258",
+      "summary": "ABB-nin tövsiyə məktubunda AZ ALI MMC ilə MXS və inzibati binalarda divar üzlənmə işlərinin satınalınması üzrə 11.09.2024 tarixli 2024/258 saylı müqavilə təsdiqlənir. Məktubda xidmətin qəbul edildiyi və şirkətin divar üzlənmə işləri üzrə peşəkar tərəfdaş kimi tövsiyə olunduğu bildirilir. Bu rəy saytdakı ABB — Şuşa filialı layihəsi ilə байгуулığın təsdiqlədiyi divar üzlənmə və interyer işləri baxımından əlaqəlidir."
+    }
   },
   {
     "id": 49,
