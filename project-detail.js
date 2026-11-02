@@ -69,13 +69,27 @@ function setProject(project, projects) {
   }
 
   const hero = document.querySelector("#detail-image");
-  hero.src = project.image;
-  hero.alt = project.alt || title;
-  hero.dataset.galleryIndex = "0";
+  const heroSection = hero.closest(".detail-hero");
+  const gallerySection = document.querySelector(".detail-image-section");
   const secondary = document.querySelector("#detail-image-secondary");
-  secondary.src = project.secondaryImage || relatedImage(project, projects);
-  secondary.alt = `${title} layihəsindən görüntü`;
-  secondary.dataset.galleryIndex = "1";
+  if (project.image) {
+    hero.hidden = false;
+    hero.src = project.image;
+    hero.alt = project.alt || title;
+    hero.dataset.galleryIndex = "0";
+    heroSection.classList.remove("detail-hero--documented");
+    secondary.src = project.secondaryImage || relatedImage(project, projects);
+    secondary.alt = `${title} layihəsindən görüntü`;
+    secondary.dataset.galleryIndex = "1";
+    gallerySection.hidden = false;
+  } else {
+    hero.removeAttribute("src");
+    hero.hidden = true;
+    heroSection.classList.add("detail-hero--documented");
+    secondary.removeAttribute("src");
+    secondary.hidden = true;
+    gallerySection.hidden = true;
+  }
 
   const prevLink = document.querySelector("#project-prev");
   prevLink.href = `project.html?id=${encodeURIComponent(previous.id)}`;
