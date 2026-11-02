@@ -709,7 +709,11 @@
     "catalogPages": "10–11",
     "catalog": "BARK-2026",
     "sourceLabel": "2026 layihə kataloqu",
-    "catalogBrand": "BARK PROJECTS"
+    "catalogBrand": "BARK PROJECTS",
+    "recommendation": {
+      "source": "Olimp Mühəndis Xidmətləri MMC · 09.09.2021 · №123/21",
+      "summary": "Olimp Mühəndis Xidmətləri Quba şəhərində yerləşən Macara Hotel-in mebel və digər bərk inventarlarının təchizatını AZ ALI MMC-yə həvalə etdiyini bildirir. Məktubda AZ ALI müqavilə şərtlərinə uyğun işləyən etibarlı təchizatçı kimi qiymətləndirilir: işlərin keyfiyyətlə və müəyyən olunmuş vaxtda icrası, komandanın peşəkarlığı, yaradıcı yanaşması və operativliyi vurğulanır. AZ ALI direktoru Anar Zeynalovun məhsulların çatdırılmasının bütün mərhələlərinə şəxsən nəzarət etdiyi qeyd olunur. Olimp əməkdaşlıq müddətində ciddi iradının olmadığını bildirir və şirkətlə tərəfdaşlıq qurmağı tövsiyə edir."
+    }
   },
   {
     "id": 64,
