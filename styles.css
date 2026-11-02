@@ -391,7 +391,7 @@ img { max-width: 100%; }
   .home-about-copy h2 { margin-bottom: 30px; font-size: 54px; }
   .clients { padding-block: 92px; }
   .clients-heading { margin-bottom: 46px; }
-  .clients-heading h2 { font-size: 62px; }
+  .clients-heading h2 { font-size: clamp(38px, 11.5vw, 56px); line-height: .98; overflow-wrap: anywhere; }
   .client-grid { grid-template-columns: 1fr; }
   .projects { padding-top: 84px; padding-bottom: 80px; }
   .detail-hero { min-height: 88svh; padding: 140px var(--page-x) 48px; }
