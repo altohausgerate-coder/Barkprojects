@@ -59,6 +59,15 @@ function setProject(project, projects) {
     catalogFact.hidden = true;
   }
 
+  const recommendation = document.querySelector("#detail-recommendation");
+  if (project.recommendation) {
+    recommendation.hidden = false;
+    document.querySelector("#recommendation-source").textContent = project.recommendation.source;
+    document.querySelector("#recommendation-summary").textContent = project.recommendation.summary;
+  } else {
+    recommendation.hidden = true;
+  }
+
   const hero = document.querySelector("#detail-image");
   hero.src = project.image;
   hero.alt = project.alt || title;
