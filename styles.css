@@ -460,3 +460,24 @@ img { max-width: 100%; }
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
   [data-reveal] { opacity: 1; transform: none; translate: none; }
 }
+
+/* Partner references and project recommendation letters */
+.references { padding-block: clamp(88px, 10vw, 150px); border-top: 1px solid var(--line); }
+.references-heading { max-width: 760px; margin-bottom: clamp(48px, 7vw, 96px); }
+.references-heading h2 { margin: 0; font-size: clamp(42px, 6vw, 78px); font-weight: 300; letter-spacing: -.055em; line-height: 1; }
+.references-heading h2 em { color: var(--copper); font-family: "Playfair Display", serif; font-weight: 400; }
+.references-heading > p:last-child { max-width: 650px; margin: 26px 0 0; color: var(--silver); font-weight: 300; line-height: 1.8; }
+.reference-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: clamp(34px, 7vw, 110px); }
+.reference-card { padding: 28px 0 34px; border-top: 1px solid var(--line); }
+.reference-card .eyebrow { margin: 0 0 15px; line-height: 1.8; }
+.reference-card h3 { margin: 0 0 13px; color: var(--ivory); font-size: clamp(19px, 1.8vw, 25px); font-weight: 400; }
+.reference-card p:last-child { max-width: 660px; margin: 0; color: var(--silver); font-size: 13px; font-weight: 300; line-height: 1.85; }
+.detail-recommendation { padding-block: 38px clamp(84px, 9vw, 130px); }
+.detail-recommendation[hidden] { display: none; }
+.recommendation-heading { margin-bottom: 24px; }
+.recommendation-heading .eyebrow { margin: 0 0 12px; }
+.recommendation-heading h2 { margin: 0; font-size: clamp(30px, 4vw, 48px); font-weight: 300; letter-spacing: -.04em; }
+.recommendation-card { max-width: 980px; padding: 28px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.recommendation-card p:last-child { margin: 0; color: var(--silver); font-size: 15px; font-weight: 300; line-height: 1.9; }
+.recommendation-source { margin: 0 0 16px; color: var(--copper); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; }
+@media (max-width: 680px) { .reference-grid { grid-template-columns: 1fr; } }
