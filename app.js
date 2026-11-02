@@ -56,12 +56,20 @@ function render() {
 
     const picture = document.createElement("div");
     picture.className = "project-image";
-    const image = document.createElement("img");
-    image.src = project.image;
-    image.alt = project.alt || `${project.title} layihəsinin fotosu`;
-    image.loading = index < 6 ? "eager" : "lazy";
-    image.decoding = "async";
-    picture.append(image);
+    if (project.image) {
+      const image = document.createElement("img");
+      image.src = project.image;
+      image.alt = project.alt || `${project.title} layihəsinin fotosu`;
+      image.loading = index < 6 ? "eager" : "lazy";
+      image.decoding = "async";
+      picture.append(image);
+    } else {
+      picture.classList.add("project-image--documented");
+      const marker = document.createElement("span");
+      marker.className = "project-document-marker";
+      marker.textContent = "TÖVSİYƏ MƏKTUBU İLƏ TƏSDİQLƏNİB";
+      picture.append(marker);
+    }
 
     const caption = document.createElement("div");
     caption.className = "project-caption";
