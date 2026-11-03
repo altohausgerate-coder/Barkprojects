@@ -46,9 +46,10 @@ function setProject(project, projects) {
   document.querySelector("#detail-title").textContent = title;
   document.querySelector("#detail-heading").textContent = title;
   document.querySelector("#detail-category").textContent = project.category;
-  document.querySelector("#detail-location").textContent = `${project.location}, Azərbaycan`;
+  const projectLocation = project.location === "Qeyd olunmayıb" ? "Məlumat qeyd olunmayıb" : `${project.location}, Azərbaycan`;
+  document.querySelector("#detail-location").textContent = projectLocation;
   document.querySelector("#detail-description").textContent = description;
-  document.querySelector("#fact-location").textContent = `${project.location}, Azərbaycan`;
+  document.querySelector("#fact-location").textContent = projectLocation;
   document.querySelector("#fact-category").textContent = project.category;
   document.querySelector("#fact-scope").textContent = serviceTitle(project);
   const yearRow = document.querySelector("#fact-year-row");
