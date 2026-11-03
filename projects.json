@@ -77,7 +77,7 @@
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "Sea Breeze Park Cafe layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "Sea Breeze Park Cafe. Görülən iş: Pərdə və jalüz. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 2,
@@ -93,7 +93,7 @@
     ],
     "projectYear": "2023, 2024, 2025, 2026",
     "client": "DTX",
-    "description": "DTX – Mərkəzi bina layihəsi. Görülən iş: Pərdə, jalüz, motor sistemləri. İcra ili: 2023, 2024, 2025, 2026. Sifarişçi: DTX."
+    "description": "Pərdə və jalüz | DTX – Mərkəzi bina. Görülən iş: Pərdə, jalüz, motor sistemləri. İl: 2023, 2024, 2025, 2026. Sifarişçi: DTX."
   },
   {
     "id": 41,
@@ -105,11 +105,11 @@
     "sourceLabel": "Songullini · Mangal Steakhouse",
     "alt": "Mangal Steak House",
     "scope": [
-      "Pərdə, jalüz, motorlu sistemlər"
+      "Pərdə jalüz motorlu sistemlər"
     ],
-    "projectYear": "2021–2026",
-    "client": "AZMAN HOLDİNQ",
-    "description": "Mangal Steak House layihəsi. Görülən iş: Pərdə, jalüz, motorlu sistemlər. İcra ili: 2021–2026. Sifarişçi: AZMAN HOLDİNQ."
+    "projectYear": "2021-2026",
+    "client": "AZMAN Holdinq",
+    "description": "Mangal Steak House. Görülən iş: Pərdə jalüz motorlu sistemlər. İl: 2021-2026. Sifarişçi: AZMAN Holdinq."
   },
   {
     "id": 3,
@@ -134,8 +134,8 @@
       "Pərdə və karniz"
     ],
     "projectYear": "2022",
-    "client": "Lvov Şokolad Evi",
-    "description": "Lvov Şokolad Evi layihəsi. Görülən iş: Pərdə və karniz. İcra ili: 2022. Sifarişçi: Lvov Şokolad Evi."
+    "client": "LVOV ŞOKOLAD EVİ",
+    "description": "Lvov Şokolad Evi. Görülən iş: Pərdə və karniz. İl: 2022. Sifarişçi: LVOV ŞOKOLAD EVİ."
   },
   {
     "id": 4,
@@ -160,8 +160,8 @@
       "Pərdə"
     ],
     "projectYear": "2023",
-    "client": "TVM İNŞAAT",
-    "description": "Laçın Resort & Spa layihəsi. Görülən iş: Pərdə. İcra ili: 2023. Sifarişçi: TVM İNŞAAT."
+    "client": "TVM INŞAAT",
+    "description": "Laçın Resort & Spa. Görülən iş: Pərdə. İl: 2023. Sifarişçi: TVM INŞAAT."
   },
   {
     "id": 43,
@@ -176,8 +176,8 @@
       "Motorlu jalüz"
     ],
     "projectYear": "2024",
-    "client": "Günaydın Restoran",
-    "description": "Günaydın Restoran layihəsi. Görülən iş: Motorlu jalüz. İcra ili: 2024. Sifarişçi: Günaydın Restoran."
+    "client": "GÜNAYDIN RESTORAN",
+    "description": "Günaydın Restoran. Görülən iş: Motorlu jalüz. İl: 2024. Sifarişçi: GÜNAYDIN RESTORAN."
   },
   {
     "id": 14,
@@ -193,7 +193,7 @@
     ],
     "projectYear": "2024",
     "client": "NORTH WEST",
-    "description": "Port Baku Walk layihəsi. Görülən iş: Motorlu jalüz sistemləri və mebel parçaları. İcra ili: 2024. Sifarişçi: NORTH WEST."
+    "description": "Motorlu jalüz sistemləri və mebel parçaları. Görülən iş: Motorlu jalüz sistemləri və mebel parçaları. İl: 2024. Sifarişçi: NORTH WEST."
   },
   {
     "id": 11,
@@ -205,11 +205,11 @@
     "sourceLabel": "Azernews · Xankəndi Palace Hotel",
     "alt": "Xankəndi Palace Hotel",
     "scope": [
-      "Pərdə tikilişi"
+      "pərdə tikilişi"
     ],
     "projectYear": "2023",
-    "client": "TVM İNŞAAT",
-    "description": "Xankəndi Palace Hotel layihəsi. Görülən iş: Pərdə tikilişi. İcra ili: 2023. Sifarişçi: TVM İNŞAAT."
+    "client": "TVM INŞAAT",
+    "description": "Xankəndi Palace Hotel. Görülən iş: pərdə tikilişi. İl: 2023. Sifarişçi: TVM INŞAAT."
   },
   {
     "id": 44,
@@ -235,7 +235,7 @@
     ],
     "projectYear": "2024",
     "client": "WORKPLACE INTERIORS",
-    "description": "Knightsbridge Residence White City layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: WORKPLACE INTERIORS."
+    "description": "Pərdə və jalüz | Knightsbridge Residence. Görülən iş: Pərdə və jalüz. İl: 2024. Sifarişçi: WORKPLACE INTERIORS."
   },
   {
     "id": 12,
@@ -261,7 +261,7 @@
     ],
     "projectYear": "2023",
     "client": "AZMAN HOLDİNQ",
-    "description": "Mənzərə Restoranı layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2023. Sifarişçi: AZMAN HOLDİNQ."
+    "description": "Mənzərə Restoranı. Görülən iş: Pərdə və jalüz. İl: 2023. Sifarişçi: AZMAN HOLDİNQ."
   },
   {
     "id": 20,
@@ -277,7 +277,7 @@
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "Park Inn Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "Pərdə və jalüz | Park Inn Hotel. Görülən iş: Pərdə və jalüz. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 19,
@@ -293,7 +293,7 @@
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "Park Inn Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "Park Inn Hotel. Görülən iş: Pərdə və jalüz. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 48,
@@ -309,7 +309,7 @@
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "McDonald’s layihəsi. Görülən iş: Qeyd olunmayıb. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "McDonald’s. Görülən iş: Qeyd olunmayıb. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 22,
@@ -325,7 +325,7 @@
     ],
     "projectYear": "2024",
     "client": "WORKPLACE INTERIORS",
-    "description": "The Ritz-Carlton Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: WORKPLACE INTERIORS."
+    "description": "Pərdə və jalüz | The Ritz-Carlton. Görülən iş: Pərdə və jalüz. İl: 2024. Sifarişçi: WORKPLACE INTERIORS."
   },
   {
     "id": 21,
@@ -341,7 +341,7 @@
     ],
     "projectYear": "2024",
     "client": "WORKPLACE INTERIORS",
-    "description": "The Ritz-Carlton Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: WORKPLACE INTERIORS."
+    "description": "The Ritz-Carlton Hotel. Görülən iş: Pərdə və jalüz. İl: 2024. Sifarişçi: WORKPLACE INTERIORS."
   },
   {
     "id": 51,
@@ -353,11 +353,11 @@
     "sourceLabel": "Shahdag.az · Şahdağ restoranı",
     "alt": "Multifunksional restoran | Şahdağ",
     "scope": [
-      "Jalüz"
+      "jalüz"
     ],
     "projectYear": "2025",
     "client": "ARCHİCO",
-    "description": "Multifunksional restoran layihəsi. Görülən iş: Jalüz. İcra ili: 2025. Sifarişçi: ARCHİCO."
+    "description": "Multifunksional restoran | Şahdağ. Görülən iş: jalüz. İl: 2025. Sifarişçi: ARCHİCO."
   },
   {
     "id": 24,
@@ -373,7 +373,7 @@
     ],
     "projectYear": "2024",
     "client": "PMD PROJECTS",
-    "description": "Hilton Garden Inn Baku Hotel layihəsi. Görülən iş: Yanğına davamlı pərdələr. İcra ili: 2024. Sifarişçi: PMD PROJECTS."
+    "description": "Yanğına davamlı pərdələr və mebel üçün dərilər. Görülən iş: Yanğına davamlı pərdələr. İl: 2024. Sifarişçi: PMD PROJECTS."
   },
   {
     "id": 23,
@@ -389,7 +389,7 @@
     ],
     "projectYear": "2024",
     "client": "PMD PROJECTS",
-    "description": "Hilton Garden Inn Baku Hotel layihəsi. Görülən iş: Yanğına davamlı pərdələr. İcra ili: 2024. Sifarişçi: PMD PROJECTS."
+    "description": "Hilton Garden Inn Baku Hotel. Görülən iş: Yanğına davamlı pərdələr. İl: 2024. Sifarişçi: PMD PROJECTS."
   },
   {
     "id": 56,
@@ -423,7 +423,7 @@
     ],
     "projectYear": "2023, 2024, 2025, 2026",
     "client": "BAKU BOULEVARD HOTEL COMPANY",
-    "description": "Marriott Hotel Boulevard layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2023, 2024, 2025, 2026. Sifarişçi: BAKU BOULEVARD HOTEL COMPANY."
+    "description": "Pərdə və jalüz | Marriott Boulevard. Görülən iş: Pərdə və jalüz. İl: 2023, 2024, 2025, 2026. Sifarişçi: BAKU BOULEVARD HOTEL COMPANY."
   },
   {
     "id": 25,
@@ -439,7 +439,7 @@
     ],
     "projectYear": "2023, 2024, 2025, 2026",
     "client": "BAKU BOULEVARD HOTEL COMPANY",
-    "description": "Marriott Hotel Boulevard layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2023, 2024, 2025, 2026. Sifarişçi: BAKU BOULEVARD HOTEL COMPANY."
+    "description": "Marriott Hotel Boulevard. Görülən iş: Pərdə və jalüz. İl: 2023, 2024, 2025, 2026. Sifarişçi: BAKU BOULEVARD HOTEL COMPANY."
   },
   {
     "id": 57,
@@ -473,7 +473,7 @@
     ],
     "projectYear": "2023, 2024, 2025, 2026",
     "client": "DTX",
-    "description": "DTX – Mərkəzi bina layihəsi. Görülən iş: Pərdə, jalüz, motor sistemləri. İcra ili: 2023, 2024, 2025, 2026. Sifarişçi: DTX."
+    "description": "DTX – Mərkəzi bina. Görülən iş: Pərdə, jalüz, motor sistemləri. İl: 2023, 2024, 2025, 2026. Sifarişçi: DTX."
   },
   {
     "id": 28,
@@ -485,11 +485,11 @@
     "sourceLabel": "Modern.az · Bakı Atletlər Kəndi",
     "alt": "Pərdə və jalüz | Bakı Atletlər Kəndi",
     "scope": [
-      "Pərdə və jalüz"
+      "Pərdə və Jalüz"
     ],
     "projectYear": "2024",
     "client": "PMD GROUP",
-    "description": "Bakı Atletlər Kəndi layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: PMD GROUP."
+    "description": "Pərdə və jalüz | Bakı Atletlər Kəndi. Görülən iş: Pərdə və Jalüz. İl: 2024. Sifarişçi: PMD GROUP."
   },
   {
     "id": 33,
@@ -505,7 +505,7 @@
     ],
     "projectYear": "2020",
     "client": "PASHA CONSTRUCTİONS MMC",
-    "description": "Courtyard by Marriott Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2020. Sifarişçi: PASHA CONSTRUCTİONS MMC."
+    "description": "Courtyard by Marriott Hotel. Görülən iş: Pərdə və jalüz. İl: 2020. Sifarişçi: PASHA CONSTRUCTİONS MMC."
   },
   {
     "id": 59,
@@ -539,7 +539,7 @@
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "Azərbaycan Respublikası Prezidentinin Administrasiyası layihəsi. Görülən iş: Qeyd olunmayıb. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "Azərbaycan Respublikası Prezidentinin Administrasiyası. Görülən iş: Qeyd olunmayıb. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 30,
@@ -555,7 +555,7 @@
     ],
     "projectYear": "2024, 2025, 2026",
     "client": "PMD PROJECTS",
-    "description": "Port Baku Tower 2 layihəsi. Görülən iş: Pərdə, jalüz və motor sistemləri. İcra ili: 2024, 2025, 2026. Sifarişçi: PMD PROJECTS."
+    "description": "Pərdə və jalüz | Port Baku Tower 2. Görülən iş: Pərdə, jalüz və motor sistemləri. İl: 2024, 2025, 2026. Sifarişçi: PMD PROJECTS."
   },
   {
     "id": 35,
@@ -567,11 +567,11 @@
     "sourceLabel": "Sapphire Bayil · rəsmi otaq interyeri",
     "alt": "Sapphire Bayil Hotel",
     "scope": [
-      "Pərdə və hotel tekstili"
+      "Pərdə və Hotel tekstili"
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "Sapphire Bayil Hotel layihəsi. Görülən iş: Pərdə və hotel tekstili. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "Sapphire Bayil Hotel. Görülən iş: Pərdə və Hotel tekstili. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 60,
@@ -605,7 +605,7 @@
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "Azərbaycan Respublikasının Milli Məclisi layihəsi. Görülən iş: Qeyd olunmayıb. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "Azərbaycan Respublikasının Milli Məclisi. Görülən iş: Qeyd olunmayıb. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 78,
@@ -637,7 +637,7 @@
     ],
     "projectYear": "2025",
     "client": "AYPARA DEVELOPMENT",
-    "description": "Crescent Mall layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2025. Sifarişçi: AYPARA DEVELOPMENT."
+    "description": "Pərdə və jalüz | Crescent Mall. Görülən iş: Pərdə və jalüz. İl: 2025. Sifarişçi: AYPARA DEVELOPMENT."
   },
   {
     "id": 37,
@@ -653,7 +653,7 @@
     ],
     "projectYear": "2023",
     "client": "Qeyd olunmayıb",
-    "description": "Sea Breeze Grand Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2023. Sifarişçi: Qeyd olunmayıb."
+    "description": "Sea Breeze Grand Hotel. Görülən iş: Pərdə və jalüz. İl: 2023. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 61,
@@ -697,7 +697,7 @@
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "Azərbaycan Respublikası Müdafiə Nazirliyi layihəsi. Görülən iş: Qeyd olunmayıb. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "Azərbaycan Respublikası Müdafiə Nazirliyi. Görülən iş: Qeyd olunmayıb. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 77,
@@ -729,7 +729,7 @@
     ],
     "projectYear": "2020",
     "client": "PASHA CONSTRUCTİONS MMC",
-    "description": "Courtyard by Marriott Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2020. Sifarişçi: PASHA CONSTRUCTİONS MMC."
+    "description": "Pərdə və jalüz | Courtyard by Marriott Hotel. Görülən iş: Pərdə və jalüz. İl: 2020. Sifarişçi: PASHA CONSTRUCTİONS MMC."
   },
   {
     "id": 69,
@@ -779,7 +779,7 @@
     ],
     "projectYear": "2025",
     "client": "ARCHİCO",
-    "description": "Ski Club Shahdag layihəsi. Görülən iş: Motorlu jalüz. İcra ili: 2025. Sifarişçi: ARCHİCO."
+    "description": "Ski Club Shahdag. Görülən iş: Motorlu jalüz. İl: 2025. Sifarişçi: ARCHİCO."
   },
   {
     "id": 62,
@@ -823,7 +823,7 @@
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi layihəsi. Görülən iş: Qeyd olunmayıb. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi. Görülən iş: Qeyd olunmayıb. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 36,
@@ -835,11 +835,11 @@
     "sourceLabel": "Tripadvisor · Sapphire Bayil Hotel",
     "alt": "Pərdə və otel tekstili | Sapphire Bayil",
     "scope": [
-      "Pərdə və hotel tekstili"
+      "Pərdə və Hotel tekstili"
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "Sapphire Bayil Hotel layihəsi. Görülən iş: Pərdə və hotel tekstili. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "Pərdə və otel tekstili | Sapphire Bayil. Görülən iş: Pərdə və Hotel tekstili. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 70,
@@ -869,11 +869,11 @@
     "sourceLabel": "Shahdag.az · LakeSide Hotel",
     "alt": "Lake Side Shahdag",
     "scope": [
-      "Jalüz"
+      "jalüz"
     ],
     "projectYear": "2025",
     "client": "ARCHİCO",
-    "description": "Lake Side Shahdag layihəsi. Görülən iş: Jalüz. İcra ili: 2025. Sifarişçi: ARCHİCO."
+    "description": "Lake Side Shahdag. Görülən iş: jalüz. İl: 2025. Sifarişçi: ARCHİCO."
   },
   {
     "id": 63,
@@ -907,7 +907,7 @@
     ],
     "projectYear": "2025",
     "client": "AYPARA DEVELOPMENT",
-    "description": "Crescent Mall layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2025. Sifarişçi: AYPARA DEVELOPMENT."
+    "description": "Crescent Mall. Görülən iş: Pərdə və jalüz. İl: 2025. Sifarişçi: AYPARA DEVELOPMENT."
   },
   {
     "id": 17,
@@ -923,7 +923,7 @@
     ],
     "projectYear": "2024",
     "client": "WORKPLACE INTERIORS",
-    "description": "Knightsbridge Residence White City layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: WORKPLACE INTERIORS."
+    "description": "Knightsbridge Residence White City. Görülən iş: Pərdə və jalüz. İl: 2024. Sifarişçi: WORKPLACE INTERIORS."
   },
   {
     "id": 10,
@@ -938,8 +938,8 @@
       "Motorlu jalüzlər"
     ],
     "projectYear": "2023",
-    "client": "TVM İNŞAAT",
-    "description": "Zəngilan Konqres Mərkəzi layihəsi. Görülən iş: Motorlu jalüzlər. İcra ili: 2023. Sifarişçi: TVM İNŞAAT."
+    "client": "TVM INŞAAT",
+    "description": "Zəngilan Konqres Mərkəzi. Görülən iş: Motorlu jalüzlər. İl: 2023. Sifarişçi: TVM INŞAAT."
   },
   {
     "id": 16,
@@ -951,11 +951,11 @@
     "sourceLabel": "Ahl Baku · CC BY-SA 4.0 · Wikimedia Commons",
     "alt": "Su İdman Sarayı",
     "scope": [
-      "Jalüz"
+      "JALÜZ"
     ],
     "projectYear": "2022",
-    "client": "Su İdman Sarayı",
-    "description": "Su İdman Sarayı layihəsi. Görülən iş: Jalüz. İcra ili: 2022. Sifarişçi: Su İdman Sarayı."
+    "client": "SU İDMAN SARAYI",
+    "description": "Su İdman Sarayı. Görülən iş: JALÜZ. İl: 2022. Sifarişçi: SU İDMAN SARAYI."
   },
   {
     "id": 38,
@@ -971,7 +971,7 @@
     ],
     "projectYear": "2023",
     "client": "Qeyd olunmayıb",
-    "description": "Sea Breeze Grand Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2023. Sifarişçi: Qeyd olunmayıb."
+    "description": "Pərdə və jalüz | Sea Breeze Grand Hotel. Görülən iş: Pərdə və jalüz. İl: 2023. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 71,
@@ -1094,11 +1094,11 @@
     "sourceLabel": "Bakı Atletlər Kəndi · interyer görünüşü",
     "alt": "Bakı Atletlər Kəndi",
     "scope": [
-      "Pərdə və jalüz"
+      "Pərdə və Jalüz"
     ],
     "projectYear": "2024",
     "client": "PMD GROUP",
-    "description": "Bakı Atletlər Kəndi layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: PMD GROUP."
+    "description": "Bakı Atletlər Kəndi. Görülən iş: Pərdə və Jalüz. İl: 2024. Sifarişçi: PMD GROUP."
   },
   {
     "id": 45,
@@ -1114,7 +1114,7 @@
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "SOCAR Tower layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "SOCAR Tower. Görülən iş: Pərdə və jalüz. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 47,
@@ -1130,7 +1130,7 @@
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "Yacht Club layihəsi. Görülən iş: Jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "Yacht Club. Görülən iş: Jalüz. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 52,
@@ -1156,7 +1156,7 @@
     ],
     "projectYear": "Qeyd olunmayıb",
     "client": "Qeyd olunmayıb",
-    "description": "Sea Breeze Park Cafe layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "description": "Pərdə və jalüz | Sea Breeze Park Cafe. Görülən iş: Pərdə və jalüz. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 72,
@@ -1296,7 +1296,7 @@
     ],
     "projectYear": "2024, 2025, 2026",
     "client": "PMD PROJECTS",
-    "description": "Port Baku Tower 2 layihəsi. Görülən iş: Pərdə, jalüz və motor sistemləri. İcra ili: 2024, 2025, 2026. Sifarişçi: PMD PROJECTS."
+    "description": "Port Baku Tower 2. Görülən iş: Pərdə, jalüz və motor sistemləri. İl: 2024, 2025, 2026. Sifarişçi: PMD PROJECTS."
   },
   {
     "id": 81,
@@ -1305,11 +1305,11 @@
     "location": "Xankəndi",
     "alt": "Xankəndi Dövlət Dram Teatrı",
     "scope": [
-      "Pərdələr və jalüzlər"
+      "pərdələr və jalüzlər"
     ],
     "projectYear": "2026",
     "client": "TEA MONTAJ – M",
-    "description": "Xankəndi Dövlət Dram Teatrında 2026-cı ildə pərdələr və jalüzlər quraşdırılıb. Sifarişçi: TEA MONTAJ – M."
+    "description": "Xankəndi Dövlət Dram Teatrı. Görülən iş: pərdələr və jalüzlər. İl: 2026. Sifarişçi: TEA MONTAJ – M."
   },
   {
     "id": 82,
@@ -1321,8 +1321,8 @@
       "Pərdələr"
     ],
     "projectYear": "2025",
-    "client": "FMG (Facility Management Group)",
-    "description": "Ağdam Residence layihəsində 2025-ci ildə pərdə işləri görülüb. Sifarişçi: FMG (Facility Management Group)."
+    "client": "FMG (FACİLİTY MANAGEMENT GROUP)",
+    "description": "Ağdam Residence. Görülən iş: Pərdələr. İl: 2025. Sifarişçi: FMG (FACİLİTY MANAGEMENT GROUP)."
   },
   {
     "id": 83,
@@ -1331,11 +1331,11 @@
     "location": "Qeyd olunmayıb",
     "alt": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi",
     "scope": [
-      "Jalüz və motor sistemləri"
+      "jalüz və motor sistemləri"
     ],
     "projectYear": "2026",
     "client": "ARTCHİCO",
-    "description": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi layihəsində 2026-cı ildə jalüz və motor sistemləri quraşdırılıb. Sifarişçi: ARTCHİCO."
+    "description": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi. Görülən iş: jalüz və motor sistemləri. İl: 2026. Sifarişçi: ARTCHİCO."
   },
   {
     "id": 84,
@@ -1344,10 +1344,10 @@
     "location": "Bilgəh",
     "alt": "DTX – Bilgəh Konqres Mərkəzi",
     "scope": [
-      "Pərdə, jalüz və motor sistemləri"
+      "Pərdə, jalüz, motor sistemləri"
     ],
     "projectYear": "2024",
     "client": "DİADEM MCC",
-    "description": "DTX Bilgəh Konqres Mərkəzində 2024-cü ildə pərdə, jalüz və motor sistemləri işləri görülüb. Sifarişçi şirkət: DİADEM MCC."
+    "description": "DTX – Bilgəh Konqres Mərkəzi. Görülən iş: Pərdə, jalüz, motor sistemləri. İl: 2024. Sifarişçi: DİADEM MCC."
   }
 ]
