@@ -51,6 +51,12 @@ function setProject(project, projects) {
   document.querySelector("#fact-location").textContent = `${project.location}, Azərbaycan`;
   document.querySelector("#fact-category").textContent = project.category;
   document.querySelector("#fact-scope").textContent = serviceTitle(project);
+  const yearRow = document.querySelector("#fact-year-row");
+  yearRow.hidden = !project.projectYear;
+  if (project.projectYear) document.querySelector("#fact-year").textContent = project.projectYear;
+  const clientRow = document.querySelector("#fact-client-row");
+  clientRow.hidden = !project.client;
+  if (project.client) document.querySelector("#fact-client").textContent = project.client;
   const catalogFact = document.querySelector("#fact-catalog-row");
   if (project.catalogPages) {
     catalogFact.hidden = false;
