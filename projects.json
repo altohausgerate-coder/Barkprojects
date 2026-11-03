@@ -71,17 +71,29 @@
     "image": "assets/projects/web/parkcafe.webp",
     "source": "https://seabreeze.az/en/infrastructure/restaurants/park-cafe",
     "sourceLabel": "Sea Breeze · Park Cafe interyeri",
-    "alt": "Sea Breeze Park Cafe"
+    "alt": "Sea Breeze Park Cafe",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "Sea Breeze Park Cafe layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 2,
     "title": "Pərdə və jalüz | Dövlət Təhlükəsizliyi Xidməti",
-    "category": "İnteryer",
+    "category": "Dövlət və ictimai",
     "location": "Bakı",
     "image": "assets/projects/web/dtx-interior.webp",
     "source": "https://turkic.world/en/articles/politics/472264",
     "sourceLabel": "Turkic World · DTX headquarters",
-    "alt": "Pərdə və jalüz | Dövlət Təhlükəsizliyi Xidməti"
+    "alt": "Pərdə və jalüz | Dövlət Təhlükəsizliyi Xidməti",
+    "scope": [
+      "Pərdə, jalüz, motor sistemləri"
+    ],
+    "projectYear": "2023, 2024, 2025, 2026",
+    "client": "DTX",
+    "description": "DTX – Mərkəzi bina layihəsi. Görülən iş: Pərdə, jalüz, motor sistemləri. İcra ili: 2023, 2024, 2025, 2026. Sifarişçi: DTX."
   },
   {
     "id": 41,
@@ -91,7 +103,13 @@
     "image": "assets/projects/web/mangal.webp",
     "source": "https://songullini.com/project/mangal-steakhouse-baku-azerbaijan/",
     "sourceLabel": "Songullini · Mangal Steakhouse",
-    "alt": "Mangal Steak House"
+    "alt": "Mangal Steak House",
+    "scope": [
+      "Pərdə, jalüz, motorlu sistemlər"
+    ],
+    "projectYear": "2021–2026",
+    "client": "AZMAN HOLDİNQ",
+    "description": "Mangal Steak House layihəsi. Görülən iş: Pərdə, jalüz, motorlu sistemlər. İcra ili: 2021–2026. Sifarişçi: AZMAN HOLDİNQ."
   },
   {
     "id": 3,
@@ -101,7 +119,13 @@
     "image": "assets/projects/web/bilgah.webp",
     "source": "https://dtx.gov.az/az/news/1764.html",
     "sourceLabel": "DTX · Bilgəh Mərkəzi qalereyası",
-    "alt": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi"
+    "alt": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi",
+    "scope": [
+      "Pərdə, jalüz, motor sistemləri"
+    ],
+    "projectYear": "2024",
+    "client": "DİADEM MCC",
+    "description": "DTX – Bilgəh Konqres Mərkəzi layihəsi. Görülən iş: Pərdə, jalüz, motor sistemləri. İcra ili: 2024. Sifarişçi: DİADEM MCC."
   },
   {
     "id": 42,
@@ -111,17 +135,29 @@
     "image": "assets/projects/web/lvov.webp",
     "source": "https://lvivchocolatebaku.choiceqr.com/",
     "sourceLabel": "Lviv Şokolad Evi · Baku",
-    "alt": "Lvov Şokolad Evi"
+    "alt": "Lvov Şokolad Evi",
+    "scope": [
+      "Pərdə və karniz"
+    ],
+    "projectYear": "2022",
+    "client": "Lvov Şokolad Evi",
+    "description": "Lvov Şokolad Evi layihəsi. Görülən iş: Pərdə və karniz. İcra ili: 2022. Sifarişçi: Lvov Şokolad Evi."
   },
   {
     "id": 4,
     "title": "Pərdə və jalüz | Bilgəh İstirahət Mərkəzi",
-    "category": "İnteryer",
+    "category": "Otelçilik",
     "location": "Bilgəh",
     "image": "assets/projects/web/bilgah-garden.webp",
     "source": "https://dtx.gov.az/az/news/1764.html",
     "sourceLabel": "DTX · Bilgəh İstirahət Mərkəzi",
-    "alt": "Pərdə və jalüz | Bilgəh İstirahət Mərkəzi"
+    "alt": "Pərdə və jalüz | Bilgəh İstirahət Mərkəzi",
+    "scope": [
+      "Pərdə, jalüz, motor sistemləri"
+    ],
+    "projectYear": "2024",
+    "client": "DİADEM MCC",
+    "description": "DTX – Bilgəh Konqres Mərkəzi layihəsi. Görülən iş: Pərdə, jalüz, motor sistemləri. İcra ili: 2024. Sifarişçi: DİADEM MCC."
   },
   {
     "id": 9,
@@ -131,7 +167,13 @@
     "image": "assets/projects/web/lachin.webp",
     "source": "https://inn.az/az/properties/lachin-resort-spa-5710cc03-4fb0-48f9-b36b-afd4439984cf",
     "sourceLabel": "INN.az · Laçın Resort & Spa",
-    "alt": "Lachin Resort & Spa"
+    "alt": "Lachin Resort & Spa",
+    "scope": [
+      "Pərdə"
+    ],
+    "projectYear": "2023",
+    "client": "TVM İNŞAAT",
+    "description": "Laçın Resort & Spa layihəsi. Görülən iş: Pərdə. İcra ili: 2023. Sifarişçi: TVM İNŞAAT."
   },
   {
     "id": 43,
@@ -141,17 +183,29 @@
     "image": "assets/projects/web/gunaydin.webp",
     "source": "https://gunaydin.clopos.menu/az/2/",
     "sourceLabel": "Günaydın · Baku",
-    "alt": "Günaydın Restoran"
+    "alt": "Günaydın Restoran",
+    "scope": [
+      "Motorlu jalüz"
+    ],
+    "projectYear": "2024",
+    "client": "Günaydın Restoran",
+    "description": "Günaydın Restoran layihəsi. Görülən iş: Motorlu jalüz. İcra ili: 2024. Sifarişçi: Günaydın Restoran."
   },
   {
     "id": 14,
     "title": "Motorlu jalüz sistemləri və mebel parçaları",
-    "category": "İnteryer",
+    "category": "Ticarət",
     "location": "Bakı",
     "image": "assets/projects/web/portwalk-lobby.webp",
     "source": "https://www.nwconstruction.com/en/projects/completed-projects/port-baku-garden-walk/",
     "sourceLabel": "North West Construction · Port Baku Walk",
-    "alt": "Motorlu jalüz sistemləri və mebel parçaları"
+    "alt": "Motorlu jalüz sistemləri və mebel parçaları",
+    "scope": [
+      "Motorlu jalüz sistemləri və mebel parçaları"
+    ],
+    "projectYear": "2024",
+    "client": "NORTH WEST",
+    "description": "Port Baku Walk layihəsi. Görülən iş: Motorlu jalüz sistemləri və mebel parçaları. İcra ili: 2024. Sifarişçi: NORTH WEST."
   },
   {
     "id": 11,
@@ -161,7 +215,13 @@
     "image": "assets/projects/web/khankendi.webp",
     "source": "https://www.azernews.az/business/228431.html",
     "sourceLabel": "Azernews · Xankəndi Palace Hotel",
-    "alt": "Xankəndi Palace Hotel"
+    "alt": "Xankəndi Palace Hotel",
+    "scope": [
+      "Pərdə tikilişi"
+    ],
+    "projectYear": "2023",
+    "client": "TVM İNŞAAT",
+    "description": "Xankəndi Palace Hotel layihəsi. Görülən iş: Pərdə tikilişi. İcra ili: 2023. Sifarişçi: TVM İNŞAAT."
   },
   {
     "id": 44,
@@ -176,12 +236,18 @@
   {
     "id": 18,
     "title": "Pərdə və jalüz | Knightsbridge Residence",
-    "category": "İnteryer",
+    "category": "Yaşayış",
     "location": "Bakı",
     "image": "assets/projects/web/knightsbridge-interior.webp",
     "source": "https://www.knightsbridge.az/en/home",
     "sourceLabel": "Knightsbridge Residence · Baku White City",
-    "alt": "Pərdə və jalüz | Knightsbridge Residence"
+    "alt": "Pərdə və jalüz | Knightsbridge Residence",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2024",
+    "client": "WORKPLACE INTERIORS",
+    "description": "Knightsbridge Residence White City layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: WORKPLACE INTERIORS."
   },
   {
     "id": 12,
@@ -201,17 +267,29 @@
     "image": "assets/projects/web/manzara.webp",
     "source": "https://jfa.az/manzara.html",
     "sourceLabel": "JFA · Mənzərə Restaurant",
-    "alt": "Mənzərə Restoranı"
+    "alt": "Mənzərə Restoranı",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2023",
+    "client": "AZMAN HOLDİNQ",
+    "description": "Mənzərə Restoranı layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2023. Sifarişçi: AZMAN HOLDİNQ."
   },
   {
     "id": 20,
     "title": "Pərdə və jalüz | Park Inn Hotel",
-    "category": "İnteryer",
+    "category": "Otelçilik",
     "location": "Bakı",
     "image": "assets/projects/web/parkinn-interior.webp",
     "source": "https://www.tripadvisor.com/Hotel_Review-g293934-d589344-Reviews-Radisson_Hotel_Baku-Baku_Absheron_Region.html",
     "sourceLabel": "Tripadvisor · Park Inn by Radisson Baku",
-    "alt": "Pərdə və jalüz | Park Inn Hotel"
+    "alt": "Pərdə və jalüz | Park Inn Hotel",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "Park Inn Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 19,
@@ -221,7 +299,13 @@
     "image": "assets/projects/web/parkinn.webp",
     "source": "https://www.tripadvisor.com/Hotel_Feature-g293934-d589344-zft1-Radisson_Hotel_Baku.html",
     "sourceLabel": "Tripadvisor · Park Inn otaq interyeri",
-    "alt": "Park Inn Hotel"
+    "alt": "Park Inn Hotel",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "Park Inn Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 48,
@@ -231,17 +315,29 @@
     "image": "assets/projects/web/mcdonalds.webp",
     "source": "https://metbuat.az/news/1497892/mcdonald-s-in-kohne-nesimi-bazarinin-yerinde-yeni-restorani-.html",
     "sourceLabel": "Metbuat.az · McDonald’s Baku",
-    "alt": "McDonald’s"
+    "alt": "McDonald’s",
+    "scope": [
+      "Qeyd olunmayıb"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "McDonald’s layihəsi. Görülən iş: Qeyd olunmayıb. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 22,
     "title": "Pərdə və jalüz | The Ritz-Carlton",
-    "category": "İnteryer",
+    "category": "Otelçilik",
     "location": "Bakı",
     "image": "assets/projects/web/ritz-interior.webp",
     "source": "https://www.ritzcarlton.com/ru/hotels/gydrz-the-ritz-carlton-baku/overview/",
     "sourceLabel": "The Ritz-Carlton · Baku",
-    "alt": "Pərdə və jalüz | The Ritz-Carlton"
+    "alt": "Pərdə və jalüz | The Ritz-Carlton",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2024",
+    "client": "WORKPLACE INTERIORS",
+    "description": "The Ritz-Carlton Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: WORKPLACE INTERIORS."
   },
   {
     "id": 21,
@@ -251,7 +347,13 @@
     "image": "assets/projects/web/ritz.webp",
     "source": "https://www.ritzcarlton.com/en/hotels/gydrz-the-ritz-carlton-baku/rooms/",
     "sourceLabel": "The Ritz-Carlton Baku · suite interyeri",
-    "alt": "The Ritz-Carlton Hotel"
+    "alt": "The Ritz-Carlton Hotel",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2024",
+    "client": "WORKPLACE INTERIORS",
+    "description": "The Ritz-Carlton Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: WORKPLACE INTERIORS."
   },
   {
     "id": 51,
@@ -261,17 +363,29 @@
     "image": "assets/projects/web/shahrest.webp",
     "source": "https://shahdag.az/en/dining/scalini",
     "sourceLabel": "Shahdag.az · Şahdağ restoranı",
-    "alt": "Multifunksional restoran | Şahdağ"
+    "alt": "Multifunksional restoran | Şahdağ",
+    "scope": [
+      "Jalüz"
+    ],
+    "projectYear": "2025",
+    "client": "ARCHİCO",
+    "description": "Multifunksional restoran layihəsi. Görülən iş: Jalüz. İcra ili: 2025. Sifarişçi: ARCHİCO."
   },
   {
     "id": 24,
     "title": "Yanğına davamlı pərdələr və mebel üçün dərilər",
-    "category": "İnteryer",
+    "category": "Otelçilik",
     "location": "Bakı",
     "image": "assets/projects/web/hilton-interior.webp",
     "source": "https://www.hilton.com/en/hotels/bakazgi-hilton-garden-inn-baku/",
     "sourceLabel": "Hilton · Hilton Garden Inn Baku",
-    "alt": "Yanğına davamlı pərdələr və mebel üçün dərilər"
+    "alt": "Yanğına davamlı pərdələr və mebel üçün dərilər",
+    "scope": [
+      "Yanğına davamlı pərdələr"
+    ],
+    "projectYear": "2024",
+    "client": "PMD PROJECTS",
+    "description": "Hilton Garden Inn Baku Hotel layihəsi. Görülən iş: Yanğına davamlı pərdələr. İcra ili: 2024. Sifarişçi: PMD PROJECTS."
   },
   {
     "id": 23,
@@ -281,7 +395,13 @@
     "image": "assets/projects/web/hilton.webp",
     "source": "https://www.hilton.com/en/hotels/bakazgi-hilton-garden-inn-baku/",
     "sourceLabel": "Hilton Garden Inn Baku · otaq interyeri",
-    "alt": "Hilton Garden Inn Baku Hotel"
+    "alt": "Hilton Garden Inn Baku Hotel",
+    "scope": [
+      "Yanğına davamlı pərdələr"
+    ],
+    "projectYear": "2024",
+    "client": "PMD PROJECTS",
+    "description": "Hilton Garden Inn Baku Hotel layihəsi. Görülən iş: Yanğına davamlı pərdələr. İcra ili: 2024. Sifarişçi: PMD PROJECTS."
   },
   {
     "id": 56,
@@ -304,12 +424,18 @@
   {
     "id": 26,
     "title": "Pərdə və jalüz | Marriott Boulevard",
-    "category": "İnteryer",
+    "category": "Otelçilik",
     "location": "Bakı",
     "image": "assets/projects/web/marriott-interior.webp",
     "source": "https://www.marriott.com/en-us/hotels/gydmb-baku-marriott-hotel-boulevard/overview/",
     "sourceLabel": "Marriott · Baku Marriott Hotel Boulevard",
-    "alt": "Pərdə və jalüz | Marriott Boulevard"
+    "alt": "Pərdə və jalüz | Marriott Boulevard",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2023, 2024, 2025, 2026",
+    "client": "BAKU BOULEVARD HOTEL COMPANY",
+    "description": "Marriott Hotel Boulevard layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2023, 2024, 2025, 2026. Sifarişçi: BAKU BOULEVARD HOTEL COMPANY."
   },
   {
     "id": 25,
@@ -319,7 +445,13 @@
     "image": "assets/projects/web/marriott.webp",
     "source": "https://www.marriott.com/en-us/hotels/gydmb-baku-marriott-hotel-boulevard/rooms/",
     "sourceLabel": "Baku Marriott Boulevard · otaq interyeri",
-    "alt": "Marriott Hotel Boulevard"
+    "alt": "Marriott Hotel Boulevard",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2023, 2024, 2025, 2026",
+    "client": "BAKU BOULEVARD HOTEL COMPANY",
+    "description": "Marriott Hotel Boulevard layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2023, 2024, 2025, 2026. Sifarişçi: BAKU BOULEVARD HOTEL COMPANY."
   },
   {
     "id": 57,
@@ -347,17 +479,29 @@
     "image": "assets/projects/web/dtx.webp",
     "source": "https://president.az/az/articles/view/62353",
     "sourceLabel": "President.az · DTX interyeri",
-    "alt": "Azərbaycan Respublikası Dövlət Təhlükəsizliyi Xidməti"
+    "alt": "Azərbaycan Respublikası Dövlət Təhlükəsizliyi Xidməti",
+    "scope": [
+      "Pərdə, jalüz, motor sistemləri"
+    ],
+    "projectYear": "2023, 2024, 2025, 2026",
+    "client": "DTX",
+    "description": "DTX – Mərkəzi bina layihəsi. Görülən iş: Pərdə, jalüz, motor sistemləri. İcra ili: 2023, 2024, 2025, 2026. Sifarişçi: DTX."
   },
   {
     "id": 28,
     "title": "Pərdə və jalüz | Bakı Atletlər Kəndi",
-    "category": "İnteryer",
+    "category": "Yaşayış",
     "location": "Bakı",
     "image": "assets/projects/web/athletes-interior.webp",
     "source": "https://modern.az/az/iqtisadiyyat/134800/atletler-kendinde-ki-binalar-satisa-cixarilir-resmi/",
     "sourceLabel": "Modern.az · Bakı Atletlər Kəndi",
-    "alt": "Pərdə və jalüz | Bakı Atletlər Kəndi"
+    "alt": "Pərdə və jalüz | Bakı Atletlər Kəndi",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2024",
+    "client": "PMD GROUP",
+    "description": "Bakı Atletlər Kəndi layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: PMD GROUP."
   },
   {
     "id": 33,
@@ -367,7 +511,13 @@
     "image": "assets/projects/web/courtyard.webp",
     "source": "https://www.marriott.com/en-us/hotels/gydcy-courtyard-baku/rooms/",
     "sourceLabel": "Courtyard by Marriott Baku · otaq interyeri",
-    "alt": "Courtyard by Marriott Baku"
+    "alt": "Courtyard by Marriott Baku",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2020",
+    "client": "PASHA CONSTRUCTİONS MMC",
+    "description": "Courtyard by Marriott Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2020. Sifarişçi: PASHA CONSTRUCTİONS MMC."
   },
   {
     "id": 59,
@@ -395,17 +545,29 @@
     "image": "assets/projects/web/presadmin.webp",
     "source": "https://report.az/xarici-siyaset/ilham-eliyevin-ali-avrasiya-iqtisadi-surasinin-iclasinda-ve-mdb-dovlet-bascilarinin-qeyri-resmi-zirve-gorusunde-istirak-etmemesinin-sebebleri-aciqlanib",
     "sourceLabel": "Report.az · Prezident Administrasiyası",
-    "alt": "Azərbaycan Respublikası Prezidentinin Administrasiyası"
+    "alt": "Azərbaycan Respublikası Prezidentinin Administrasiyası",
+    "scope": [
+      "Qeyd olunmayıb"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "Azərbaycan Respublikası Prezidentinin Administrasiyası layihəsi. Görülən iş: Qeyd olunmayıb. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 30,
     "title": "Pərdə və jalüz | Port Baku Tower 2",
-    "category": "İnteryer",
+    "category": "Yaşayış",
     "location": "Bakı",
     "image": "assets/projects/web/porttower-interior.webp",
     "source": "https://www.asafer.com.tr/betonarme/port-baku-tower.html",
     "sourceLabel": "ASAfer · Port Baku Tower II",
-    "alt": "Pərdə və jalüz | Port Baku Tower 2"
+    "alt": "Pərdə və jalüz | Port Baku Tower 2",
+    "scope": [
+      "Pərdə, jalüz və motor sistemləri"
+    ],
+    "projectYear": "2024, 2025, 2026",
+    "client": "PMD PROJECTS",
+    "description": "Port Baku Tower 2 layihəsi. Görülən iş: Pərdə, jalüz və motor sistemləri. İcra ili: 2024, 2025, 2026. Sifarişçi: PMD PROJECTS."
   },
   {
     "id": 35,
@@ -415,7 +577,13 @@
     "image": "assets/projects/web/sapphire.webp",
     "source": "https://www.sapphire.az/en/hotels/bayil/rooms/4",
     "sourceLabel": "Sapphire Bayil · rəsmi otaq interyeri",
-    "alt": "Sapphire Bayil Hotel"
+    "alt": "Sapphire Bayil Hotel",
+    "scope": [
+      "Pərdə və hotel tekstili"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "Sapphire Bayil Hotel layihəsi. Görülən iş: Pərdə və hotel tekstili. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 60,
@@ -443,7 +611,13 @@
     "image": "assets/projects/web/meclis.webp",
     "source": "https://www.turkiyetoday.com/region/azerbaijan-to-hold-early-parliamentary-elections-on-sept-1-47157/",
     "sourceLabel": "Türkiye Today · Milli Məclis",
-    "alt": "Azərbaycan Respublikasının Milli Məclisi"
+    "alt": "Azərbaycan Respublikasının Milli Məclisi",
+    "scope": [
+      "Qeyd olunmayıb"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "Azərbaycan Respublikasının Milli Məclisi layihəsi. Görülən iş: Qeyd olunmayıb. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 78,
@@ -464,12 +638,18 @@
   {
     "id": 32,
     "title": "Pərdə və jalüz | Crescent Mall",
-    "category": "İnteryer",
+    "category": "Ticarət",
     "location": "Bakı",
     "image": "assets/projects/web/crescent-interior.webp",
     "source": "https://oxu.az/digar/dunya-brendllerini-bir-araya-toplayan-mekan-crescent-mall",
     "sourceLabel": "Oxu.az · Crescent Mall",
-    "alt": "Pərdə və jalüz | Crescent Mall"
+    "alt": "Pərdə və jalüz | Crescent Mall",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2025",
+    "client": "AYPARA DEVELOPMENT",
+    "description": "Crescent Mall layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2025. Sifarişçi: AYPARA DEVELOPMENT."
   },
   {
     "id": 37,
@@ -479,7 +659,13 @@
     "image": "assets/projects/web/seabreeze.webp",
     "source": "https://booking.seabreeze.az/en/hotel/442",
     "sourceLabel": "Sea Breeze · otaq interyeri",
-    "alt": "Sea Breeze Grand Hotel"
+    "alt": "Sea Breeze Grand Hotel",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2023",
+    "client": "Qeyd olunmayıb",
+    "description": "Sea Breeze Grand Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2023. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 61,
@@ -517,7 +703,13 @@
     "image": "assets/projects/web/defense.webp",
     "source": "https://en.apa.az/military/azerbaijan-armys-serviceman-graduated-from-chinese-army-command-college-with-honors-424417",
     "sourceLabel": "APA · Müdafiə Nazirliyi",
-    "alt": "Azərbaycan Respublikası Müdafiə Nazirliyi"
+    "alt": "Azərbaycan Respublikası Müdafiə Nazirliyi",
+    "scope": [
+      "Qeyd olunmayıb"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "Azərbaycan Respublikası Müdafiə Nazirliyi layihəsi. Görülən iş: Qeyd olunmayıb. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 77,
@@ -538,12 +730,18 @@
   {
     "id": 34,
     "title": "Pərdə və jalüz | Courtyard by Marriott",
-    "category": "İnteryer",
+    "category": "Otelçilik",
     "location": "Bakı",
     "image": "assets/projects/web/courtyard-interior.webp",
     "source": "https://idea.az/ru/company/project/courtyard-by-marriott-project/",
     "sourceLabel": "IDEA · Courtyard by Marriott",
-    "alt": "Pərdə və jalüz | Courtyard by Marriott"
+    "alt": "Pərdə və jalüz | Courtyard by Marriott",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2020",
+    "client": "PASHA CONSTRUCTİONS MMC",
+    "description": "Courtyard by Marriott Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2020. Sifarişçi: PASHA CONSTRUCTİONS MMC."
   },
   {
     "id": 69,
@@ -587,7 +785,13 @@
     "image": "assets/projects/web/shahski.webp",
     "source": "https://opensystems.az/industrial",
     "sourceLabel": "Open Systems · Şahdağ kompleksi",
-    "alt": "Ski Club Shahdag"
+    "alt": "Ski Club Shahdag",
+    "scope": [
+      "Motorlu jalüz"
+    ],
+    "projectYear": "2025",
+    "client": "ARCHİCO",
+    "description": "Ski Club Shahdag layihəsi. Görülən iş: Motorlu jalüz. İcra ili: 2025. Sifarişçi: ARCHİCO."
   },
   {
     "id": 62,
@@ -625,17 +829,29 @@
     "image": "assets/projects/web/anticorruption.webp",
     "source": "https://teleqraf.az/news/yasavul/260260.html",
     "sourceLabel": "Teleqraf · Korrupsiyaya qarşı Mübarizə Baş İdarəsi",
-    "alt": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi"
+    "alt": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi",
+    "scope": [
+      "Qeyd olunmayıb"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi layihəsi. Görülən iş: Qeyd olunmayıb. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 36,
     "title": "Pərdə və otel tekstili | Sapphire Bayil",
-    "category": "İnteryer",
+    "category": "Otelçilik",
     "location": "Bakı",
     "image": "assets/projects/web/sapphire-interior.webp",
     "source": "https://www.tripadvisor.com/Hotel_Review-g293934-d17768748-Reviews-Sapphire_Bayil_Hotel-Baku_Absheron_Region.html",
     "sourceLabel": "Tripadvisor · Sapphire Bayil Hotel",
-    "alt": "Pərdə və otel tekstili | Sapphire Bayil"
+    "alt": "Pərdə və otel tekstili | Sapphire Bayil",
+    "scope": [
+      "Pərdə və hotel tekstili"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "Sapphire Bayil Hotel layihəsi. Görülən iş: Pərdə və hotel tekstili. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 70,
@@ -663,7 +879,13 @@
     "image": "assets/projects/web/shahlake.webp",
     "source": "https://www.shahdag.az/az/hotel/lakeside-hotel",
     "sourceLabel": "Shahdag.az · LakeSide Hotel",
-    "alt": "Lake Side Shahdag"
+    "alt": "Lake Side Shahdag",
+    "scope": [
+      "Jalüz"
+    ],
+    "projectYear": "2025",
+    "client": "ARCHİCO",
+    "description": "Lake Side Shahdag layihəsi. Görülən iş: Jalüz. İcra ili: 2025. Sifarişçi: ARCHİCO."
   },
   {
     "id": 63,
@@ -691,7 +913,13 @@
     "image": "assets/projects/web/crescent.webp",
     "source": "https://crescentmall.az/",
     "sourceLabel": "Crescent Mall · rəsmi interyer",
-    "alt": "Crescent Mall"
+    "alt": "Crescent Mall",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2025",
+    "client": "AYPARA DEVELOPMENT",
+    "description": "Crescent Mall layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2025. Sifarişçi: AYPARA DEVELOPMENT."
   },
   {
     "id": 17,
@@ -701,7 +929,13 @@
     "image": "assets/projects/web/knightsbridge.webp",
     "source": "https://serealdesign.com/project-knightsbridge-residence-021",
     "sourceLabel": "Sereal Design · Knightsbridge interyeri",
-    "alt": "Knightsbridge Residence White City"
+    "alt": "Knightsbridge Residence White City",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2024",
+    "client": "WORKPLACE INTERIORS",
+    "description": "Knightsbridge Residence White City layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: WORKPLACE INTERIORS."
   },
   {
     "id": 10,
@@ -711,7 +945,13 @@
     "image": "assets/projects/web/zangilan.webp",
     "source": "https://report.az/daxili-siyaset/zengilan-konqres-merkezi-kompleksinin-acilisi-olub",
     "sourceLabel": "Report.az · Zəngilan Konqres Mərkəzi",
-    "alt": "Zəngilan Konqres Mərkəzi"
+    "alt": "Zəngilan Konqres Mərkəzi",
+    "scope": [
+      "Motorlu jalüzlər"
+    ],
+    "projectYear": "2023",
+    "client": "TVM İNŞAAT",
+    "description": "Zəngilan Konqres Mərkəzi layihəsi. Görülən iş: Motorlu jalüzlər. İcra ili: 2023. Sifarişçi: TVM İNŞAAT."
   },
   {
     "id": 16,
@@ -721,17 +961,29 @@
     "image": "assets/projects/web/aquatic.webp",
     "source": "https://commons.wikimedia.org/wiki/File:Baku_Aquatic_Palace,_Azerbaijan,_Caspian_Sea_shore,_Boulevard.jpg",
     "sourceLabel": "Ahl Baku · CC BY-SA 4.0 · Wikimedia Commons",
-    "alt": "Su İdman Sarayı"
+    "alt": "Su İdman Sarayı",
+    "scope": [
+      "Jalüz"
+    ],
+    "projectYear": "2022",
+    "client": "Su İdman Sarayı",
+    "description": "Su İdman Sarayı layihəsi. Görülən iş: Jalüz. İcra ili: 2022. Sifarişçi: Su İdman Sarayı."
   },
   {
     "id": 38,
     "title": "Pərdə və jalüz | Sea Breeze Grand Hotel",
-    "category": "İnteryer",
+    "category": "Otelçilik",
     "location": "Nardaran",
     "image": "assets/projects/web/seabreeze-interior.webp",
     "source": "https://commons.wikimedia.org/wiki/File:Sea_Breeze_resort.jpg",
     "sourceLabel": "Wikimedia Commons · Sea Breeze resort",
-    "alt": "Pərdə və jalüz | Sea Breeze Grand Hotel"
+    "alt": "Pərdə və jalüz | Sea Breeze Grand Hotel",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2023",
+    "client": "Qeyd olunmayıb",
+    "description": "Sea Breeze Grand Hotel layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2023. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 71,
@@ -852,7 +1104,13 @@
     "image": "assets/projects/web/athletes.webp",
     "source": "https://www.hotels.com/ho3568004416/",
     "sourceLabel": "Bakı Atletlər Kəndi · interyer görünüşü",
-    "alt": "Bakı Atletlər Kəndi"
+    "alt": "Bakı Atletlər Kəndi",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "2024",
+    "client": "PMD GROUP",
+    "description": "Bakı Atletlər Kəndi layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: 2024. Sifarişçi: PMD GROUP."
   },
   {
     "id": 45,
@@ -862,7 +1120,13 @@
     "image": "assets/projects/web/socar.webp",
     "source": "https://president.az/az/articles/view/20037",
     "sourceLabel": "President.az · SOCAR Tower",
-    "alt": "SOCAR Tower"
+    "alt": "SOCAR Tower",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "SOCAR Tower layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 47,
@@ -872,7 +1136,13 @@
     "image": "assets/projects/web/yacht.webp",
     "source": "https://www.tripadvisor.com.au/Hotel_Review-g293934-d4271765-Reviews-Yacht_Club-Baku_Absheron_Region.html",
     "sourceLabel": "Tripadvisor · Yacht Club",
-    "alt": "Yacht Club"
+    "alt": "Yacht Club",
+    "scope": [
+      "Jalüz"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "Yacht Club layihəsi. Görülən iş: Jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 52,
@@ -887,12 +1157,18 @@
   {
     "id": 40,
     "title": "Pərdə və jalüz | Sea Breeze Park Cafe",
-    "category": "İnteryer",
+    "category": "Qida və içki",
     "location": "Nardaran",
     "image": "assets/projects/web/parkcafe-interior.webp",
     "source": "https://seabreeze.az/en/infrastructure/restaurants/park-cafe",
     "sourceLabel": "Sea Breeze · Park Cafe",
-    "alt": "Pərdə və jalüz | Sea Breeze Park Cafe"
+    "alt": "Pərdə və jalüz | Sea Breeze Park Cafe",
+    "scope": [
+      "Pərdə və jalüz"
+    ],
+    "projectYear": "Qeyd olunmayıb",
+    "client": "Qeyd olunmayıb",
+    "description": "Sea Breeze Park Cafe layihəsi. Görülən iş: Pərdə və jalüz. İcra ili: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 72,
@@ -1026,6 +1302,51 @@
     "image": "assets/projects/web/porttower.webp",
     "source": "https://www.savills.co.uk/services/consultancy/projects/port-baku-towers.aspx",
     "sourceLabel": "Savills · Port Baku Towers interyeri",
-    "alt": "Port Baku Tower 2"
+    "alt": "Port Baku Tower 2",
+    "scope": [
+      "Pərdə, jalüz və motor sistemləri"
+    ],
+    "projectYear": "2024, 2025, 2026",
+    "client": "PMD PROJECTS",
+    "description": "Port Baku Tower 2 layihəsi. Görülən iş: Pərdə, jalüz və motor sistemləri. İcra ili: 2024, 2025, 2026. Sifarişçi: PMD PROJECTS."
+  },
+  {
+    "id": 81,
+    "title": "Xankəndi Dövlət Dram Teatrı",
+    "category": "Dövlət və ictimai",
+    "location": "Xankəndi",
+    "alt": "Xankəndi Dövlət Dram Teatrı",
+    "scope": [
+      "Pərdələr və jalüzlər"
+    ],
+    "projectYear": "2026",
+    "client": "TEA MONTAJ – M",
+    "description": "Xankəndi Dövlət Dram Teatrında 2026-cı ildə pərdələr və jalüzlər quraşdırılıb. Sifarişçi: TEA MONTAJ – M."
+  },
+  {
+    "id": 82,
+    "title": "Ağdam Residence",
+    "category": "Yaşayış",
+    "location": "Ağdam",
+    "alt": "Ağdam Residence",
+    "scope": [
+      "Pərdələr"
+    ],
+    "projectYear": "2025",
+    "client": "FMG (Facility Management Group)",
+    "description": "Ağdam Residence layihəsində 2025-ci ildə pərdə işləri görülüb. Sifarişçi: FMG (Facility Management Group)."
+  },
+  {
+    "id": 83,
+    "title": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi",
+    "category": "Dövlət və ictimai",
+    "location": "Qeyd olunmayıb",
+    "alt": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi",
+    "scope": [
+      "Jalüz və motor sistemləri"
+    ],
+    "projectYear": "2026",
+    "client": "ARTCHİCO",
+    "description": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi layihəsində 2026-cı ildə jalüz və motor sistemləri quraşdırılıb. Sifarişçi: ARTCHİCO."
   }
 ]
