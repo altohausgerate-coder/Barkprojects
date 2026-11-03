@@ -81,13 +81,13 @@
   },
   {
     "id": 2,
-    "title": "Pərdə və jalüz | Dövlət Təhlükəsizliyi Xidməti",
+    "title": "Pərdə və jalüz | DTX – Mərkəzi bina",
     "category": "Dövlət və ictimai",
     "location": "Bakı",
     "image": "assets/projects/web/dtx-interior.webp",
     "source": "https://turkic.world/en/articles/politics/472264",
     "sourceLabel": "Turkic World · DTX headquarters",
-    "alt": "Pərdə və jalüz | Dövlət Təhlükəsizliyi Xidməti",
+    "alt": "Pərdə və jalüz | DTX – Mərkəzi bina",
     "scope": [
       "Pərdə, jalüz, motor sistemləri"
     ],
@@ -149,13 +149,13 @@
   },
   {
     "id": 9,
-    "title": "Lachin Resort & Spa",
+    "title": "Laçın Resort & Spa",
     "category": "Otelçilik",
     "location": "Laçın",
     "image": "assets/projects/web/lachin.webp",
     "source": "https://inn.az/az/properties/lachin-resort-spa-5710cc03-4fb0-48f9-b36b-afd4439984cf",
     "sourceLabel": "INN.az · Laçın Resort & Spa",
-    "alt": "Lachin Resort & Spa",
+    "alt": "Laçın Resort & Spa",
     "scope": [
       "Pərdə"
     ],
@@ -461,13 +461,13 @@
   },
   {
     "id": 1,
-    "title": "Azərbaycan Respublikası Dövlət Təhlükəsizliyi Xidməti",
+    "title": "DTX – Mərkəzi bina",
     "category": "Dövlət və ictimai",
     "location": "Bakı",
     "image": "assets/projects/web/dtx.webp",
     "source": "https://president.az/az/articles/view/62353",
     "sourceLabel": "President.az · DTX interyeri",
-    "alt": "Azərbaycan Respublikası Dövlət Təhlükəsizliyi Xidməti",
+    "alt": "DTX – Mərkəzi bina",
     "scope": [
       "Pərdə, jalüz, motor sistemləri"
     ],
@@ -493,13 +493,13 @@
   },
   {
     "id": 33,
-    "title": "Courtyard by Marriott Baku",
+    "title": "Courtyard by Marriott Hotel",
     "category": "Otelçilik",
     "location": "Bakı",
     "image": "assets/projects/web/courtyard.webp",
     "source": "https://www.marriott.com/en-us/hotels/gydcy-courtyard-baku/rooms/",
     "sourceLabel": "Courtyard by Marriott Baku · otaq interyeri",
-    "alt": "Courtyard by Marriott Baku",
+    "alt": "Courtyard by Marriott Hotel",
     "scope": [
       "Pərdə və jalüz"
     ],
@@ -717,13 +717,13 @@
   },
   {
     "id": 34,
-    "title": "Pərdə və jalüz | Courtyard by Marriott",
+    "title": "Pərdə və jalüz | Courtyard by Marriott Hotel",
     "category": "Otelçilik",
     "location": "Bakı",
     "image": "assets/projects/web/courtyard-interior.webp",
     "source": "https://idea.az/ru/company/project/courtyard-by-marriott-project/",
     "sourceLabel": "IDEA · Courtyard by Marriott",
-    "alt": "Pərdə və jalüz | Courtyard by Marriott",
+    "alt": "Pərdə və jalüz | Courtyard by Marriott Hotel",
     "scope": [
       "Pərdə və jalüz"
     ],
