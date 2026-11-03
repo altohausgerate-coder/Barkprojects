@@ -67,7 +67,7 @@ function render() {
       picture.classList.add("project-image--documented");
       const marker = document.createElement("span");
       marker.className = "project-document-marker";
-      marker.textContent = "TÖVSİYƏ MƏKTUBU İLƏ TƏSDİQLƏNİB";
+      marker.textContent = "LAYİHƏ MƏLUMATI";
       picture.append(marker);
     }
 
