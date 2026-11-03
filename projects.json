@@ -119,13 +119,7 @@
     "image": "assets/projects/web/bilgah.webp",
     "source": "https://dtx.gov.az/az/news/1764.html",
     "sourceLabel": "DTX · Bilgəh Mərkəzi qalereyası",
-    "alt": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi",
-    "scope": [
-      "Pərdə, jalüz, motor sistemləri"
-    ],
-    "projectYear": "2024",
-    "client": "DİADEM MCC",
-    "description": "DTX – Bilgəh Konqres Mərkəzi layihəsi. Görülən iş: Pərdə, jalüz, motor sistemləri. İcra ili: 2024. Sifarişçi: DİADEM MCC."
+    "alt": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi"
   },
   {
     "id": 42,
@@ -151,13 +145,7 @@
     "image": "assets/projects/web/bilgah-garden.webp",
     "source": "https://dtx.gov.az/az/news/1764.html",
     "sourceLabel": "DTX · Bilgəh İstirahət Mərkəzi",
-    "alt": "Pərdə və jalüz | Bilgəh İstirahət Mərkəzi",
-    "scope": [
-      "Pərdə, jalüz, motor sistemləri"
-    ],
-    "projectYear": "2024",
-    "client": "DİADEM MCC",
-    "description": "DTX – Bilgəh Konqres Mərkəzi layihəsi. Görülən iş: Pərdə, jalüz, motor sistemləri. İcra ili: 2024. Sifarişçi: DİADEM MCC."
+    "alt": "Pərdə və jalüz | Bilgəh İstirahət Mərkəzi"
   },
   {
     "id": 9,
@@ -1348,5 +1336,18 @@
     "projectYear": "2026",
     "client": "ARTCHİCO",
     "description": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi layihəsində 2026-cı ildə jalüz və motor sistemləri quraşdırılıb. Sifarişçi: ARTCHİCO."
+  },
+  {
+    "id": 84,
+    "title": "DTX – Bilgəh Konqres Mərkəzi",
+    "category": "İctimai məkan",
+    "location": "Bilgəh",
+    "alt": "DTX – Bilgəh Konqres Mərkəzi",
+    "scope": [
+      "Pərdə, jalüz və motor sistemləri"
+    ],
+    "projectYear": "2024",
+    "client": "DİADEM MCC",
+    "description": "DTX Bilgəh Konqres Mərkəzində 2024-cü ildə pərdə, jalüz və motor sistemləri işləri görülüb. Sifarişçi şirkət: DİADEM MCC."
   }
 ]
