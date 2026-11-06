@@ -1542,8 +1542,6 @@
     "title": "ADEL Interiors",
     "category": "Ticarət",
     "location": "Bakı",
-    "source": "https://modisinteriors.com/blog/modis-interiors-baku",
-    "sourceLabel": "ADEL Interiors — foto mənbəyi",
     "alt": "Bakı interyer salonu",
     "scope": [
       "Pərdə motorları"
@@ -1557,8 +1555,6 @@
     "title": "GİG (Global İnşaat Group)",
     "category": "Otelçilik",
     "location": "Bakı",
-    "source": "https://www.bakupost.az/tarqovuda-restoran-terefinden-artirilan-qanunsuz-tikili-sokulub",
-    "sourceLabel": "GİG (Global İnşaat Group) — foto mənbəyi",
     "alt": "Fontana meydanındakı kafe ərazisi",
     "scope": [
       "Troslu jalüzlər"
@@ -1572,8 +1568,6 @@
     "title": "BULVAR GYM",
     "category": "İdman və ictimai",
     "location": "Bakı",
-    "source": "https://nargismagazine.az/ru/articles/article-boulevard-hotel-baku-2/",
-    "sourceLabel": "BULVAR GYM — foto mənbəyi",
     "alt": "Boulevard ərazisində fitnes zalı",
     "scope": [
       "İdman zalında motorlu jalüzlərin təmiri"
@@ -1588,7 +1582,7 @@
     "category": "Ofis və maliyyə",
     "location": "Bakı",
     "source": "https://capitalconstruction.az/projects",
-    "sourceLabel": "CAPITAL CONSTRUCTION OFİS — foto mənbəyi",
+    "sourceLabel": "Capital Construction — rəsmi layihə səhifəsi",
     "alt": "Capital Construction layihələri",
     "scope": [
       "Pərdə və jalüzlər"
@@ -1602,8 +1596,6 @@
     "title": "Lökbatan peşə liseyi",
     "category": "Təhsil",
     "location": "Lökbatan",
-    "source": "https://yenicag.az/lokbatanda-mekteb-donur-direktor-davamiyyet-teleb-edir-muellim-ise-valideynlerden-pec-isteyir-ses-yazisi",
-    "sourceLabel": "Lökbatan peşə liseyi — foto mənbəyi",
     "alt": "Lökbatan məktəb binası",
     "scope": [
       "Bütün liseyin horizontal jalüzləri"
@@ -1617,8 +1609,6 @@
     "title": "Green Klinik",
     "category": "Səhiyyə",
     "location": "Bakı",
-    "source": "https://us-uk.bookimed.com/clinic/biological-medicine-integrative-health-center/",
-    "sourceLabel": "Green Klinik — foto mənbəyi",
     "alt": "Bakı klinikasının qəbul sahəsi",
     "scope": [
       "Bütün mərtəbələrin və rəhbər otağının jalüzləri"
@@ -1648,8 +1638,6 @@
     "title": "Gizli Bahçe restoranı",
     "category": "Qida və içki",
     "location": "Bakı",
-    "source": "https://www.ucb.az/az/filiallar",
-    "sourceLabel": "Gizli Bahçe restoranı — foto mənbəyi",
     "alt": "Restoran interyeri",
     "scope": [
       "Jalüzlər"
