@@ -1303,51 +1303,63 @@
     "title": "Xankəndi Dövlət Dram Teatrı",
     "category": "Dövlət və ictimai",
     "location": "Xankəndi",
-    "alt": "Xankəndi Dövlət Dram Teatrı",
+    "alt": "Xankəndi Dövlət Dram Teatrının tarixi fasadı",
     "scope": [
       "pərdələr və jalüzlər"
     ],
     "projectYear": "2026",
     "client": "TEA MONTAJ – M",
-    "description": "Xankəndi Dövlət Dram Teatrı. Görülən iş: pərdələr və jalüzlər. İl: 2026. Sifarişçi: TEA MONTAJ – M."
+    "description": "Xankəndi Dövlət Dram Teatrı. Görülən iş: pərdələr və jalüzlər. İl: 2026. Sifarişçi: TEA MONTAJ – M.",
+    "image": "https://static.president.az/upload/1960x1292/2024/09/19/1726769232_e5be9cfa04a863d792951f93ef429b19.jpg",
+    "source": "https://president.az/az/articles/view/66873/images",
+    "sourceLabel": "Azərbaycan Prezidentinin rəsmi saytı · Xankəndi Dövlət Dram Teatrı"
   },
   {
     "id": 82,
     "title": "Ağdam Residence",
     "category": "Yaşayış",
     "location": "Ağdam",
-    "alt": "Ağdam Residence",
+    "alt": "Ağdam Residence yaşayış kompleksi",
     "scope": [
       "Pərdələr"
     ],
     "projectYear": "2025",
     "client": "FMG (FACİLİTY MANAGEMENT GROUP)",
-    "description": "Ağdam Residence. Görülən iş: Pərdələr. İl: 2025. Sifarişçi: FMG (FACİLİTY MANAGEMENT GROUP)."
+    "description": "Ağdam Residence. Görülən iş: Pərdələr. İl: 2025. Sifarişçi: FMG (FACİLİTY MANAGEMENT GROUP).",
+    "image": "https://fmg.az/file/189/full/gall_6.jpeg",
+    "source": "https://fmg.az/az/aghdam-residence",
+    "sourceLabel": "FMG · Ağdam Residence"
   },
   {
     "id": 83,
     "title": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi",
     "category": "Dövlət və ictimai",
-    "location": "Qeyd olunmayıb",
-    "alt": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi",
+    "location": "Xankəndi",
+    "alt": "Xankəndidə Qarabağ Regional Memarlıq və Şəhərsalma Baş İdarəsinin inzibati binası",
     "scope": [
       "jalüz və motor sistemləri"
     ],
     "projectYear": "2026",
     "client": "ARTCHİCO",
-    "description": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi. Görülən iş: jalüz və motor sistemləri. İl: 2026. Sifarişçi: ARTCHİCO."
+    "description": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi. Görülən iş: jalüz və motor sistemləri. İl: 2026. Sifarişçi: ARTCHİCO.",
+    "image": "https://api.archico.az/storage/1030/2-%281%29.jpg",
+    "source": "https://archico.az/az/projects/public-social-4617474028416453",
+    "sourceLabel": "ArchiCO · Qarabağ Regional Memarlıq və Şəhərsalma Baş İdarəsinin inzibati binası"
   },
   {
     "id": 84,
     "title": "DTX – Bilgəh Konqres Mərkəzi",
     "category": "İctimai məkan",
     "location": "Bilgəh",
-    "alt": "DTX – Bilgəh Konqres Mərkəzi",
+    "alt": "DTX-nin Bilgəh mərkəzinin girişi",
     "scope": [
       "Pərdə, jalüz, motor sistemləri"
     ],
     "projectYear": "2024",
     "client": "DİADEM MCC",
-    "description": "DTX – Bilgəh Konqres Mərkəzi. Görülən iş: Pərdə, jalüz, motor sistemləri. İl: 2024. Sifarişçi: DİADEM MCC."
+    "description": "DTX – Bilgəh Konqres Mərkəzi. Görülən iş: Pərdə, jalüz, motor sistemləri. İl: 2024. Sifarişçi: DİADEM MCC.",
+    "image": "https://dtx.gov.az/uploads/blog/full/2023/06/19/648b2c886c572-b0vr10JmTA31Cpj.jpg",
+    "source": "https://dtx.gov.az/az/news/1764.html",
+    "sourceLabel": "DTX · Bilgəh mərkəzi, rəsmi foto"
   }
 ]
