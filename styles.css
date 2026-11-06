@@ -506,3 +506,7 @@ img { max-width: 100%; }
 .about-video-open { position: absolute; right: 14px; bottom: 12px; display: flex; align-items: center; gap: 8px; padding: 8px 10px; background: rgba(15,15,14,.78); color: var(--ivory); font-size: 9px; letter-spacing: .1em; text-transform: uppercase; }
 .about-video-open i { color: var(--copper); font-style: normal; }
 @media (max-width: 680px) { .about-video { grid-template-columns: 1fr; gap: 28px; } .about-video-link { max-width: 100%; } }
+
+
+/* Keep both parts of the About video heading in the same type style */
+.about-video-copy h2 em { color: inherit; font-family: inherit; font-style: normal; font-weight: inherit; }
