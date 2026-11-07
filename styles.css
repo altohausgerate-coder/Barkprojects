@@ -510,3 +510,46 @@ img { max-width: 100%; }
 
 /* Keep both parts of the About video heading in the same type style */
 .about-video-copy h2 em { color: inherit; font-family: inherit; font-style: normal; font-weight: inherit; }
+
+
+/* Written recommendation letters, presented as A4 sheets */
+.recommendations-page { padding-top: clamp(142px, 17vw, 208px); padding-bottom: clamp(88px, 10vw, 150px); }
+.recommendations-intro { max-width: 760px; margin-bottom: clamp(42px, 6vw, 76px); }
+.recommendations-intro h1 { margin: 0; font-size: clamp(44px, 7vw, 88px); font-weight: 300; letter-spacing: -.06em; line-height: .98; }
+.recommendations-intro > p:last-child { max-width: 620px; margin: 24px 0 0; color: var(--silver); font-size: 14px; font-weight: 300; line-height: 1.85; }
+.recommendation-pages { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: clamp(24px, 4vw, 56px); }
+.recommendation-sheet { position: relative; display: flex; flex-direction: column; width: 100%; aspect-ratio: 210 / 297; overflow: hidden; padding: clamp(24px, 4vw, 58px); background: #f5f2ec; color: #242421; box-shadow: 0 24px 70px rgba(0,0,0,.28); }
+.recommendation-sheet::before { position: absolute; inset: 12px; border: 1px solid rgba(135,112,89,.24); content: ""; pointer-events: none; }
+.recommendation-letter-head { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-bottom: 22px; border-bottom: 1px solid rgba(36,36,33,.18); }
+.recommendation-letter-brand { display: flex; align-items: center; gap: 10px; color: #242421; }
+.recommendation-letter-brand img { width: 30px; height: 36px; object-fit: contain; }
+.recommendation-letter-brand span { font-family: "Michroma", sans-serif; font-size: 10px; letter-spacing: .08em; line-height: 1.45; }
+.recommendation-letter-brand small { display: block; color: #716e68; font-family: "Montserrat", Arial, sans-serif; font-size: 7px; letter-spacing: .28em; }
+.recommendation-letter-mark { color: #8d755f; font-size: 8px; letter-spacing: .18em; text-align: right; text-transform: uppercase; }
+.recommendation-sheet-content { flex: 1; padding-top: clamp(24px, 4vw, 54px); }
+.recommendation-sheet-content .eyebrow { margin-bottom: 12px; color: #8d755f; font-size: 8px; letter-spacing: .2em; }
+.recommendation-sheet-content h2 { margin: 0; color: #242421; font-size: clamp(19px, 2.2vw, 29px); font-weight: 500; line-height: 1.28; letter-spacing: -.03em; }
+.recommendation-project { margin: 8px 0 0; color: #77736c; font-size: 10px; line-height: 1.6; }
+.recommendation-letter-body { margin: clamp(24px, 4vw, 48px) 0 0; color: #403f3b; font-family: "Playfair Display", Georgia, serif; font-size: clamp(12px, 1.28vw, 16px); line-height: 1.9; }
+.recommendation-signoff { margin-top: auto; padding-top: 24px; }
+.recommendation-signoff-rule { width: 100%; height: 1px; margin-bottom: 14px; background: rgba(36,36,33,.2); }
+.recommendation-signoff p { margin: 0; color: #77736c; font-size: 9px; line-height: 1.6; }
+.recommendation-signoff strong { display: block; margin-top: 4px; color: #34332f; font-size: 10px; font-weight: 600; }
+.recommendations-empty { color: var(--silver); }
+@media (max-width: 760px) { .recommendation-pages { grid-template-columns: 1fr; } .recommendation-sheet { max-width: 540px; margin-inline: auto; padding: 34px; } .recommendation-letter-body { font-size: 15px; } }
+@media print {
+  @page { size: A4 portrait; margin: 0; }
+  html, body { background: #fff !important; }
+  .site-header, .site-footer, .recommendations-intro, .recommendations-empty { display: none !important; }
+  .recommendations-page { width: auto; padding: 0; }
+  .recommendation-pages { display: block; }
+  .recommendation-sheet { width: 210mm; height: 297mm; aspect-ratio: auto; margin: 0; padding: 20mm; box-shadow: none; break-after: page; page-break-after: always; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .recommendation-sheet::before { inset: 8mm; }
+  .recommendation-sheet-content h2 { font-size: 24pt; }
+  .recommendation-letter-body { font-size: 12pt; line-height: 1.8; }
+}
+
+.recommendation-print { display: inline-flex; align-items: center; gap: 18px; margin-top: 25px; padding: 12px 15px; border: 1px solid rgba(204,151,114,.55); background: transparent; color: var(--ivory); font-size: 10px; letter-spacing: .12em; text-transform: uppercase; cursor: pointer; transition: background .2s ease, color .2s ease; }
+.recommendation-print:hover { background: var(--ivory); color: var(--black); }
+.recommendation-print span { color: var(--copper); font-size: 14px; }
+@media print { .recommendation-print { display: none !important; } }
