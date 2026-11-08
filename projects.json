@@ -119,7 +119,9 @@
     "image": "assets/projects/web/bilgah.webp",
     "source": "https://dtx.gov.az/az/news/1764.html",
     "sourceLabel": "DTX · Bilgəh Mərkəzi qalereyası",
-    "alt": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi"
+    "alt": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi",
+    "scope": [],
+    "description": "DTX-in Bilgəh İstirahət Mərkəzi üzrə pərdə və jalüz işləri. Layihə yalnız DTX-nin Bilgəh İstirahət Mərkəzi adı altında təqdim olunur."
   },
   {
     "id": 42,
@@ -136,16 +138,6 @@
     "projectYear": "2022",
     "client": "LVOV ŞOKOLAD EVİ",
     "description": "Lvov Şokolad Evi. Görülən iş: Pərdə və karniz. İl: 2022. Sifarişçi: LVOV ŞOKOLAD EVİ."
-  },
-  {
-    "id": 4,
-    "title": "Pərdə və jalüz | Bilgəh İstirahət Mərkəzi",
-    "category": "Otelçilik",
-    "location": "Bilgəh",
-    "image": "assets/projects/web/bilgah-garden.webp",
-    "source": "https://dtx.gov.az/az/news/1764.html",
-    "sourceLabel": "DTX · Bilgəh İstirahət Mərkəzi",
-    "alt": "Pərdə və jalüz | Bilgəh İstirahət Mərkəzi"
   },
   {
     "id": 9,
@@ -621,7 +613,10 @@
     "recommendation": {
       "source": "NIMEX MMC · 12.07.2021",
       "summary": "NIMEX MMC Əmlak Komitəsinin yeni binasını AZ ALI MMC-yə həvalə etdiyi böyük layihələrdən biri kimi göstərir. Məktubda üzərinə düşən bütün öhdəliklərin yüksək səviyyədə yerinə yetirildiyi qeyd olunur. İşlərin konkret növü və texniki həcmi məktubda göstərilmir."
-    }
+    },
+    "image": "https://smts.az/site/assets/files/1104/9.jpg",
+    "source": "https://smts.az/en/projects/property-tower-baku/",
+    "sourceLabel": "Property Tower Baku · foto"
   },
   {
     "id": 32,
@@ -713,7 +708,10 @@
     "recommendation": {
       "source": "NIMEX MMC · 12.07.2021",
       "summary": "NIMEX MMC bu layihəni AZ ALI MMC-yə həvalə etdiyi böyük layihələrdən biri kimi qeyd edir. Məktubda layihə çərçivəsində üzərinə düşən bütün öhdəliklərin yüksək səviyyədə yerinə yetirildiyi bildirilir. İşlərin konkret növü və texniki həcmi məktubda sadalanmır."
-    }
+    },
+    "image": "https://axar.az/media/2021/05/29/iqtisadiyyat-nazirlik.jpg",
+    "source": "https://axar.az/news/kult/656656.html",
+    "sourceLabel": "İqtisadiyyat Nazirliyinin yeni binası · foto"
   },
   {
     "id": 34,
@@ -1228,7 +1226,10 @@
     "recommendation": {
       "source": "ABICON MMC · 17.09.2025",
       "summary": "ABICON MMC-nin direktoru Bəxtiyar Mirzəyev H.Əliyev adına Beynəlxalq Hava Limanında yerləşən SHAFA kafe layihəsi üzrə göstərilən xidmət və məhsul keyfiyyətindən məmnun olduqlarını bildirir. Məktubda ofis mebeli, müdir və işçi kresloları, yumşaq mebellər sadalanır. Məhsulların keyfiyyət, rahatlıq və funksionallıq tələblərinə cavab verdiyi, davamlı, estetik və erqonomik olduğu; sifarişlərin vaxtında çatdırılması, müştəri məmnuniyyətinə diqqət və çevik xidmət qeyd olunur."
-    }
+    },
+    "image": "https://content.centrum-air.com/media/content_images/8ceb9d17-9ac9-4d24-a6ac-29ca5811fd51.png",
+    "source": "https://centrum-air.com/en/blogs/heydar-aliyev-international-airport-baku",
+    "sourceLabel": "Heydər Əliyev Hava Limanı · terminal interyeri"
   },
   {
     "id": 68,
