@@ -58,14 +58,6 @@ function setProject(project, projects) {
   const clientRow = document.querySelector("#fact-client-row");
   clientRow.hidden = !project.client;
   if (project.client) document.querySelector("#fact-client").textContent = project.client;
-  const catalogFact = document.querySelector("#fact-catalog-row");
-  if (project.catalogPages) {
-    catalogFact.hidden = false;
-    document.querySelector("#fact-catalog").textContent = `BARK PROJECTS · səh. ${project.catalogPages}`;
-  } else {
-    catalogFact.hidden = true;
-  }
-
 
   const hero = document.querySelector("#detail-image");
   const heroSection = hero.closest(".detail-hero");
