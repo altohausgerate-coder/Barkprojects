@@ -553,3 +553,91 @@ img { max-width: 100%; }
 .recommendation-print:hover { background: var(--ivory); color: var(--black); }
 .recommendation-print span { color: var(--copper); font-size: 14px; }
 @media print { .recommendation-print { display: none !important; } }
+
+/* A4 recommendation image gallery */
+.recommendation-pages {
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: start;
+  gap: clamp(22px, 3vw, 42px);
+}
+.recommendation-image-card {
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--ivory);
+  text-align: left;
+  cursor: zoom-in;
+}
+.recommendation-image-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 210 / 297;
+  object-fit: contain;
+  background: #f7f5f0;
+  box-shadow: 0 22px 56px rgba(0, 0, 0, .25);
+  transition: transform .24s ease, box-shadow .24s ease;
+}
+.recommendation-image-card:hover img,
+.recommendation-image-card:focus-visible img {
+  transform: translateY(-4px);
+  box-shadow: 0 30px 68px rgba(0, 0, 0, .34);
+}
+.recommendation-image-card:focus-visible {
+  outline: 2px solid var(--copper);
+  outline-offset: 5px;
+}
+.recommendation-image-caption {
+  display: block;
+  margin-top: 14px;
+  color: var(--silver);
+  font-size: 12px;
+  line-height: 1.6;
+}
+.recommendation-dialog {
+  position: fixed;
+  inset: 0;
+  width: min(92vw, 780px);
+  max-width: 780px;
+  max-height: 94vh;
+  padding: 44px 14px 14px;
+  border: 0;
+  background: transparent;
+  overflow: visible;
+}
+.recommendation-dialog::backdrop {
+  background: rgba(7, 7, 7, .88);
+  backdrop-filter: blur(6px);
+}
+.recommendation-dialog img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 88vh;
+  margin: 0 auto;
+  box-shadow: 0 22px 70px rgba(0, 0, 0, .45);
+}
+.recommendation-dialog-close {
+  position: absolute;
+  top: 0;
+  right: 14px;
+  padding: 8px 13px;
+  border: 1px solid rgba(246, 240, 232, .4);
+  background: #161617;
+  color: #f6f0e8;
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+@media (max-width: 900px) {
+  .recommendation-pages { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 600px) {
+  .recommendation-pages { grid-template-columns: 1fr; }
+  .recommendation-image-card { max-width: 520px; margin-inline: auto; }
+  .recommendation-dialog { width: 96vw; padding-inline: 4px; }
+  .recommendation-dialog-close { right: 4px; }
+}
