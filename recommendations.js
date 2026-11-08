@@ -8,6 +8,7 @@ const letters = [
   { name: "Azərbaycan Beynəlxalq Bankı", file: "abb", alt: "Azərbaycan Beynəlxalq Bankının tövsiyə məktubu" },
   { name: "EPISOM MMC", file: "episom", alt: "EPISOM MMC-nin tövsiyə məktubu" },
   { name: "Kucha MMC", file: "kucha", alt: "Kucha MMC-nin tövsiyə məktubu" },
+  { name: "PROKON MMC", file: "prokon", alt: "PROKON MMC-nin AZ ALİ MMC üçün 14.06.2022 tarixli tövsiyə məktubu" },
   { name: "Macara Club MMC", file: "macara", alt: "Macara Club MMC-nin tövsiyə məktubu" },
   { name: "Olimp Mühəndis Xidmətləri MMC", file: "olimp", alt: "Olimp Mühəndis Xidmətləri MMC-nin tövsiyə məktubu" },
   { name: "Sağlam Həyat C.A MMC", file: "zdrow", alt: "Sağlam Həyat C.A MMC-nin tövsiyə məktubu" },
