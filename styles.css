@@ -713,7 +713,7 @@ img { max-width: 100%; }
 }
 .recommendation-star {
   flex: 0 0 auto;
-  color: #8dd51b;
+  color: var(--copper);
   font-size: 1.45em;
   line-height: 1;
 }
