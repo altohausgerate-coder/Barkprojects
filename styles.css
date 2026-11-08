@@ -644,15 +644,15 @@ img { max-width: 100%; }
 }
 
 
-/* Recommendation gallery styled to match the reference page */
+/* BARK palette for the recommendation gallery */
 .recommendations-page {
   padding-inline: var(--page-x);
-  background: #fbfcfa;
-  color: #161916;
+  background: var(--black);
+  color: var(--ivory);
 }
-.recommendations-intro .eyebrow { color: #8abf16; }
-.recommendations-intro h1 { color: #1b1c19; }
-.recommendations-intro > p:last-child { color: #687064; }
+.recommendations-intro .eyebrow { color: var(--copper); }
+.recommendations-intro h1 { color: var(--ivory); }
+.recommendations-intro > p:last-child { color: var(--silver); }
 .recommendation-pages {
   grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
   column-gap: clamp(28px, 5vw, 72px);
@@ -672,11 +672,11 @@ img { max-width: 100%; }
   place-items: center;
   overflow: hidden;
   padding: 12px;
-  border: 1px solid #e8ede7;
+  border: 1px solid rgba(246, 240, 232, .18);
   border-radius: 8px;
   background:
-    repeating-radial-gradient(ellipse at 50% 52%, transparent 0 12px, rgba(137, 153, 124, .035) 13px 19px, transparent 20px 29px),
-    #fcfdfb;
+    repeating-radial-gradient(ellipse at 50% 52%, transparent 0 12px, rgba(246, 240, 232, .035) 13px 19px, transparent 20px 29px),
+    #1c1b1a;
   cursor: zoom-in;
 }
 .recommendation-card-button img {
@@ -705,7 +705,7 @@ img { max-width: 100%; }
   justify-content: center;
   gap: 12px;
   margin: 15px 0 0;
-  color: #141614;
+  color: var(--ivory);
   font-size: clamp(17px, 1.7vw, 25px);
   font-weight: 400;
   line-height: 1.3;
