@@ -517,7 +517,7 @@ img { max-width: 100%; }
 .recommendations-intro { max-width: 760px; margin-bottom: clamp(42px, 6vw, 76px); }
 .recommendations-intro h1 { margin: 0; font-size: clamp(44px, 7vw, 88px); font-weight: 300; letter-spacing: -.06em; line-height: .98; }
 .recommendations-intro > p:last-child { max-width: 620px; margin: 24px 0 0; color: var(--silver); font-size: 14px; font-weight: 300; line-height: 1.85; }
-.recommendation-pages { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: clamp(24px, 4vw, 56px); }
+.recommendation-pages { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: start; gap: clamp(20px, 2.8vw, 48px); }
 .recommendation-sheet { position: relative; display: flex; flex-direction: column; width: 100%; aspect-ratio: 210 / 297; overflow: hidden; padding: clamp(24px, 4vw, 58px); background: #f5f2ec; color: #242421; box-shadow: 0 24px 70px rgba(0,0,0,.28); }
 .recommendation-sheet::before { position: absolute; inset: 12px; border: 1px solid rgba(135,112,89,.24); content: ""; pointer-events: none; }
 .recommendation-letter-head { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-bottom: 22px; border-bottom: 1px solid rgba(36,36,33,.18); }
@@ -536,6 +536,7 @@ img { max-width: 100%; }
 .recommendation-signoff p { margin: 0; color: #77736c; font-size: 9px; line-height: 1.6; }
 .recommendation-signoff strong { display: block; margin-top: 4px; color: #34332f; font-size: 10px; font-weight: 600; }
 .recommendations-empty { color: var(--silver); }
+@media (max-width: 1280px) { .recommendation-pages { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 760px) { .recommendation-pages { grid-template-columns: 1fr; } .recommendation-sheet { max-width: 540px; margin-inline: auto; padding: 34px; } .recommendation-letter-body { font-size: 15px; } }
 @media print {
   @page { size: A4 portrait; margin: 0; }
