@@ -73,11 +73,13 @@
     "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Sea Breeze Park Cafe",
     "scope": [
-      "Pərdə və jalüzlər"
+      "Pərdə və jalüzlər",
+      "Pərdə və jalüz"
     ],
     "projectYear": "2023",
     "client": "Seabreeze Construction",
-    "description": "Layihə çərçivəsində pərdə və jalüzlər icra edilib. İcra dövrü: 2023. Sifarişçi: Seabreeze Construction."
+    "description": "Layihə çərçivəsində pərdə və jalüzlər; Pərdə və jalüz icra edilib. İcra dövrü: 2023. Sifarişçi: Seabreeze Construction.",
+    "secondaryImage": "assets/projects/web/parkcafe-interior.webp"
   },
   {
     "id": 41,
@@ -160,22 +162,6 @@
     "description": "Layihə çərçivəsində jalüzlər və motorlu jalüz sistemləri icra edilib. İcra dövrü: 2022, 2024. Sifarişçi: Günaydın Restoran."
   },
   {
-    "id": 14,
-    "title": "Motorlu jalüz sistemləri və mebel parçaları",
-    "category": "Ticarət",
-    "location": "Bakı",
-    "image": "assets/projects/web/portwalk-lobby.webp",
-    "source": "https://www.nwconstruction.com/en/projects/completed-projects/port-baku-garden-walk/",
-    "sourceLabel": "North West Construction · Port Baku Walk",
-    "alt": "Motorlu jalüz sistemləri və mebel parçaları",
-    "scope": [
-      "Motorlu jalüz sistemləri və mebel parçaları"
-    ],
-    "projectYear": "2024",
-    "client": "NORTH WEST",
-    "description": "Motorlu jalüz sistemləri və mebel parçaları. Görülən iş: Motorlu jalüz sistemləri və mebel parçaları. İl: 2024. Sifarişçi: NORTH WEST."
-  },
-  {
     "id": 11,
     "title": "Xankəndi Palace Hotel",
     "category": "Otelçilik",
@@ -256,22 +242,6 @@
     "description": "Layihə çərçivəsində pərdə və jalüzlər icra edilib. İcra dövrü: 2023. Sifarişçi: AZMAN Holdinq."
   },
   {
-    "id": 20,
-    "title": "Pərdə və jalüz | Park Inn Hotel",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/parkinn-interior.webp",
-    "source": "https://www.tripadvisor.com/Hotel_Review-g293934-d589344-Reviews-Radisson_Hotel_Baku-Baku_Absheron_Region.html",
-    "sourceLabel": "Tripadvisor · Park Inn by Radisson Baku",
-    "alt": "Pərdə və jalüz | Park Inn Hotel",
-    "scope": [
-      "Pərdə və jalüz"
-    ],
-    "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "Pərdə və jalüz | Park Inn Hotel. Görülən iş: Pərdə və jalüz. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
-  },
-  {
     "id": 19,
     "title": "Park Inn Hotel",
     "category": "Otelçilik",
@@ -282,11 +252,13 @@
     "alt": "Park Inn Hotel",
     "scope": [
       "Otel otaqları üçün blackout və yanğına davamlı pərdələrin, tüllərin tikilişi və montajı",
-      "restoran üçün jalüzlər"
+      "restoran üçün jalüzlər",
+      "Pərdə və jalüz"
     ],
     "projectYear": "2019",
     "client": "İSR Holdinq",
-    "description": "Layihə çərçivəsində otel otaqları üçün blackout və yanğına davamlı pərdələrin, tüllərin tikilişi və montajı; restoran üçün jalüzlər icra edilib. İcra dövrü: 2019. Sifarişçi: İSR Holdinq."
+    "description": "Layihə çərçivəsində otel otaqları üçün blackout və yanğına davamlı pərdələrin, tüllərin tikilişi və montajı; restoran üçün jalüzlər; Pərdə və jalüz icra edilib. İcra dövrü: 2019. Sifarişçi: İSR Holdinq.",
+    "secondaryImage": "assets/projects/web/parkinn-interior.webp"
   },
   {
     "id": 48,
@@ -305,22 +277,6 @@
     "description": "Layihə çərçivəsində mərkəzi ofisin jalüzləri icra edilib. İcra dövrü: 2024. Sifarişçi: Pasha Development."
   },
   {
-    "id": 22,
-    "title": "Pərdə və jalüz | The Ritz-Carlton",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/ritz-interior.webp",
-    "source": "https://www.ritzcarlton.com/ru/hotels/gydrz-the-ritz-carlton-baku/overview/",
-    "sourceLabel": "The Ritz-Carlton · Baku",
-    "alt": "Pərdə və jalüz | The Ritz-Carlton",
-    "scope": [
-      "Pərdə və jalüz"
-    ],
-    "projectYear": "2024",
-    "client": "WORKPLACE INTERIORS",
-    "description": "Pərdə və jalüz | The Ritz-Carlton. Görülən iş: Pərdə və jalüz. İl: 2024. Sifarişçi: WORKPLACE INTERIORS."
-  },
-  {
     "id": 21,
     "title": "The Ritz-Carlton Hotel",
     "category": "Otelçilik",
@@ -330,11 +286,13 @@
     "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "The Ritz-Carlton Hotel",
     "scope": [
-      "VIP rezidensiyaların pərdə və karniz işləri"
+      "VIP rezidensiyaların pərdə və karniz işləri",
+      "Pərdə və jalüz"
     ],
     "projectYear": "2024",
     "client": "Workplace Interiors",
-    "description": "Layihə çərçivəsində vIP rezidensiyaların pərdə və karniz işləri icra edilib. İcra dövrü: 2024. Sifarişçi: Workplace Interiors."
+    "description": "Layihə çərçivəsində vIP rezidensiyaların pərdə və karniz işləri; Pərdə və jalüz icra edilib. İcra dövrü: 2024. Sifarişçi: Workplace Interiors.",
+    "secondaryImage": "assets/projects/web/ritz-interior.webp"
   },
   {
     "id": 51,
@@ -353,22 +311,6 @@
     "description": "Layihə çərçivəsində jalüzlər icra edilib. İcra dövrü: 2025. Sifarişçi: ArchiCO."
   },
   {
-    "id": 24,
-    "title": "Yanğına davamlı pərdələr və mebel üçün dərilər",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/hilton-interior.webp",
-    "source": "https://www.hilton.com/en/hotels/bakazgi-hilton-garden-inn-baku/",
-    "sourceLabel": "Hilton · Hilton Garden Inn Baku",
-    "alt": "Yanğına davamlı pərdələr və mebel üçün dərilər",
-    "scope": [
-      "Yanğına davamlı pərdələr"
-    ],
-    "projectYear": "2024",
-    "client": "PMD PROJECTS",
-    "description": "Yanğına davamlı pərdələr və mebel üçün dərilər. Görülən iş: Yanğına davamlı pərdələr. İl: 2024. Sifarişçi: PMD PROJECTS."
-  },
-  {
     "id": 23,
     "title": "Hilton Garden Inn Baku Hotel",
     "category": "Otelçilik",
@@ -378,11 +320,13 @@
     "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Hilton Garden Inn Baku Hotel",
     "scope": [
-      "Tüllər, döşəməlik mebel parçaları, yataq başlıqları və kreslolar üçün yanmaz dərilər"
+      "Tüllər, döşəməlik mebel parçaları, yataq başlıqları və kreslolar üçün yanmaz dərilər",
+      "Yanğına davamlı pərdələr"
     ],
     "projectYear": "2024",
     "client": "PMD Projects",
-    "description": "Layihə çərçivəsində tüllər, döşəməlik mebel parçaları, yataq başlıqları və kreslolar üçün yanmaz dərilər icra edilib. İcra dövrü: 2024. Sifarişçi: PMD Projects."
+    "description": "Layihə çərçivəsində tüllər, döşəməlik mebel parçaları, yataq başlıqları və kreslolar üçün yanmaz dərilər; Yanğına davamlı pərdələr icra edilib. İcra dövrü: 2024. Sifarişçi: PMD Projects.",
+    "secondaryImage": "assets/projects/web/hilton-interior.webp"
   },
   {
     "id": 56,
@@ -403,22 +347,6 @@
     "catalogBrand": "BARK PROJECTS"
   },
   {
-    "id": 26,
-    "title": "Pərdə və jalüz | Marriott Boulevard",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/marriott-interior.webp",
-    "source": "https://www.marriott.com/en-us/hotels/gydmb-baku-marriott-hotel-boulevard/overview/",
-    "sourceLabel": "Marriott · Baku Marriott Hotel Boulevard",
-    "alt": "Pərdə və jalüz | Marriott Boulevard",
-    "scope": [
-      "Pərdə və jalüz"
-    ],
-    "projectYear": "2023, 2024, 2025, 2026",
-    "client": "BAKU BOULEVARD HOTEL COMPANY",
-    "description": "Pərdə və jalüz | Marriott Boulevard. Görülən iş: Pərdə və jalüz. İl: 2023, 2024, 2025, 2026. Sifarişçi: BAKU BOULEVARD HOTEL COMPANY."
-  },
-  {
     "id": 25,
     "title": "Marriott Hotel Boulevard",
     "category": "Otelçilik",
@@ -429,11 +357,13 @@
     "alt": "Marriott Hotel Boulevard",
     "scope": [
       "Konfrans zallarının dekorativ pərdələri",
-      "spa mərkəzləri və restoranların pərdə və tülləri"
+      "spa mərkəzləri və restoranların pərdə və tülləri",
+      "Pərdə və jalüz"
     ],
     "projectYear": "2023–2026",
     "client": "Baku Boulevard Hotel Company",
-    "description": "Layihə çərçivəsində konfrans zallarının dekorativ pərdələri; spa mərkəzləri və restoranların pərdə və tülləri icra edilib. İcra dövrü: 2023–2026. Sifarişçi: Baku Boulevard Hotel Company."
+    "description": "Layihə çərçivəsində konfrans zallarının dekorativ pərdələri; spa mərkəzləri və restoranların pərdə və tülləri; Pərdə və jalüz icra edilib. İcra dövrü: 2023–2026. Sifarişçi: Baku Boulevard Hotel Company.",
+    "secondaryImage": "assets/projects/web/marriott-interior.webp"
   },
   {
     "id": 57,
@@ -470,22 +400,6 @@
     "description": "Layihə çərçivəsində pərdə və jalüzlər icra edilib. İcra dövrü: 2023, 2024, 2025, 2026. Sifarişçi: Dövlət Təhlükəsizliyi Xidməti."
   },
   {
-    "id": 28,
-    "title": "Pərdə və jalüz | Bakı Atletlər Kəndi",
-    "category": "Yaşayış",
-    "location": "Bakı",
-    "image": "assets/projects/web/athletes-interior.webp",
-    "source": "https://modern.az/az/iqtisadiyyat/134800/atletler-kendinde-ki-binalar-satisa-cixarilir-resmi/",
-    "sourceLabel": "Modern.az · Bakı Atletlər Kəndi",
-    "alt": "Pərdə və jalüz | Bakı Atletlər Kəndi",
-    "scope": [
-      "Pərdə və Jalüz"
-    ],
-    "projectYear": "2024",
-    "client": "PMD GROUP",
-    "description": "Pərdə və jalüz | Bakı Atletlər Kəndi. Görülən iş: Pərdə və Jalüz. İl: 2024. Sifarişçi: PMD GROUP."
-  },
-  {
     "id": 33,
     "title": "Courtyard by Marriott Hotel",
     "category": "Otelçilik",
@@ -496,11 +410,13 @@
     "alt": "Courtyard by Marriott Hotel",
     "scope": [
       "490 otaq üçün yanğına davamlı dekorativ pərdələr və tüllər",
-      "karnizlərin montajı"
+      "karnizlərin montajı",
+      "Pərdə və jalüz"
     ],
     "projectYear": "2020",
     "client": "Pasha Constructions MMC",
-    "description": "Layihə çərçivəsində 490 otaq üçün yanğına davamlı dekorativ pərdələr və tüllər; karnizlərin montajı icra edilib. İcra dövrü: 2020. Sifarişçi: Pasha Constructions MMC."
+    "description": "Layihə çərçivəsində 490 otaq üçün yanğına davamlı dekorativ pərdələr və tüllər; karnizlərin montajı; Pərdə və jalüz icra edilib. İcra dövrü: 2020. Sifarişçi: Pasha Constructions MMC.",
+    "secondaryImage": "assets/projects/web/courtyard-interior.webp"
   },
   {
     "id": 59,
@@ -537,22 +453,6 @@
     "description": "Layihə çərçivəsində inzibati binanın otaqları üçün gün qoruyucuları və tüllərin tikilib montajı icra edilib. İcra dövrü: Qeyd olunmayıb. Sifarişçi: Prezident Aparatı."
   },
   {
-    "id": 30,
-    "title": "Pərdə və jalüz | Port Baku Tower 2",
-    "category": "Yaşayış",
-    "location": "Bakı",
-    "image": "assets/projects/web/porttower-interior.webp",
-    "source": "https://www.asafer.com.tr/betonarme/port-baku-tower.html",
-    "sourceLabel": "ASAfer · Port Baku Tower II",
-    "alt": "Pərdə və jalüz | Port Baku Tower 2",
-    "scope": [
-      "Pərdə, jalüz və motor sistemləri"
-    ],
-    "projectYear": "2024, 2025, 2026",
-    "client": "PMD PROJECTS",
-    "description": "Pərdə və jalüz | Port Baku Tower 2. Görülən iş: Pərdə, jalüz və motor sistemləri. İl: 2024, 2025, 2026. Sifarişçi: PMD PROJECTS."
-  },
-  {
     "id": 35,
     "title": "Sapphire Bayil Hotel",
     "category": "Otelçilik",
@@ -563,11 +463,13 @@
     "alt": "Sapphire Bayil Hotel",
     "scope": [
       "Otelin pərdə və tülləri",
-      "otaqlar üçün yataq tekstili"
+      "otaqlar üçün yataq tekstili",
+      "Pərdə və Hotel tekstili"
     ],
     "projectYear": "2018",
     "client": "AZMAN Holdinq",
-    "description": "Layihə çərçivəsində otelin pərdə və tülləri; otaqlar üçün yataq tekstili icra edilib. İcra dövrü: 2018. Sifarişçi: AZMAN Holdinq."
+    "description": "Layihə çərçivəsində otelin pərdə və tülləri; otaqlar üçün yataq tekstili; Pərdə və Hotel tekstili icra edilib. İcra dövrü: 2018. Sifarişçi: AZMAN Holdinq.",
+    "secondaryImage": "assets/projects/web/sapphire-interior.webp"
   },
   {
     "id": 60,
@@ -623,22 +525,6 @@
     "sourceLabel": "Property Tower Baku · foto"
   },
   {
-    "id": 32,
-    "title": "Pərdə və jalüz | Crescent Mall",
-    "category": "Ticarət",
-    "location": "Bakı",
-    "image": "assets/projects/web/crescent-interior.webp",
-    "source": "https://oxu.az/digar/dunya-brendllerini-bir-araya-toplayan-mekan-crescent-mall",
-    "sourceLabel": "Oxu.az · Crescent Mall",
-    "alt": "Pərdə və jalüz | Crescent Mall",
-    "scope": [
-      "Pərdə və jalüz"
-    ],
-    "projectYear": "2025",
-    "client": "AYPARA DEVELOPMENT",
-    "description": "Pərdə və jalüz | Crescent Mall. Görülən iş: Pərdə və jalüz. İl: 2025. Sifarişçi: AYPARA DEVELOPMENT."
-  },
-  {
     "id": 37,
     "title": "Sea Breeze Grand Hotel",
     "category": "Otelçilik",
@@ -648,11 +534,13 @@
     "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Sea Breeze Grand Hotel",
     "scope": [
-      "Bütün otaqların pərdələri"
+      "Bütün otaqların pərdələri",
+      "Pərdə və jalüz"
     ],
     "projectYear": "2023",
     "client": "Crocus Construction MMC",
-    "description": "Layihə çərçivəsində bütün otaqların pərdələri icra edilib. İcra dövrü: 2023. Sifarişçi: Crocus Construction MMC."
+    "description": "Layihə çərçivəsində bütün otaqların pərdələri; Pərdə və jalüz icra edilib. İcra dövrü: 2023. Sifarişçi: Crocus Construction MMC.",
+    "secondaryImage": "assets/projects/web/seabreeze-interior.webp"
   },
   {
     "id": 61,
@@ -684,9 +572,11 @@
     "projectYear": "2025",
     "client": "NORTH WEST",
     "scope": [
-      "Mərkəzi ofisin jalüzləri"
+      "Mərkəzi ofisin jalüzləri",
+      "Motorlu jalüz sistemləri və mebel parçaları"
     ],
-    "description": "Layihə çərçivəsində mərkəzi ofisin jalüzləri icra edilib. İcra dövrü: 2025. Sifarişçi: NORTH WEST."
+    "description": "Layihə çərçivəsində mərkəzi ofisin jalüzləri; Motorlu jalüz sistemləri və mebel parçaları icra edilib. İcra dövrü: 2025. Sifarişçi: NORTH WEST.",
+    "secondaryImage": "assets/projects/web/portwalk-lobby.webp"
   },
   {
     "id": 7,
@@ -722,22 +612,6 @@
     "image": "https://axar.az/media/2021/05/29/iqtisadiyyat-nazirlik.jpg",
     "source": "https://axar.az/news/kult/656656.html",
     "sourceLabel": "İqtisadiyyat Nazirliyinin yeni binası · foto"
-  },
-  {
-    "id": 34,
-    "title": "Pərdə və jalüz | Courtyard by Marriott Hotel",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/courtyard-interior.webp",
-    "source": "https://idea.az/ru/company/project/courtyard-by-marriott-project/",
-    "sourceLabel": "IDEA · Courtyard by Marriott",
-    "alt": "Pərdə və jalüz | Courtyard by Marriott Hotel",
-    "scope": [
-      "Pərdə və jalüz"
-    ],
-    "projectYear": "2020",
-    "client": "PASHA CONSTRUCTİONS MMC",
-    "description": "Pərdə və jalüz | Courtyard by Marriott Hotel. Görülən iş: Pərdə və jalüz. İl: 2020. Sifarişçi: PASHA CONSTRUCTİONS MMC."
   },
   {
     "id": 69,
@@ -840,22 +714,6 @@
     "description": "Layihə çərçivəsində rəhbər şəxslərin otaqları üçün pərdə və jalüzlər icra edilib. İcra dövrü: 2024. Sifarişçi: Baş Prokurorluq."
   },
   {
-    "id": 36,
-    "title": "Pərdə və otel tekstili | Sapphire Bayil",
-    "category": "Otelçilik",
-    "location": "Bakı",
-    "image": "assets/projects/web/sapphire-interior.webp",
-    "source": "https://www.tripadvisor.com/Hotel_Review-g293934-d17768748-Reviews-Sapphire_Bayil_Hotel-Baku_Absheron_Region.html",
-    "sourceLabel": "Tripadvisor · Sapphire Bayil Hotel",
-    "alt": "Pərdə və otel tekstili | Sapphire Bayil",
-    "scope": [
-      "Pərdə və Hotel tekstili"
-    ],
-    "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "Pərdə və otel tekstili | Sapphire Bayil. Görülən iş: Pərdə və Hotel tekstili. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
-  },
-  {
     "id": 70,
     "title": "Ravy Property Ofisi",
     "category": "Ofis və maliyyə",
@@ -917,11 +775,13 @@
     "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Crescent Mall",
     "scope": [
-      "Pərdə və jalüzlər"
+      "Pərdə və jalüzlər",
+      "Pərdə və jalüz"
     ],
     "projectYear": "2025",
     "client": "Aypara Development",
-    "description": "Layihə çərçivəsində pərdə və jalüzlər icra edilib. İcra dövrü: 2025. Sifarişçi: Aypara Development."
+    "description": "Layihə çərçivəsində pərdə və jalüzlər; Pərdə və jalüz icra edilib. İcra dövrü: 2025. Sifarişçi: Aypara Development.",
+    "secondaryImage": "assets/projects/web/crescent-interior.webp"
   },
   {
     "id": 17,
@@ -970,22 +830,6 @@
     "projectYear": "2022",
     "client": "Su İdman Sarayı",
     "description": "Layihə çərçivəsində motorlu jalüzlər icra edilib. İcra dövrü: 2022. Sifarişçi: Su İdman Sarayı."
-  },
-  {
-    "id": 38,
-    "title": "Pərdə və jalüz | Sea Breeze Grand Hotel",
-    "category": "Otelçilik",
-    "location": "Nardaran",
-    "image": "assets/projects/web/seabreeze-interior.webp",
-    "source": "https://commons.wikimedia.org/wiki/File:Sea_Breeze_resort.jpg",
-    "sourceLabel": "Wikimedia Commons · Sea Breeze resort",
-    "alt": "Pərdə və jalüz | Sea Breeze Grand Hotel",
-    "scope": [
-      "Pərdə və jalüz"
-    ],
-    "projectYear": "2023",
-    "client": "Qeyd olunmayıb",
-    "description": "Pərdə və jalüz | Sea Breeze Grand Hotel. Görülən iş: Pərdə və jalüz. İl: 2023. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 71,
@@ -1109,11 +953,13 @@
     "alt": "Bakı Atletlər Kəndi",
     "scope": [
       "400 mənzilin pərdə və tülləri",
-      "işlər 50 iş günü müddətində tamamlanıb"
+      "işlər 50 iş günü müddətində tamamlanıb",
+      "Pərdə və Jalüz"
     ],
     "projectYear": "2024",
     "client": "PMD Group",
-    "description": "Layihə çərçivəsində 400 mənzilin pərdə və tülləri; işlər 50 iş günü müddətində tamamlanıb icra edilib. İcra dövrü: 2024. Sifarişçi: PMD Group."
+    "description": "Layihə çərçivəsində 400 mənzilin pərdə və tülləri; işlər 50 iş günü müddətində tamamlanıb; Pərdə və Jalüz icra edilib. İcra dövrü: 2024. Sifarişçi: PMD Group.",
+    "secondaryImage": "assets/projects/web/athletes-interior.webp"
   },
   {
     "id": 45,
@@ -1156,22 +1002,6 @@
     "source": "https://www.shahdag.az/en/sports-activities",
     "sourceLabel": "Shahdag.az · Ski club and resort",
     "alt": "Şahdağ dağ-xizək kompleksi"
-  },
-  {
-    "id": 40,
-    "title": "Pərdə və jalüz | Sea Breeze Park Cafe",
-    "category": "Qida və içki",
-    "location": "Nardaran",
-    "image": "assets/projects/web/parkcafe-interior.webp",
-    "source": "https://seabreeze.az/en/infrastructure/restaurants/park-cafe",
-    "sourceLabel": "Sea Breeze · Park Cafe",
-    "alt": "Pərdə və jalüz | Sea Breeze Park Cafe",
-    "scope": [
-      "Pərdə və jalüz"
-    ],
-    "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "Pərdə və jalüz | Sea Breeze Park Cafe. Görülən iş: Pərdə və jalüz. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
   },
   {
     "id": 72,
@@ -1311,11 +1141,13 @@
     "alt": "Port Baku Tower 2",
     "scope": [
       "Kapital Bank mərkəzi ofisi, Mackenzie Global ofisi və Paşa Holdinq rəhbər heyətinin ofisləri üçün motorlu jalüz və pərdələr",
-      "28 mərtəbənin pərdə və jalüzləri"
+      "28 mərtəbənin pərdə və jalüzləri",
+      "Pərdə, jalüz və motor sistemləri"
     ],
     "projectYear": "2024, 2025, 2026",
     "client": "PMD Projects",
-    "description": "Layihə çərçivəsində kapital Bank mərkəzi ofisi, Mackenzie Global ofisi və Paşa Holdinq rəhbər heyətinin ofisləri üçün motorlu jalüz və pərdələr; 28 mərtəbənin pərdə və jalüzləri icra edilib. İcra dövrü: 2024, 2025, 2026. Sifarişçi: PMD Projects."
+    "description": "Layihə çərçivəsində kapital Bank mərkəzi ofisi, Mackenzie Global ofisi və Paşa Holdinq rəhbər heyətinin ofisləri üçün motorlu jalüz və pərdələr; 28 mərtəbənin pərdə və jalüzləri; Pərdə, jalüz və motor sistemləri icra edilib. İcra dövrü: 2024, 2025, 2026. Sifarişçi: PMD Projects.",
+    "secondaryImage": "assets/projects/web/porttower-interior.webp"
   },
   {
     "id": 81,
