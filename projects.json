@@ -636,7 +636,7 @@
     "title": "Binalarda divar üzlənmə işləri — ABB",
     "category": "Dövlət və ictimai",
     "location": "Azərbaycan",
-    "alt": "ABB binalarında divar üzlənmə işləri",
+    "alt": "Ofis interyeri üçün nümunə foto; ABB layihəsinin konkret binası göstərilmir.",
     "description": "“Azərbaycan Beynəlxalq Bankı” ASC üçün MXS və inzibati binalarda divar üzlənmə işləri 11.09.2024 tarixli ABB-2024/258 nömrəli müqavilə çərçivəsində icra olunub. ABB məktubu yüksək peşəkarlıq, keyfiyyətli xidmət və operativliyi təsdiqləyir. Məktub konkret bina və ünvanları açıqlamır.",
     "scope": [
       "Divar üzlənmə işləri",
@@ -645,7 +645,9 @@
     "recommendation": {
       "source": "“Azərbaycan Beynəlxalq Bankı” ASC · müqavilə ABB-2024/258",
       "summary": "ABB təsdiq edir ki, AZ ALI MMC ilə MXS və inzibati binalarda divar üzlənmə işlərinin satın alınması üzrə 11.09.2024 tarixli ABB-2024/258 müqaviləsi imzalanıb. ABB göstərilən xidmət səviyyəsindən razı qalıb və bu sahədə əməkdaşlığı tövsiyə edib. Tövsiyə məktubunun imzalanma tarixi 12.01.2026-dır."
-    }
+    },
+    "image": "assets/projects/web/portwalk-lobby.webp",
+    "sourceLabel": "Nümunə interyer fotosu"
   },
   {
     "id": 49,
@@ -854,7 +856,7 @@
     "title": "BMS PRO ofis mebelləri",
     "category": "Ofis və maliyyə",
     "location": "Bakı",
-    "alt": "BMS PRO ofis mebeli təchizatı",
+    "alt": "Ofis mebeli təchizatı üçün nümunə interyer fotosu.",
     "description": "BMS PRO MMC öz ofis mebellərinin AZ ALI MMC tərəfindən qısa müddətdə və lazımi səviyyədə təchiz edildiyini bildirir. Məktubda işə peşəkar münasibət, keyfiyyət və məsuliyyət qeyd olunur. BMS PRO gələcək layihələri də AZ ALI MMC-yə həvalə etməyi nəzərdə tutduğunu yazır.",
     "scope": [
       "Ofis mebellərinin təchizatı",
@@ -863,7 +865,9 @@
     "recommendation": {
       "source": "BMS PRO MMC · Vasif Əzimzadə, direktor",
       "summary": "BMS PRO məktubuna əsasən şirkətin ofis mebelləri AZ ALI MMC tərəfindən qısa müddətdə təchiz edilib. Peşəkarlıq, keyfiyyət və məsuliyyətə görə təşəkkür bildirilib; BMS PRO əməkdaşlıqdan razı olduğunu və gələcək layihələri də AZ ALI MMC-yə həvalə etməyi planlaşdırdığını qeyd edib."
-    }
+    },
+    "image": "assets/projects/catalog/project-71.webp",
+    "sourceLabel": "Nümunə interyer fotosu"
   },
   {
     "id": 54,
@@ -1101,7 +1105,7 @@
     "title": "Təhsil Nazirliyi üçün sifarişlər",
     "category": "Təhsil",
     "location": "Azərbaycan",
-    "alt": "Təhsil Nazirliyi üçün sifarişlər",
+    "alt": "Məktəb sinfi üçün nümunə foto; Təhsil Nazirliyinin konkret sifariş obyekti deyil.",
     "description": "“Mühəndislik Tikinti Təchizat” MMC AZ ALI MMC ilə mebel sektorunda əməkdaşlıq etdiyini və Təhsil Nazirliyi üçün verilmiş sifarişlər üzrə iş birliyindən məmnun qaldığını bildirir. Məktubda AZ ALI komandasının qoyulan tələbləri yerinə yetirməkdə peşəkarlığı və çalışma əzmi qeyd edilir; sifarişlərin məhsul növü və ünvanı məktubda açıqlanmır.",
     "scope": [
       "Təhsil Nazirliyi üçün sifarişlərin icrası",
@@ -1110,7 +1114,10 @@
     "recommendation": {
       "source": "“Mühəndislik Tikinti Təchizat” MMC",
       "summary": "Məktubda Təhsil Nazirliyi üçün verilmiş sifarişlər üzrə əməkdaşlıqdan məmnunluq bildirilir. Şirkət AZ ALI MMC-nin tələblərin yerinə yetirilməsində göstərdiyi peşəkarlığı və komanda əzmini vurğulayır, AZ ALI MMC-ni digər şirkət və təşkilatlara tövsiyə edir. Sifarişlərin konkret layihə adı, ünvanı və məhsul siyahısı məktubda göstərilmir."
-    }
+    },
+    "image": "https://edu.gov.az/uploads/gallery/2019/12/1576060630/01-14.09.16-7.jpg",
+    "source": "https://edu.gov.az/az/news-and-updates/12932",
+    "sourceLabel": "Nümunə təhsil məkanı fotosu"
   },
   {
     "id": 74,
@@ -1299,14 +1306,15 @@
     "category": "Ofis və maliyyə",
     "location": "Bakı",
     "source": "https://navigator.az/en/amara-plaza/",
-    "sourceLabel": "Sarvagelli layihə siyahısı",
-    "alt": "Amara Plaza binası",
+    "sourceLabel": "Nümunə biznes mərkəzi fotosu",
+    "alt": "Biznes mərkəzi üçün nümunə foto; Amara Plaza binasının dəqiq fotosu deyil.",
     "scope": [
       "Bütün plazanın pərdələri və jalüzləri"
     ],
     "projectYear": "2020",
     "client": "Amara Plaza",
-    "description": "Layihə çərçivəsində Bütün plazanın pərdələri və jalüzləri üzrə işlər görülüb. İcra dövrü: 2020. Sifarişçi: Amara Plaza."
+    "description": "Layihə çərçivəsində Bütün plazanın pərdələri və jalüzləri üzrə işlər görülüb. İcra dövrü: 2020. Sifarişçi: Amara Plaza.",
+    "image": "assets/projects/web/portwalk.webp"
   },
   {
     "id": 91,
@@ -1377,42 +1385,46 @@
     "title": "ADEL Interiors",
     "category": "Ticarət",
     "location": "Bakı",
-    "alt": "Bakı interyer salonu",
+    "alt": "Pərdə və jalüz motorları üçün nümunə interyer fotosu; ADEL Interiors obyektinin dəqiq fotosu deyil.",
     "scope": [
       "Pərdə motorları"
     ],
     "projectYear": "2026",
     "client": "ADEL Interiors",
     "description": "Layihə çərçivəsində Pərdə motorları üzrə işlər görülüb. İcra dövrü: 2026. Sifarişçi: ADEL Interiors.",
-    "sourceLabel": "Sarvagelli layihə siyahısı"
+    "sourceLabel": "Nümunə interyer fotosu",
+    "image": "assets/projects/web/knightsbridge-interior.webp"
   },
   {
     "id": 97,
     "title": "GİG (Global İnşaat Group)",
     "category": "Otelçilik",
     "location": "Bakı",
-    "alt": "Fontana meydanındakı kafe ərazisi",
+    "alt": "Otel interyeri üçün nümunə foto; Fontana Grande obyektinin dəqiq fotosu deyil.",
     "scope": [
       "Troslu jalüzlər"
     ],
     "projectYear": "2026",
     "client": "Fontana Grande",
     "description": "Layihə çərçivəsində Troslu jalüzlər üzrə işlər görülüb. İcra dövrü: 2026. Sifarişçi: Fontana Grande.",
-    "sourceLabel": "Sarvagelli layihə siyahısı"
+    "sourceLabel": "Nümunə interyer fotosu",
+    "image": "assets/projects/web/hilton-interior.webp"
   },
   {
     "id": 98,
     "title": "BULVAR GYM",
     "category": "İdman və ictimai",
     "location": "Bakı",
-    "alt": "Boulevard ərazisində fitnes zalı",
+    "alt": "Boulevard Hotel fitnes zalının fotosu; BULVAR GYM layihəsinin dəqiq obyekti olduğu təsdiqlənməyib.",
     "scope": [
       "İdman zalında motorlu jalüzlərin təmiri"
     ],
     "projectYear": "2026",
     "client": "Bulvar GYM",
     "description": "Layihə çərçivəsində İdman zalında motorlu jalüzlərin təmiri üzrə işlər görülüb. İcra dövrü: 2026. Sifarişçi: Bulvar GYM.",
-    "sourceLabel": "Sarvagelli layihə siyahısı"
+    "sourceLabel": "Məkan üzrə istinad fotosu",
+    "image": "https://www.nargismagazine.az/site/assets/files/2510/15_bou_03_0374_1.jpg",
+    "source": "https://nargismagazine.az/ru/articles/article-boulevard-hotel-baku-2/"
   },
   {
     "id": 99,
@@ -1420,42 +1432,47 @@
     "category": "Ofis və maliyyə",
     "location": "Bakı",
     "source": "https://capitalconstruction.az/projects",
-    "sourceLabel": "Sarvagelli layihə siyahısı",
-    "alt": "Capital Construction layihələri",
+    "sourceLabel": "Nümunə ofis fotosu",
+    "alt": "Ofis lobbi məkanı üçün nümunə foto; Capital Construction ofisinin dəqiq fotosu deyil.",
     "scope": [
       "Pərdə və jalüzlər"
     ],
     "projectYear": "2025",
     "client": "Capital Constructions",
-    "description": "Layihə çərçivəsində Pərdə və jalüzlər üzrə işlər görülüb. İcra dövrü: 2025. Sifarişçi: Capital Constructions."
+    "description": "Layihə çərçivəsində Pərdə və jalüzlər üzrə işlər görülüb. İcra dövrü: 2025. Sifarişçi: Capital Constructions.",
+    "image": "assets/projects/catalog/project-72.webp"
   },
   {
     "id": 100,
     "title": "Lökbatan peşə liseyi",
     "category": "Təhsil",
     "location": "Lökbatan",
-    "alt": "Lökbatan məktəb binası",
+    "alt": "Məktəb sinfi üçün nümunə foto; Lökbatan peşə liseyinin dəqiq fotosu deyil.",
     "scope": [
       "Bütün lisey üzrə horizontal jalüzlər"
     ],
     "projectYear": "2024",
     "client": "Lökbatan peşə liseyi",
     "description": "Layihə çərçivəsində Bütün lisey üzrə horizontal jalüzlər üzrə işlər görülüb. İcra dövrü: 2024. Sifarişçi: Lökbatan peşə liseyi.",
-    "sourceLabel": "Sarvagelli layihə siyahısı"
+    "sourceLabel": "Nümunə təhsil məkanı fotosu",
+    "image": "https://en.apa.az/storage/news/2023/april/18/resize/643ecde134f24643ecde134f251681837537643ecde134f22643ecde134f23.jpg",
+    "source": "https://en.apa.az/official-news/president-ilham-aliyev-and-first-lady-mehriban-aliyeva-attended-inauguration-of-newly-built-school-in-neftchala-district-photo-updated-401201"
   },
   {
     "id": 101,
     "title": "Green Klinik",
     "category": "Səhiyyə",
     "location": "Bakı",
-    "alt": "Bakı klinikasının qəbul sahəsi",
+    "alt": "Bakı klinikasının qəbul sahəsi üçün nümunə foto; Green Klinik obyektinin dəqiq fotosu deyil.",
     "scope": [
       "Bütün mərtəbələrdə və rəhbər otağında jalüzlər"
     ],
     "projectYear": "2025",
     "client": "Green Klinik",
     "description": "Layihə çərçivəsində Bütün mərtəbələrdə və rəhbər otağında jalüzlər üzrə işlər görülüb. İcra dövrü: 2025. Sifarişçi: Green Klinik.",
-    "sourceLabel": "Sarvagelli layihə siyahısı"
+    "sourceLabel": "Nümunə klinika fotosu",
+    "image": "https://img.bookimed.com/clinic_webp/6655b523ee639.webp",
+    "source": "https://us-uk.bookimed.com/clinic/biological-medicine-integrative-health-center/"
   },
   {
     "id": 102,
@@ -1478,14 +1495,15 @@
     "title": "Gizli Bahçe restoranı",
     "category": "Qida və içki",
     "location": "Bakı",
-    "alt": "Restoran interyeri",
+    "alt": "Bakı restoranı interyerindən nümunə foto; Gizli Bahçe restoranının dəqiq fotosu deyil.",
     "scope": [
       "Jalüzlər"
     ],
     "projectYear": "2025",
     "client": "Gizli Bahçe restoranı",
     "description": "Layihə çərçivəsində Jalüzlər üzrə işlər görülüb. İcra dövrü: 2025. Sifarişçi: Gizli Bahçe restoranı.",
-    "sourceLabel": "Sarvagelli layihə siyahısı"
+    "sourceLabel": "Nümunə restoran fotosu",
+    "image": "assets/projects/web/gunaydin.webp"
   },
   {
     "id": 104,
@@ -1556,7 +1574,7 @@
     "title": "Qax Rayon Yurd Otel Kompleksi",
     "category": "Otelçilik",
     "location": "Qax",
-    "alt": "Qax Rayon Yurd Otel Kompleksi",
+    "alt": "Qax Rayon Yurd Otel Kompleksinin rəsmi fotosu.",
     "scope": [
       "Otel tekstili",
       "Matraslar",
@@ -1564,7 +1582,9 @@
     ],
     "projectYear": "2018",
     "client": "Ulu Hospitality",
-    "sourceLabel": "Sarvagelli layihə siyahısı",
-    "description": "Layihə çərçivəsində Otel tekstili, Matraslar, Yataq dəstləri üzrə işlər görülüb. İcra dövrü: 2018. Sifarişçi: Ulu Hospitality."
+    "sourceLabel": "Yurd Hotel · rəsmi foto",
+    "description": "Layihə çərçivəsində Otel tekstili, Matraslar, Yataq dəstləri üzrə işlər görülüb. İcra dövrü: 2018. Sifarişçi: Ulu Hospitality.",
+    "image": "https://yurdhotel.az/img/ddb490a30a265f08.webp",
+    "source": "https://yurdhotel.az/"
   }
 ]
