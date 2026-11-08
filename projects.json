@@ -70,30 +70,14 @@
     "location": "Nardaran",
     "image": "assets/projects/web/parkcafe.webp",
     "source": "https://seabreeze.az/en/infrastructure/restaurants/park-cafe",
-    "sourceLabel": "Sea Breeze · Park Cafe interyeri",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Sea Breeze Park Cafe",
     "scope": [
-      "Pərdə və jalüz"
+      "Pərdə və jalüzlər"
     ],
-    "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "Sea Breeze Park Cafe. Görülən iş: Pərdə və jalüz. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
-  },
-  {
-    "id": 2,
-    "title": "Pərdə və jalüz | DTX – Mərkəzi bina",
-    "category": "Dövlət və ictimai",
-    "location": "Bakı",
-    "image": "assets/projects/web/dtx-interior.webp",
-    "source": "https://turkic.world/en/articles/politics/472264",
-    "sourceLabel": "Turkic World · DTX headquarters",
-    "alt": "Pərdə və jalüz | DTX – Mərkəzi bina",
-    "scope": [
-      "Pərdə, jalüz, motor sistemləri"
-    ],
-    "projectYear": "2023, 2024, 2025, 2026",
-    "client": "DTX",
-    "description": "Pərdə və jalüz | DTX – Mərkəzi bina. Görülən iş: Pərdə, jalüz, motor sistemləri. İl: 2023, 2024, 2025, 2026. Sifarişçi: DTX."
+    "projectYear": "2023",
+    "client": "Seabreeze Construction",
+    "description": "Sea Breeze Park Cafe layihəsi çərçivəsində pərdə və jalüzlər icra olunub. İşlər 2023-ci ildə Seabreeze Construction sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 41,
@@ -102,14 +86,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/mangal.webp",
     "source": "https://songullini.com/project/mangal-steakhouse-baku-azerbaijan/",
-    "sourceLabel": "Songullini · Mangal Steakhouse",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Mangal Steak House",
     "scope": [
-      "Pərdə jalüz motorlu sistemlər"
+      "Pərdə, jalüz və motorlu sistemlər"
     ],
-    "projectYear": "2021-2026",
+    "projectYear": "2021–2026",
     "client": "AZMAN Holdinq",
-    "description": "Mangal Steak House. Görülən iş: Pərdə jalüz motorlu sistemlər. İl: 2021-2026. Sifarişçi: AZMAN Holdinq."
+    "description": "Mangal Steak House layihəsi çərçivəsində pərdə, jalüz və motorlu sistemlər icra olunub. İşlər 2021–2026-ci ildə AZMAN Holdinq sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 3,
@@ -118,10 +102,14 @@
     "location": "Bilgəh",
     "image": "assets/projects/web/bilgah.webp",
     "source": "https://dtx.gov.az/az/news/1764.html",
-    "sourceLabel": "DTX · Bilgəh Mərkəzi qalereyası",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi",
-    "scope": [],
-    "description": "DTX-in Bilgəh İstirahət Mərkəzi üzrə pərdə və jalüz işləri. Layihə yalnız DTX-nin Bilgəh İstirahət Mərkəzi adı altında təqdim olunur."
+    "scope": [
+      "Pərdə, jalüz və motor sistemləri"
+    ],
+    "description": "Dövlət Təhlükəsizliyi Xidmətinin Bilgəh İstirahət Mərkəzi layihəsi çərçivəsində pərdə, jalüz və motor sistemləri icra olunub. İşlər 2026-ci ildə Dövlət Təhlükəsizliyi Xidməti sifarişçisi üçün həyata keçirilib.",
+    "projectYear": "2026",
+    "client": "Dövlət Təhlükəsizliyi Xidməti"
   },
   {
     "id": 42,
@@ -130,14 +118,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/lvov.webp",
     "source": "https://lvivchocolatebaku.choiceqr.com/",
-    "sourceLabel": "Lviv Şokolad Evi · Baku",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Lvov Şokolad Evi",
     "scope": [
-      "Pərdə və karniz"
+      "Pərdə və karnizlər"
     ],
     "projectYear": "2022",
-    "client": "LVOV ŞOKOLAD EVİ",
-    "description": "Lvov Şokolad Evi. Görülən iş: Pərdə və karniz. İl: 2022. Sifarişçi: LVOV ŞOKOLAD EVİ."
+    "client": "LVOV Şokolad Evi",
+    "description": "Lvov Şokolad Evi layihəsi çərçivəsində pərdə və karnizlər icra olunub. İşlər 2022-ci ildə LVOV Şokolad Evi sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 9,
@@ -146,14 +134,14 @@
     "location": "Laçın",
     "image": "assets/projects/web/lachin.webp",
     "source": "https://inn.az/az/properties/lachin-resort-spa-5710cc03-4fb0-48f9-b36b-afd4439984cf",
-    "sourceLabel": "INN.az · Laçın Resort & Spa",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Laçın Resort & Spa",
     "scope": [
-      "Pərdə"
+      "Pərdə və tüllərin tikilişi"
     ],
     "projectYear": "2023",
-    "client": "TVM INŞAAT",
-    "description": "Laçın Resort & Spa. Görülən iş: Pərdə. İl: 2023. Sifarişçi: TVM INŞAAT."
+    "client": "TVM İnşaat",
+    "description": "Laçın Resort & Spa layihəsi çərçivəsində pərdə və tüllərin tikilişi icra olunub. İşlər 2023-ci ildə TVM İnşaat sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 43,
@@ -162,14 +150,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/gunaydin.webp",
     "source": "https://gunaydin.clopos.menu/az/2/",
-    "sourceLabel": "Günaydın · Baku",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Günaydın Restoran",
     "scope": [
-      "Motorlu jalüz"
+      "Jalüzlər və motorlu jalüz sistemləri"
     ],
-    "projectYear": "2024",
-    "client": "GÜNAYDIN RESTORAN",
-    "description": "Günaydın Restoran. Görülən iş: Motorlu jalüz. İl: 2024. Sifarişçi: GÜNAYDIN RESTORAN."
+    "projectYear": "2022, 2024",
+    "client": "Günaydın Restoran",
+    "description": "Günaydın Restoran layihəsi çərçivəsində jalüzlər və motorlu jalüz sistemləri icra olunub. İşlər 2022, 2024-ci ildə Günaydın Restoran sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 14,
@@ -194,14 +182,14 @@
     "location": "Xankəndi",
     "image": "assets/projects/web/khankendi.webp",
     "source": "https://www.azernews.az/business/228431.html",
-    "sourceLabel": "Azernews · Xankəndi Palace Hotel",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Xankəndi Palace Hotel",
     "scope": [
-      "pərdə tikilişi"
+      "Pərdələrin və tüllərin tikilişi"
     ],
     "projectYear": "2023",
-    "client": "TVM INŞAAT",
-    "description": "Xankəndi Palace Hotel. Görülən iş: pərdə tikilişi. İl: 2023. Sifarişçi: TVM INŞAAT."
+    "client": "TVM İnşaat",
+    "description": "Xankəndi Palace Hotel layihəsi çərçivəsində pərdələrin və tüllərin tikilişi icra olunub. İşlər 2023-ci ildə TVM İnşaat sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 44,
@@ -210,8 +198,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/starbucks.webp",
     "source": "https://oxu.az/cemiyyet/bakida-starbucks-acildi-foto",
-    "sourceLabel": "Oxu.az · Starbucks Coffee",
-    "alt": "Starbucks Coffee"
+    "sourceLabel": "Sarvagelli layihə siyahısı",
+    "alt": "Starbucks Coffee",
+    "projectYear": "2020",
+    "client": "Starbucks Mərkəzi ofisi",
+    "scope": [
+      "Gənclik filialında motorlu jalüz sistemləri"
+    ],
+    "description": "Starbucks Coffee layihəsi çərçivəsində gənclik filialında motorlu jalüz sistemləri icra olunub. İşlər 2020-ci ildə Starbucks Mərkəzi ofisi sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 18,
@@ -236,8 +230,14 @@
     "location": "Şəki",
     "image": "assets/projects/web/marxal.webp",
     "source": "https://www.tripadvisor.com/Hotel_Review-g666445-d10521052-Reviews-Marxal_Resort_Spa-Sheki_Shaki_Zaqatala_Region.html",
-    "sourceLabel": "Tripadvisor · Marxal Resort & Spa",
-    "alt": "Marxal Hotel"
+    "sourceLabel": "Sarvagelli layihə siyahısı",
+    "alt": "Marxal Hotel",
+    "projectYear": "2019",
+    "client": "Prezident Aparatı İşlər İdarəsi",
+    "scope": [
+      "Prezident suitlərinin pərdələri"
+    ],
+    "description": "Marxal Hotel layihəsi çərçivəsində prezident suitlərinin pərdələri icra olunub. İşlər 2019-ci ildə Prezident Aparatı İşlər İdarəsi sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 46,
@@ -246,14 +246,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/manzara.webp",
     "source": "https://jfa.az/manzara.html",
-    "sourceLabel": "JFA · Mənzərə Restaurant",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Mənzərə Restoranı",
     "scope": [
-      "Pərdə və jalüz"
+      "Pərdə və jalüzlər"
     ],
     "projectYear": "2023",
-    "client": "AZMAN HOLDİNQ",
-    "description": "Mənzərə Restoranı. Görülən iş: Pərdə və jalüz. İl: 2023. Sifarişçi: AZMAN HOLDİNQ."
+    "client": "AZMAN Holdinq",
+    "description": "Mənzərə Restoranı layihəsi çərçivəsində pərdə və jalüzlər icra olunub. İşlər 2023-ci ildə AZMAN Holdinq sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 20,
@@ -278,14 +278,15 @@
     "location": "Bakı",
     "image": "assets/projects/web/parkinn.webp",
     "source": "https://www.tripadvisor.com/Hotel_Feature-g293934-d589344-zft1-Radisson_Hotel_Baku.html",
-    "sourceLabel": "Tripadvisor · Park Inn otaq interyeri",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Park Inn Hotel",
     "scope": [
-      "Pərdə və jalüz"
+      "Otel otaqları üçün blackout və yanğına davamlı pərdələrin, tüllərin tikilişi və montajı",
+      "restoran üçün jalüzlər"
     ],
-    "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "Park Inn Hotel. Görülən iş: Pərdə və jalüz. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "projectYear": "2019",
+    "client": "İSR Holdinq",
+    "description": "Park Inn Hotel layihəsi çərçivəsində otel otaqları üçün blackout və yanğına davamlı pərdələrin, tüllərin tikilişi və montajı; restoran üçün jalüzlər icra olunub. İşlər 2019-ci ildə İSR Holdinq sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 48,
@@ -294,14 +295,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/mcdonalds.webp",
     "source": "https://metbuat.az/news/1497892/mcdonald-s-in-kohne-nesimi-bazarinin-yerinde-yeni-restorani-.html",
-    "sourceLabel": "Metbuat.az · McDonald’s Baku",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "McDonald’s",
     "scope": [
-      "Qeyd olunmayıb"
+      "Mərkəzi ofisin jalüzləri"
     ],
-    "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "McDonald’s. Görülən iş: Qeyd olunmayıb. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "projectYear": "2024",
+    "client": "Pasha Development",
+    "description": "McDonald’s layihəsi çərçivəsində mərkəzi ofisin jalüzləri icra olunub. İşlər 2024-ci ildə Pasha Development sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 22,
@@ -326,14 +327,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/ritz.webp",
     "source": "https://www.ritzcarlton.com/en/hotels/gydrz-the-ritz-carlton-baku/rooms/",
-    "sourceLabel": "The Ritz-Carlton Baku · suite interyeri",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "The Ritz-Carlton Hotel",
     "scope": [
-      "Pərdə və jalüz"
+      "VIP rezidensiyaların pərdə və karniz işləri"
     ],
     "projectYear": "2024",
-    "client": "WORKPLACE INTERIORS",
-    "description": "The Ritz-Carlton Hotel. Görülən iş: Pərdə və jalüz. İl: 2024. Sifarişçi: WORKPLACE INTERIORS."
+    "client": "Workplace Interiors",
+    "description": "The Ritz-Carlton Hotel layihəsi çərçivəsində vIP rezidensiyaların pərdə və karniz işləri icra olunub. İşlər 2024-ci ildə Workplace Interiors sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 51,
@@ -342,14 +343,14 @@
     "location": "Şahdağ",
     "image": "assets/projects/web/shahrest.webp",
     "source": "https://shahdag.az/en/dining/scalini",
-    "sourceLabel": "Shahdag.az · Şahdağ restoranı",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Multifunksional restoran | Şahdağ",
     "scope": [
-      "jalüz"
+      "Jalüzlər"
     ],
     "projectYear": "2025",
-    "client": "ARCHİCO",
-    "description": "Multifunksional restoran | Şahdağ. Görülən iş: jalüz. İl: 2025. Sifarişçi: ARCHİCO."
+    "client": "ArchiCO",
+    "description": "Multifunksional restoran | Şahdağ layihəsi çərçivəsində jalüzlər icra olunub. İşlər 2025-ci ildə ArchiCO sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 24,
@@ -374,14 +375,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/hilton.webp",
     "source": "https://www.hilton.com/en/hotels/bakazgi-hilton-garden-inn-baku/",
-    "sourceLabel": "Hilton Garden Inn Baku · otaq interyeri",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Hilton Garden Inn Baku Hotel",
     "scope": [
-      "Yanğına davamlı pərdələr"
+      "Tüllər, döşəməlik mebel parçaları, yataq başlıqları və kreslolar üçün yanmaz dərilər"
     ],
     "projectYear": "2024",
-    "client": "PMD PROJECTS",
-    "description": "Hilton Garden Inn Baku Hotel. Görülən iş: Yanğına davamlı pərdələr. İl: 2024. Sifarişçi: PMD PROJECTS."
+    "client": "PMD Projects",
+    "description": "Hilton Garden Inn Baku Hotel layihəsi çərçivəsində tüllər, döşəməlik mebel parçaları, yataq başlıqları və kreslolar üçün yanmaz dərilər icra olunub. İşlər 2024-ci ildə PMD Projects sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 56,
@@ -424,14 +425,15 @@
     "location": "Bakı",
     "image": "assets/projects/web/marriott.webp",
     "source": "https://www.marriott.com/en-us/hotels/gydmb-baku-marriott-hotel-boulevard/rooms/",
-    "sourceLabel": "Baku Marriott Boulevard · otaq interyeri",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Marriott Hotel Boulevard",
     "scope": [
-      "Pərdə və jalüz"
+      "Konfrans zallarının dekorativ pərdələri",
+      "spa mərkəzləri və restoranların pərdə və tülləri"
     ],
-    "projectYear": "2023, 2024, 2025, 2026",
-    "client": "BAKU BOULEVARD HOTEL COMPANY",
-    "description": "Marriott Hotel Boulevard. Görülən iş: Pərdə və jalüz. İl: 2023, 2024, 2025, 2026. Sifarişçi: BAKU BOULEVARD HOTEL COMPANY."
+    "projectYear": "2023–2026",
+    "client": "Baku Boulevard Hotel Company",
+    "description": "Marriott Hotel Boulevard layihəsi çərçivəsində konfrans zallarının dekorativ pərdələri; spa mərkəzləri və restoranların pərdə və tülləri icra olunub. İşlər 2023–2026-ci ildə Baku Boulevard Hotel Company sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 57,
@@ -458,14 +460,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/dtx.webp",
     "source": "https://president.az/az/articles/view/62353",
-    "sourceLabel": "President.az · DTX interyeri",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "DTX – Mərkəzi bina",
     "scope": [
-      "Pərdə, jalüz, motor sistemləri"
+      "Pərdə və jalüzlər"
     ],
     "projectYear": "2023, 2024, 2025, 2026",
-    "client": "DTX",
-    "description": "DTX – Mərkəzi bina. Görülən iş: Pərdə, jalüz, motor sistemləri. İl: 2023, 2024, 2025, 2026. Sifarişçi: DTX."
+    "client": "Dövlət Təhlükəsizliyi Xidməti",
+    "description": "Dövlət Təhlükəsizliyi Xidmətinin mərkəzi binası üçün pərdə və jalüz işləri görülüb. Motorlu sistemlər də daxil olan işlər 2023–2026-cı illərdə DTX sifarişi ilə icra edilib."
   },
   {
     "id": 28,
@@ -490,14 +492,15 @@
     "location": "Bakı",
     "image": "assets/projects/web/courtyard.webp",
     "source": "https://www.marriott.com/en-us/hotels/gydcy-courtyard-baku/rooms/",
-    "sourceLabel": "Courtyard by Marriott Baku · otaq interyeri",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Courtyard by Marriott Hotel",
     "scope": [
-      "Pərdə və jalüz"
+      "490 otaq üçün yanğına davamlı dekorativ pərdələr və tüllər",
+      "karnizlərin montajı"
     ],
     "projectYear": "2020",
-    "client": "PASHA CONSTRUCTİONS MMC",
-    "description": "Courtyard by Marriott Hotel. Görülən iş: Pərdə və jalüz. İl: 2020. Sifarişçi: PASHA CONSTRUCTİONS MMC."
+    "client": "Pasha Constructions MMC",
+    "description": "Courtyard by Marriott Hotel layihəsi çərçivəsində 490 otaq üçün yanğına davamlı dekorativ pərdələr və tüllər; karnizlərin montajı icra olunub. İşlər 2020-ci ildə Pasha Constructions MMC sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 59,
@@ -524,14 +527,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/presadmin.webp",
     "source": "https://report.az/xarici-siyaset/ilham-eliyevin-ali-avrasiya-iqtisadi-surasinin-iclasinda-ve-mdb-dovlet-bascilarinin-qeyri-resmi-zirve-gorusunde-istirak-etmemesinin-sebebleri-aciqlanib",
-    "sourceLabel": "Report.az · Prezident Administrasiyası",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Azərbaycan Respublikası Prezidentinin Administrasiyası",
     "scope": [
-      "Qeyd olunmayıb"
+      "İnzibati binanın otaqları üçün gün qoruyucuları və tüllərin tikilib montajı"
     ],
     "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "Azərbaycan Respublikası Prezidentinin Administrasiyası. Görülən iş: Qeyd olunmayıb. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "client": "Prezident Aparatı",
+    "description": "Azərbaycan Respublikası Prezidentinin Administrasiyası layihəsi çərçivəsində inzibati binanın otaqları üçün gün qoruyucuları və tüllərin tikilib montajı icra olunub. İşlər sənəddə göstərilən məlumata əsasən Prezident Aparatı sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 30,
@@ -556,14 +559,15 @@
     "location": "Bakı",
     "image": "assets/projects/web/sapphire.webp",
     "source": "https://www.sapphire.az/en/hotels/bayil/rooms/4",
-    "sourceLabel": "Sapphire Bayil · rəsmi otaq interyeri",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Sapphire Bayil Hotel",
     "scope": [
-      "Pərdə və Hotel tekstili"
+      "Otelin pərdə və tülləri",
+      "otaqlar üçün yataq tekstili"
     ],
-    "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "Sapphire Bayil Hotel. Görülən iş: Pərdə və Hotel tekstili. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "projectYear": "2018",
+    "client": "AZMAN Holdinq",
+    "description": "Sapphire Bayil Hotel layihəsi çərçivəsində otelin pərdə və tülləri; otaqlar üçün yataq tekstili icra olunub. İşlər 2018-ci ildə AZMAN Holdinq sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 60,
@@ -590,14 +594,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/meclis.webp",
     "source": "https://www.turkiyetoday.com/region/azerbaijan-to-hold-early-parliamentary-elections-on-sept-1-47157/",
-    "sourceLabel": "Türkiye Today · Milli Məclis",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Azərbaycan Respublikasının Milli Məclisi",
     "scope": [
-      "Qeyd olunmayıb"
+      "İnzibati otaqlarda jalüz işləri"
     ],
-    "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "Azərbaycan Respublikasının Milli Məclisi. Görülən iş: Qeyd olunmayıb. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "projectYear": "2019",
+    "client": "Milli Məclis",
+    "description": "Azərbaycan Respublikasının Milli Məclisi layihəsi çərçivəsində inzibati otaqlarda jalüz işləri icra olunub. İşlər 2019-ci ildə Milli Məclis sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 78,
@@ -641,14 +645,14 @@
     "location": "Nardaran",
     "image": "assets/projects/web/seabreeze.webp",
     "source": "https://booking.seabreeze.az/en/hotel/442",
-    "sourceLabel": "Sea Breeze · otaq interyeri",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Sea Breeze Grand Hotel",
     "scope": [
-      "Pərdə və jalüz"
+      "Bütün otaqların pərdələri"
     ],
     "projectYear": "2023",
-    "client": "Qeyd olunmayıb",
-    "description": "Sea Breeze Grand Hotel. Görülən iş: Pərdə və jalüz. İl: 2023. Sifarişçi: Qeyd olunmayıb."
+    "client": "Crocus Construction MMC",
+    "description": "Sea Breeze Grand Hotel layihəsi çərçivəsində bütün otaqların pərdələri icra olunub. İşlər 2023-ci ildə Crocus Construction MMC sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 61,
@@ -675,8 +679,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/portwalk.webp",
     "source": "https://pbw.az/en",
-    "sourceLabel": "Port Baku Walk · rəsmi lobby qalereyası",
-    "alt": "Port Baku Walk"
+    "sourceLabel": "Sarvagelli layihə siyahısı",
+    "alt": "Port Baku Walk",
+    "projectYear": "2025",
+    "client": "NORTH WEST",
+    "scope": [
+      "Mərkəzi ofisin jalüzləri"
+    ],
+    "description": "Port Baku Walk layihəsi çərçivəsində mərkəzi ofisin jalüzləri icra olunub. İşlər 2025-ci ildə NORTH WEST sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 7,
@@ -685,14 +695,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/defense.webp",
     "source": "https://en.apa.az/military/azerbaijan-armys-serviceman-graduated-from-chinese-army-command-college-with-honors-424417",
-    "sourceLabel": "APA · Müdafiə Nazirliyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Azərbaycan Respublikası Müdafiə Nazirliyi",
     "scope": [
-      "Qeyd olunmayıb"
+      "N saylı hərbi hissələr üçün jalüzlər"
     ],
-    "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "Azərbaycan Respublikası Müdafiə Nazirliyi. Görülən iş: Qeyd olunmayıb. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "projectYear": "2023",
+    "client": "Müdafiə Nazirliyi",
+    "description": "Azərbaycan Respublikası Müdafiə Nazirliyi layihəsi çərçivəsində n saylı hərbi hissələr üçün jalüzlər icra olunub. İşlər 2023-ci ildə Müdafiə Nazirliyi sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 77,
@@ -770,14 +780,14 @@
     "location": "Şahdağ",
     "image": "assets/projects/web/shahski.webp",
     "source": "https://opensystems.az/industrial",
-    "sourceLabel": "Open Systems · Şahdağ kompleksi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Ski Club Shahdag",
     "scope": [
-      "Motorlu jalüz"
+      "Motorlu jalüzlər"
     ],
     "projectYear": "2025",
-    "client": "ARCHİCO",
-    "description": "Ski Club Shahdag. Görülən iş: Motorlu jalüz. İl: 2025. Sifarişçi: ARCHİCO."
+    "client": "ArchiCO",
+    "description": "Ski Club Shahdag layihəsi çərçivəsində motorlu jalüzlər icra olunub. İşlər 2025-ci ildə ArchiCO sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 62,
@@ -804,8 +814,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/deniz.webp",
     "source": "https://www.pashamalls.az/portfolio/deniz-br-mall",
-    "sourceLabel": "PASHA Malls · Dəniz Mall",
-    "alt": "Dəniz Mall"
+    "sourceLabel": "Sarvagelli layihə siyahısı",
+    "alt": "Dəniz Mall",
+    "projectYear": "2022",
+    "client": "Pasha Mall Management",
+    "scope": [
+      "Rəhbər heyətin inzibati otaqlarında jalüzlər"
+    ],
+    "description": "Dəniz Mall layihəsi çərçivəsində rəhbər heyətin inzibati otaqlarında jalüzlər icra olunub. İşlər 2022-ci ildə Pasha Mall Management sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 8,
@@ -814,14 +830,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/anticorruption.webp",
     "source": "https://teleqraf.az/news/yasavul/260260.html",
-    "sourceLabel": "Teleqraf · Korrupsiyaya qarşı Mübarizə Baş İdarəsi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi",
     "scope": [
-      "Qeyd olunmayıb"
+      "Rəhbər şəxslərin otaqları üçün pərdə və jalüzlər"
     ],
-    "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi. Görülən iş: Qeyd olunmayıb. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "projectYear": "2024",
+    "client": "Baş Prokurorluq",
+    "description": "Baş Prokuror yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi layihəsi çərçivəsində rəhbər şəxslərin otaqları üçün pərdə və jalüzlər icra olunub. İşlər 2024-ci ildə Baş Prokurorluq sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 36,
@@ -864,14 +880,14 @@
     "location": "Şahdağ",
     "image": "assets/projects/web/shahlake.webp",
     "source": "https://www.shahdag.az/az/hotel/lakeside-hotel",
-    "sourceLabel": "Shahdag.az · LakeSide Hotel",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Lake Side Shahdag",
     "scope": [
-      "jalüz"
+      "Jalüzlər"
     ],
     "projectYear": "2025",
-    "client": "ARCHİCO",
-    "description": "Lake Side Shahdag. Görülən iş: jalüz. İl: 2025. Sifarişçi: ARCHİCO."
+    "client": "ArchiCO",
+    "description": "Lake Side Shahdag layihəsi çərçivəsində jalüzlər icra olunub. İşlər 2025-ci ildə ArchiCO sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 63,
@@ -898,14 +914,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/crescent.webp",
     "source": "https://crescentmall.az/",
-    "sourceLabel": "Crescent Mall · rəsmi interyer",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Crescent Mall",
     "scope": [
-      "Pərdə və jalüz"
+      "Pərdə və jalüzlər"
     ],
     "projectYear": "2025",
-    "client": "AYPARA DEVELOPMENT",
-    "description": "Crescent Mall. Görülən iş: Pərdə və jalüz. İl: 2025. Sifarişçi: AYPARA DEVELOPMENT."
+    "client": "Aypara Development",
+    "description": "Crescent Mall layihəsi çərçivəsində pərdə və jalüzlər icra olunub. İşlər 2025-ci ildə Aypara Development sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 17,
@@ -914,14 +930,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/knightsbridge.webp",
     "source": "https://serealdesign.com/project-knightsbridge-residence-021",
-    "sourceLabel": "Sereal Design · Knightsbridge interyeri",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Knightsbridge Residence White City",
     "scope": [
-      "Pərdə və jalüz"
+      "100 VIP mənzilin pərdə və karnizləri"
     ],
     "projectYear": "2024",
-    "client": "WORKPLACE INTERIORS",
-    "description": "Knightsbridge Residence White City. Görülən iş: Pərdə və jalüz. İl: 2024. Sifarişçi: WORKPLACE INTERIORS."
+    "client": "Workplace Interiors",
+    "description": "Knightsbridge Residence White City layihəsi çərçivəsində 100 VIP mənzilin pərdə və karnizləri icra olunub. İşlər 2024-ci ildə Workplace Interiors sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 10,
@@ -930,14 +946,14 @@
     "location": "Zəngilan",
     "image": "assets/projects/web/zangilan.webp",
     "source": "https://report.az/daxili-siyaset/zengilan-konqres-merkezi-kompleksinin-acilisi-olub",
-    "sourceLabel": "Report.az · Zəngilan Konqres Mərkəzi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Zəngilan Konqres Mərkəzi",
     "scope": [
       "Motorlu jalüzlər"
     ],
     "projectYear": "2023",
-    "client": "TVM INŞAAT",
-    "description": "Zəngilan Konqres Mərkəzi. Görülən iş: Motorlu jalüzlər. İl: 2023. Sifarişçi: TVM INŞAAT."
+    "client": "TVM İnşaat",
+    "description": "Zəngilan Konqres Mərkəzi layihəsi çərçivəsində motorlu jalüzlər icra olunub. İşlər 2023-ci ildə TVM İnşaat sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 16,
@@ -946,14 +962,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/aquatic.webp",
     "source": "https://commons.wikimedia.org/wiki/File:Baku_Aquatic_Palace,_Azerbaijan,_Caspian_Sea_shore,_Boulevard.jpg",
-    "sourceLabel": "Ahl Baku · CC BY-SA 4.0 · Wikimedia Commons",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Su İdman Sarayı",
     "scope": [
-      "JALÜZ"
+      "Motorlu jalüzlər"
     ],
     "projectYear": "2022",
-    "client": "SU İDMAN SARAYI",
-    "description": "Su İdman Sarayı. Görülən iş: JALÜZ. İl: 2022. Sifarişçi: SU İDMAN SARAYI."
+    "client": "Su İdman Sarayı",
+    "description": "Su İdman Sarayı layihəsi çərçivəsində motorlu jalüzlər icra olunub. İşlər 2022-ci ildə Su İdman Sarayı sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 38,
@@ -1089,14 +1105,15 @@
     "location": "Bakı",
     "image": "assets/projects/web/athletes.webp",
     "source": "https://www.hotels.com/ho3568004416/",
-    "sourceLabel": "Bakı Atletlər Kəndi · interyer görünüşü",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Bakı Atletlər Kəndi",
     "scope": [
-      "Pərdə və Jalüz"
+      "400 mənzilin pərdə və tülləri",
+      "işlər 50 iş günü müddətində tamamlanıb"
     ],
     "projectYear": "2024",
-    "client": "PMD GROUP",
-    "description": "Bakı Atletlər Kəndi. Görülən iş: Pərdə və Jalüz. İl: 2024. Sifarişçi: PMD GROUP."
+    "client": "PMD Group",
+    "description": "Bakı Atletlər Kəndi layihəsi çərçivəsində 400 mənzilin pərdə və tülləri; işlər 50 iş günü müddətində tamamlanıb icra olunub. İşlər 2024-ci ildə PMD Group sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 45,
@@ -1121,14 +1138,14 @@
     "location": "Bakı",
     "image": "assets/projects/web/yacht.webp",
     "source": "https://www.tripadvisor.com.au/Hotel_Review-g293934-d4271765-Reviews-Yacht_Club-Baku_Absheron_Region.html",
-    "sourceLabel": "Tripadvisor · Yacht Club",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Yacht Club",
     "scope": [
-      "Jalüz"
+      "Otaq tekstili, yataq dəstləri, matraslar, pərdələr və jalüzlər"
     ],
-    "projectYear": "Qeyd olunmayıb",
-    "client": "Qeyd olunmayıb",
-    "description": "Yacht Club. Görülən iş: Jalüz. İl: Qeyd olunmayıb. Sifarişçi: Qeyd olunmayıb."
+    "projectYear": "2019",
+    "client": "Xəzər Dəniz Gəmiçiliyi (ASCO)",
+    "description": "Yacht Club layihəsi çərçivəsində otaq tekstili, yataq dəstləri, matraslar, pərdələr və jalüzlər icra olunub. İşlər 2019-ci ildə Xəzər Dəniz Gəmiçiliyi (ASCO) sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 52,
@@ -1290,14 +1307,15 @@
     "location": "Bakı",
     "image": "assets/projects/web/porttower.webp",
     "source": "https://www.savills.co.uk/services/consultancy/projects/port-baku-towers.aspx",
-    "sourceLabel": "Savills · Port Baku Towers interyeri",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Port Baku Tower 2",
     "scope": [
-      "Pərdə, jalüz və motor sistemləri"
+      "Kapital Bank mərkəzi ofisi, Mackenzie Global ofisi və Paşa Holdinq rəhbər heyətinin ofisləri üçün motorlu jalüz və pərdələr",
+      "28 mərtəbənin pərdə və jalüzləri"
     ],
     "projectYear": "2024, 2025, 2026",
-    "client": "PMD PROJECTS",
-    "description": "Port Baku Tower 2. Görülən iş: Pərdə, jalüz və motor sistemləri. İl: 2024, 2025, 2026. Sifarişçi: PMD PROJECTS."
+    "client": "PMD Projects",
+    "description": "Port Baku Tower 2 layihəsi çərçivəsində kapital Bank mərkəzi ofisi, Mackenzie Global ofisi və Paşa Holdinq rəhbər heyətinin ofisləri üçün motorlu jalüz və pərdələr; 28 mərtəbənin pərdə və jalüzləri icra olunub. İşlər 2024, 2025, 2026-ci ildə PMD Projects sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 81,
@@ -1306,14 +1324,14 @@
     "location": "Xankəndi",
     "alt": "Xankəndi Dövlət Dram Teatrının tarixi fasadı",
     "scope": [
-      "pərdələr və jalüzlər"
+      "Pərdələr və jalüzlər"
     ],
     "projectYear": "2026",
-    "client": "TEA MONTAJ – M",
-    "description": "Xankəndi Dövlət Dram Teatrı. Görülən iş: pərdələr və jalüzlər. İl: 2026. Sifarişçi: TEA MONTAJ – M.",
+    "client": "TEA Montaj",
+    "description": "Xankəndi Dövlət Dram Teatrı layihəsi çərçivəsində pərdələr və jalüzlər icra olunub. İşlər 2026-ci ildə TEA Montaj sifarişçisi üçün həyata keçirilib.",
     "image": "https://static.president.az/upload/1960x1292/2024/09/19/1726769232_e5be9cfa04a863d792951f93ef429b19.jpg",
     "source": "https://president.az/az/articles/view/66873/images",
-    "sourceLabel": "Azərbaycan Prezidentinin rəsmi saytı · Xankəndi Dövlət Dram Teatrı"
+    "sourceLabel": "Sarvagelli layihə siyahısı"
   },
   {
     "id": 82,
@@ -1322,14 +1340,14 @@
     "location": "Ağdam",
     "alt": "Ağdam Residence yaşayış kompleksi",
     "scope": [
-      "Pərdələr"
+      "209 yaşayış mənzilinin pərdə və karnizləri"
     ],
     "projectYear": "2025",
-    "client": "FMG (FACİLİTY MANAGEMENT GROUP)",
-    "description": "Ağdam Residence. Görülən iş: Pərdələr. İl: 2025. Sifarişçi: FMG (FACİLİTY MANAGEMENT GROUP).",
+    "client": "FMG (Facility Management Group)",
+    "description": "Ağdam Residence layihəsi çərçivəsində 209 yaşayış mənzilinin pərdə və karnizləri icra olunub. İşlər 2025-ci ildə FMG (Facility Management Group) sifarişçisi üçün həyata keçirilib.",
     "image": "https://fmg.az/file/189/full/gall_6.jpeg",
     "source": "https://fmg.az/az/aghdam-residence",
-    "sourceLabel": "FMG · Ağdam Residence"
+    "sourceLabel": "Sarvagelli layihə siyahısı"
   },
   {
     "id": 83,
@@ -1338,14 +1356,14 @@
     "location": "Xankəndi",
     "alt": "Xankəndidə Qarabağ Regional Memarlıq və Şəhərsalma Baş İdarəsinin inzibati binası",
     "scope": [
-      "jalüz və motor sistemləri"
+      "Jalüz və motor sistemləri"
     ],
     "projectYear": "2026",
-    "client": "ARTCHİCO",
-    "description": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi. Görülən iş: jalüz və motor sistemləri. İl: 2026. Sifarişçi: ARTCHİCO.",
+    "client": "ArchiCO",
+    "description": "Qarabağ Memarlıq və Şəhərsalma Baş İdarəsi layihəsi çərçivəsində jalüz və motor sistemləri icra olunub. İşlər 2026-ci ildə ArchiCO sifarişçisi üçün həyata keçirilib.",
     "image": "https://api.archico.az/storage/1030/2-%281%29.jpg",
     "source": "https://archico.az/az/projects/public-social-4617474028416453",
-    "sourceLabel": "ArchiCO · Qarabağ Regional Memarlıq və Şəhərsalma Baş İdarəsinin inzibati binası"
+    "sourceLabel": "Sarvagelli layihə siyahısı"
   },
   {
     "id": 84,
@@ -1370,14 +1388,14 @@
     "location": "Bakı",
     "image": "https://www.gromep.com/cdn.prod.website-files.com/64c8f24d0cbf381af9a2523e/68dff5a271bcebb71cd771b5_IMG_8894.JPG",
     "source": "https://www.gromep.com/project/cdp-city-tower-levels-7-18-21-25-26-31-32-33-tenant.html",
-    "sourceLabel": "CITY TOWER — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "CDP City Tower binasının ofis mərtəbələrindən foto",
     "scope": [
-      "AGRODAIRY, GAZPROM GLOBAL və TRENDYOL ofislərinin, eləcə də binanın 15 mərtəbəsinin pərdə və jalüzləri"
+      "AgroDairy, Gazprom Global və Trendyol ofisləri daxil olmaqla 15 mərtəbənin pərdə və jalüzləri"
     ],
     "projectYear": "2024–2026",
     "client": "Pasha Real Estate",
-    "description": "CITY TOWER. Görülən iş: AGRODAIRY, GAZPROM GLOBAL və TRENDYOL ofislərinin, eləcə də binanın 15 mərtəbəsinin pərdə və jalüzləri. İl: 2024–2026. Sifarişçi: Pasha Real Estate."
+    "description": "CITY TOWER layihəsi çərçivəsində agroDairy, Gazprom Global və Trendyol ofisləri daxil olmaqla 15 mərtəbənin pərdə və jalüzləri icra olunub. İşlər 2024–2026-ci ildə Pasha Real Estate sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 86,
@@ -1386,14 +1404,14 @@
     "location": "Bakı",
     "image": "https://www.ucb.az/medias/location/big/38/img-9858.jpg",
     "source": "https://www.ucb.az/az/filiallar",
-    "sourceLabel": "United Coffee Beans — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "United Coffee Beans məkanının interyeri",
     "scope": [
       "Batareyalı və motorlu jalüzlər"
     ],
     "projectYear": "2025",
-    "client": "United Coffeee",
-    "description": "United Coffee Beans. Görülən iş: Batareyalı və motorlu jalüzlər. İl: 2025. Sifarişçi: United Coffeee."
+    "client": "United Coffee",
+    "description": "United Coffee Beans layihəsi çərçivəsində batareyalı və motorlu jalüzlər icra olunub. İşlər 2025-ci ildə United Coffee sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 87,
@@ -1402,14 +1420,14 @@
     "location": "Bakı",
     "image": "https://azerbaijan360.az/site/assets/files/2899/neshve-m-10112024_221318.jpg?nc=1729171440",
     "source": "https://azerbaijan360.az/what-to-see/restaurants/neshve-mutfak/",
-    "sourceLabel": "Nəşvə restoranı — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Nəşvə Mutfak restoranının interyeri",
     "scope": [
       "Təbii kətan pərdələr"
     ],
     "projectYear": "2019",
-    "client": "Nəşvə restoranı",
-    "description": "Nəşvə restoranı. Görülən iş: Təbii kətan pərdələr. İl: 2019. Sifarişçi: Nəşvə restoranı."
+    "client": "Nəşvə Restoranı",
+    "description": "Nəşvə restoranı layihəsi çərçivəsində təbii kətan pərdələr icra olunub. İşlər 2019-ci ildə Nəşvə Restoranı sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 88,
@@ -1418,14 +1436,14 @@
     "location": "Bakı",
     "image": "https://cornichehotelbaku.com/img/59a7869a60e9075d.webp",
     "source": "https://cornichehotelbaku.com/az-latn-az/",
-    "sourceLabel": "Corniche Hotel — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Corniche Hotel Baku",
     "scope": [
-      "Otelin pərdələri və otel tekstili"
+      "Otel pərdələri və otel tekstili"
     ],
     "projectYear": "2018",
     "client": "Corniche Hotel",
-    "description": "Corniche Hotel. Görülən iş: Otelin pərdələri və otel tekstili. İl: 2018. Sifarişçi: Corniche Hotel."
+    "description": "Corniche Hotel layihəsi çərçivəsində otel pərdələri və otel tekstili icra olunub. İşlər 2018-ci ildə Corniche Hotel sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 89,
@@ -1434,14 +1452,14 @@
     "location": "Bakı",
     "image": "https://diamondhotel.az/img/be3ccd4429d6ee65.webp",
     "source": "https://diamondhotel.az/",
-    "sourceLabel": "Diamond Hotel — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Diamond Hotel Baku interyeri",
     "scope": [
-      "Otel tekstili və otelin bütün pərdələri və jalüzləri"
+      "Otel tekstili, pərdələr və jalüzlər"
     ],
     "projectYear": "2019",
     "client": "Diamond Hotel",
-    "description": "Diamond Hotel. Görülən iş: Otel tekstili və otelin bütün pərdələri və jalüzləri. İl: 2019. Sifarişçi: Diamond Hotel."
+    "description": "Diamond Hotel layihəsi çərçivəsində otel tekstili, pərdələr və jalüzlər icra olunub. İşlər 2019-ci ildə Diamond Hotel sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 90,
@@ -1449,14 +1467,14 @@
     "category": "Ofis və maliyyə",
     "location": "Bakı",
     "source": "https://navigator.az/en/amara-plaza/",
-    "sourceLabel": "Amara Plaza — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Amara Plaza binası",
     "scope": [
       "Bütün plazanın pərdələri və jalüzləri"
     ],
     "projectYear": "2020",
     "client": "Amara Plaza",
-    "description": "Amara Plaza. Görülən iş: Bütün plazanın pərdələri və jalüzləri. İl: 2020. Sifarişçi: Amara Plaza."
+    "description": "Amara Plaza layihəsi çərçivəsində bütün plazanın pərdələri və jalüzləri icra olunub. İşlər 2020-ci ildə Amara Plaza sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 91,
@@ -1465,14 +1483,14 @@
     "location": "Bakı",
     "image": "https://www.bil.edu.az/storage/uploads/photo_5474162297128732108_y_1701542630.jpg",
     "source": "https://www.bil.edu.az/page/clubs",
-    "sourceLabel": "İstanbul liseyi — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Bakı Türk Anadolu Liseyinin tədris məkanı",
     "scope": [
-      "Pərdələr və jalüzlər"
+      "Pərdə və jalüzlər"
     ],
     "projectYear": "2024–2026",
-    "client": "İstanbul liseyi",
-    "description": "İstanbul liseyi. Görülən iş: Pərdələr və jalüzlər. İl: 2024–2026. Sifarişçi: İstanbul liseyi."
+    "client": "İstanbul Liseyi",
+    "description": "İstanbul liseyi layihəsi çərçivəsində pərdə və jalüzlər icra olunub. İşlər 2024–2026-ci ildə İstanbul Liseyi sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 92,
@@ -1481,14 +1499,14 @@
     "location": "Laçın",
     "image": "https://api.archico.az/storage/704/1748344954_f2de93cafeaf2f1d5d214803c444c3b1.jpg",
     "source": "https://archico.az/en/projects/cable-car-9617503305164069/lachin-cable-car-2717503381721574",
-    "sourceLabel": "Laçın kanat xətti — Sus kəndi — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Laçın kanat xətti layihəsi",
     "scope": [
-      "Jalüzlər"
+      "Laçın kanat xəttinin Sus kəndi hissəsində jalüzlər"
     ],
     "projectYear": "2026",
     "client": "ArchiCO",
-    "description": "Laçın kanat xətti — Sus kəndi. Görülən iş: Jalüzlər. İl: 2026. Sifarişçi: ArchiCO."
+    "description": "Laçın kanat xətti — Sus kəndi layihəsi çərçivəsində laçın kanat xəttinin Sus kəndi hissəsində jalüzlər icra olunub. İşlər 2026-ci ildə ArchiCO sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 93,
@@ -1497,14 +1515,14 @@
     "location": "Bakı",
     "image": "https://1news.az/images/2020/09/03/20200903105436314/1.jpg",
     "source": "https://1news.az/az/news/20200903105436314-UNEC-in-yeniden-insha-olunan-3-sayli-tedris-korpusu-istifadeye-verilib-FOTO-YENILENIB",
-    "sourceLabel": "UNEC 3-cü korpus — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "UNEC-in 3 saylı tədris korpusu",
     "scope": [
-      "Jalüzlər"
+      "3-cü korpusun jalüzləri"
     ],
     "projectYear": "2024",
     "client": "UNEC",
-    "description": "UNEC 3-cü korpus. Görülən iş: Jalüzlər. İl: 2024. Sifarişçi: UNEC."
+    "description": "UNEC 3-cü korpus layihəsi çərçivəsində 3-cü korpusun jalüzləri icra olunub. İşlər 2024-ci ildə UNEC sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 94,
@@ -1513,30 +1531,14 @@
     "location": "Bakı",
     "image": "https://baku.ws/storage/photos/uploads/thumbs/large/TCX3IjooMWGdBYtnCQ9eK5ZAf9MasEkubCNLvxRP.webp",
     "source": "https://baku.ws/promo/bakida-avenue-luks-seqment-mebel-ve-ev-aksesuarlari-magazasi-acilib",
-    "sourceLabel": "Avenue showroom — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Avenue showroom interyeri",
     "scope": [
-      "Bütün pərdələr"
+      "Showroomun bütün pərdələri"
     ],
     "projectYear": "2025",
     "client": "TVM İnşaat",
-    "description": "Avenue showroom. Görülən iş: Bütün pərdələr. İl: 2025. Sifarişçi: TVM İnşaat."
-  },
-  {
-    "id": 95,
-    "title": "Günaydın restoranı",
-    "category": "Qida və içki",
-    "location": "Bakı",
-    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/f1/52/a7/photo9jpg.jpg",
-    "source": "https://www.tripadvisor.com/Restaurant_Review-g293934-d6695016-Reviews-GunaydIn-Baku_Absheron_Region.html",
-    "sourceLabel": "Günaydın restoranı — foto mənbəyi",
-    "alt": "Günaydın restoranının interyeri",
-    "scope": [
-      "Jalüzlər"
-    ],
-    "projectYear": "2022",
-    "client": "Günaydın restoranı",
-    "description": "Günaydın restoranı. Görülən iş: Jalüzlər. İl: 2022. Sifarişçi: Günaydın restoranı."
+    "description": "Avenue showroom layihəsi çərçivəsində showroomun bütün pərdələri icra olunub. İşlər 2025-ci ildə TVM İnşaat sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 96,
@@ -1549,7 +1551,8 @@
     ],
     "projectYear": "2026",
     "client": "ADEL Interiors",
-    "description": "ADEL Interiors. Görülən iş: Pərdə motorları. İl: 2026. Sifarişçi: ADEL Interiors."
+    "description": "ADEL Interiors layihəsi çərçivəsində pərdə motorları icra olunub. İşlər 2026-ci ildə ADEL Interiors sifarişçisi üçün həyata keçirilib.",
+    "sourceLabel": "Sarvagelli layihə siyahısı"
   },
   {
     "id": 97,
@@ -1562,7 +1565,8 @@
     ],
     "projectYear": "2026",
     "client": "Fontana Grande",
-    "description": "GİG (Global İnşaat Group). Görülən iş: Troslu jalüzlər. İl: 2026. Sifarişçi: Fontana Grande."
+    "description": "GİG (Global İnşaat Group) layihəsi çərçivəsində troslu jalüzlər icra olunub. İşlər 2026-ci ildə Fontana Grande sifarişçisi üçün həyata keçirilib.",
+    "sourceLabel": "Sarvagelli layihə siyahısı"
   },
   {
     "id": 98,
@@ -1575,7 +1579,8 @@
     ],
     "projectYear": "2026",
     "client": "Bulvar GYM",
-    "description": "BULVAR GYM. Görülən iş: İdman zalında motorlu jalüzlərin təmiri. İl: 2026. Sifarişçi: Bulvar GYM."
+    "description": "BULVAR GYM layihəsi çərçivəsində idman zalında motorlu jalüzlərin təmiri icra olunub. İşlər 2026-ci ildə Bulvar GYM sifarişçisi üçün həyata keçirilib.",
+    "sourceLabel": "Sarvagelli layihə siyahısı"
   },
   {
     "id": 99,
@@ -1583,14 +1588,14 @@
     "category": "Ofis və maliyyə",
     "location": "Bakı",
     "source": "https://capitalconstruction.az/projects",
-    "sourceLabel": "Capital Construction — rəsmi layihə səhifəsi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Capital Construction layihələri",
     "scope": [
       "Pərdə və jalüzlər"
     ],
     "projectYear": "2025",
     "client": "Capital Constructions",
-    "description": "CAPITAL CONSTRUCTION OFİS. Görülən iş: Pərdə və jalüzlər. İl: 2025. Sifarişçi: Capital Constructions."
+    "description": "CAPITAL CONSTRUCTION OFİS layihəsi çərçivəsində pərdə və jalüzlər icra olunub. İşlər 2025-ci ildə Capital Constructions sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 100,
@@ -1599,11 +1604,12 @@
     "location": "Lökbatan",
     "alt": "Lökbatan məktəb binası",
     "scope": [
-      "Bütün liseyin horizontal jalüzləri"
+      "Bütün lisey üzrə horizontal jalüzlər"
     ],
     "projectYear": "2024",
     "client": "Lökbatan peşə liseyi",
-    "description": "Lökbatan peşə liseyi. Görülən iş: Bütün liseyin horizontal jalüzləri. İl: 2024. Sifarişçi: Lökbatan peşə liseyi."
+    "description": "Lökbatan peşə liseyi layihəsi çərçivəsində bütün lisey üzrə horizontal jalüzlər icra olunub. İşlər 2024-ci ildə Lökbatan peşə liseyi sifarişçisi üçün həyata keçirilib.",
+    "sourceLabel": "Sarvagelli layihə siyahısı"
   },
   {
     "id": 101,
@@ -1612,11 +1618,12 @@
     "location": "Bakı",
     "alt": "Bakı klinikasının qəbul sahəsi",
     "scope": [
-      "Bütün mərtəbələrin və rəhbər otağının jalüzləri"
+      "Bütün mərtəbələrdə və rəhbər otağında jalüzlər"
     ],
     "projectYear": "2025",
     "client": "Green Klinik",
-    "description": "Green Klinik. Görülən iş: Bütün mərtəbələrin və rəhbər otağının jalüzləri. İl: 2025. Sifarişçi: Green Klinik."
+    "description": "Green Klinik layihəsi çərçivəsində bütün mərtəbələrdə və rəhbər otağında jalüzlər icra olunub. İşlər 2025-ci ildə Green Klinik sifarişçisi üçün həyata keçirilib.",
+    "sourceLabel": "Sarvagelli layihə siyahısı"
   },
   {
     "id": 102,
@@ -1625,14 +1632,14 @@
     "location": "Bakı",
     "image": "https://ikisahil.az/photo/800x500_2/upload/resize/resize_66ac8b6404e2d0b70da4d7de061717bb.jpg",
     "source": "https://ikisahil.az/post/news-831",
-    "sourceLabel": "Neft Qaz Elmi-Tədqiqat Layihə İnstitutu — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Neft Qaz Elmi-Tədqiqat Layihə İnstitutu",
     "scope": [
       "Rimski jalüzlər"
     ],
     "projectYear": "2023",
-    "client": "SOCAR Baş İdarə",
-    "description": "Neft Qaz Elmi-Tədqiqat Layihə İnstitutu. Görülən iş: Rimski jalüzlər. İl: 2023. Sifarişçi: SOCAR Baş İdarə."
+    "client": "SOCAR Baş İdarəsi",
+    "description": "Neft Qaz Elmi-Tədqiqat Layihə İnstitutu layihəsi çərçivəsində rimski jalüzlər icra olunub. İşlər 2023-ci ildə SOCAR Baş İdarəsi sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 103,
@@ -1645,7 +1652,8 @@
     ],
     "projectYear": "2025",
     "client": "Gizli Bahçe restoranı",
-    "description": "Gizli Bahçe restoranı. Görülən iş: Jalüzlər. İl: 2025. Sifarişçi: Gizli Bahçe restoranı."
+    "description": "Gizli Bahçe restoranı layihəsi çərçivəsində jalüzlər icra olunub. İşlər 2025-ci ildə Gizli Bahçe restoranı sifarişçisi üçün həyata keçirilib.",
+    "sourceLabel": "Sarvagelli layihə siyahısı"
   },
   {
     "id": 104,
@@ -1654,14 +1662,14 @@
     "location": "Bakı",
     "image": "https://monyo.az/v4/uploads/a_989_2022031100041334605828.jpg",
     "source": "https://monyo.az/?r=narsharab_restaurant",
-    "sourceLabel": "Nar şərab restoranı — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Nar şərab restoranının interyeri",
     "scope": [
       "Pərdələr və boru karnizlər"
     ],
     "projectYear": "2025",
-    "client": "Nar şərab restoranı",
-    "description": "Nar şərab restoranı. Görülən iş: Pərdələr və boru karnizlər. İl: 2025. Sifarişçi: Nar şərab restoranı."
+    "client": "Nar Şərab restoranı",
+    "description": "Nar şərab restoranı layihəsi çərçivəsində pərdələr və boru karnizlər icra olunub. İşlər 2025-ci ildə Nar Şərab restoranı sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 105,
@@ -1670,14 +1678,14 @@
     "location": "Xaçmaz",
     "image": "https://azertag.az/files/galleryphoto/2021/3/1200x630/163343279120903532_1200x630.jpg",
     "source": "https://azertag.az/xeber/zefer_gununde_xachmaz_seherinde_yeni_park_istifadeye_verilecek_video-1893869",
-    "sourceLabel": "Xaçmaz Zəfər parkı — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Xaçmaz Zəfər parkı",
     "scope": [
       "Pərdələr, tüllər, günlüklər və jalüzlər"
     ],
     "projectYear": "2026",
     "client": "ArchiCO",
-    "description": "Xaçmaz Zəfər parkı. Görülən iş: Pərdələr, tüllər, günlüklər və jalüzlər. İl: 2026. Sifarişçi: ArchiCO."
+    "description": "Xaçmaz Zəfər parkı layihəsi çərçivəsində pərdələr, tüllər, günlüklər və jalüzlər icra olunub. İşlər 2026-ci ildə ArchiCO sifarişçisi üçün həyata keçirilib."
   },
   {
     "id": 106,
@@ -1685,14 +1693,14 @@
     "category": "Qida və içki",
     "location": "Bakı",
     "source": "https://www.behance.net/gallery/70303991/Emirgan-Suetis-for-SAVATLI-Architects",
-    "sourceLabel": "Emirgan Sütiş restoranı — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Emirgan Sütiş restoranının interyer layihəsi",
     "scope": [
       "Pərdələr və səhnə pərdəsi"
     ],
     "projectYear": "2025",
     "client": "Emirgan Sütiş restoranı",
-    "description": "Emirgan Sütiş restoranı. Görülən iş: Pərdələr və səhnə pərdəsi. İl: 2025. Sifarişçi: Emirgan Sütiş restoranı.",
+    "description": "Emirgan Sütiş restoranı layihəsi çərçivəsində pərdələr və səhnə pərdəsi icra olunub. İşlər 2025-ci ildə Emirgan Sütiş restoranı sifarişçisi üçün həyata keçirilib.",
     "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/a3ab9170303991.5c1787886d668.jpg"
   },
   {
@@ -1702,13 +1710,29 @@
     "location": "Bakı",
     "image": "https://heydar-aliyev-foundation.org/uploads/images/img_1846_slide2.jpg",
     "source": "https://heydar-aliyev-foundation.org/en/gallery/view/2/182/Thalassemia-Center-in-Baku",
-    "sourceLabel": "Respublika Talassemiya mərkəzi — foto mənbəyi",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
     "alt": "Respublika Talassemiya Mərkəzinin binası",
     "scope": [
       "Antibakterial jalüzlər"
     ],
     "projectYear": "2020",
     "client": "Səhiyyə Nazirliyi",
-    "description": "Respublika Talassemiya mərkəzi. Görülən iş: Antibakterial jalüzlər. İl: 2020. Sifarişçi: Səhiyyə Nazirliyi."
+    "description": "Respublika Talassemiya mərkəzi layihəsi çərçivəsində antibakterial jalüzlər icra olunub. İşlər 2020-ci ildə Səhiyyə Nazirliyi sifarişçisi üçün həyata keçirilib."
+  },
+  {
+    "id": 108,
+    "title": "Qax Rayon Yurd Otel Kompleksi",
+    "category": "Otelçilik",
+    "location": "Qax",
+    "alt": "Qax Rayon Yurd Otel Kompleksi",
+    "scope": [
+      "Otel tekstili",
+      "Matraslar",
+      "Yataq dəstləri"
+    ],
+    "projectYear": "2018",
+    "client": "Ulu Hospitality",
+    "sourceLabel": "Sarvagelli layihə siyahısı",
+    "description": "Qax Rayon Yurd Otel Kompleksi üçün otel tekstili, matraslar və yataq dəstləri təchiz edilib. Layihə 2018-ci ildə Ulu Hospitality sifarişçisi üçün həyata keçirilib."
   }
 ]
