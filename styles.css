@@ -646,7 +646,6 @@ img { max-width: 100%; }
 
 /* Recommendation gallery styled to match the reference page */
 .recommendations-page {
-  margin-inline: calc(-1 * var(--page-x));
   padding-inline: var(--page-x);
   background: #fbfcfa;
   color: #161916;
